@@ -36,6 +36,7 @@ const _shots = [
   _Shot('oyun-turk-damasi', 43, _none),
   _Shot('oyun-go', 61, _none),
   _Shot('oyun-dortle', 23, _none),
+  _Shot('oyun-langirt', 30, _none),
 ];
 
 Widget _app(String lang, Widget child) => MaterialApp(
