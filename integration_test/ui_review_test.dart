@@ -160,7 +160,11 @@ void main() {
     await shot('gelen_davet');
     await step('daveti ertele', () => tapText(t.t('later')));
 
-    await step('botlarla basla', () => tapText(t.t('start_with_bots')));
+    await step('arkadas koda katiliyor', () async {
+      final code = server.matches.values.last.code;
+      await friend.joinByCode(code);
+      await wait(1500);
+    });
     await wait(3000);
     await shot('cevrimici_masa');
     await step('sohbet', () async {
@@ -178,6 +182,16 @@ void main() {
       await wait();
     });
     await shot('hediyeler');
+    await step('hediye gonder', () async {
+      await tester.tap(find.text('☕').last);
+      await wait(800);
+    });
+    await shot('hediye_balonu');
+    await step('oyuncular', () async {
+      await tester.tap(find.byIcon(Icons.people));
+      await wait();
+    });
+    await shot('masadaki_oyuncular');
 
     final out = File('${Directory.systemTemp.path}/review/log.txt');
     out.createSync(recursive: true);
