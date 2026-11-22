@@ -58,4 +58,17 @@ void main() {
       expect(g.rules.gameId, g.gameId, reason: 'kayıt öneki oyun kimliğiyle aynı olmalı');
     }
   });
+
+  test('her oyun ve grup bir bölüm başlığı altında', () {
+    final ids = {for (final s in hubConfig.sections) ...s.ids};
+    for (final g in hubConfig.games) {
+      expect(ids.contains(g.gameId), isTrue, reason: g.gameId);
+    }
+    for (final g in hubConfig.groups) {
+      expect(ids.contains(g.id), isTrue, reason: g.id);
+    }
+    for (final s in hubConfig.sections) {
+      expect(s.title.length, 33);
+    }
+  });
 }

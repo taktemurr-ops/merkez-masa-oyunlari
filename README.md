@@ -14,6 +14,7 @@ Masa ailesinin **merkez uygulaması**: aynı ailedeki oyunları tek mağaza uygu
 | Türk Daması | [oyun-turk-damasi](https://github.com/taktemurr-ops/oyun-turk-damasi) |
 | Satranç | [oyun-satranc](https://github.com/taktemurr-ops/oyun-satranc) |
 | Mangala | [oyun-mangala](https://github.com/taktemurr-ops/oyun-mangala) |
+| Bilardo | [oyun-bilardo](https://github.com/taktemurr-ops/oyun-bilardo) |
 | Dokuz Taş | [oyun-dokuz-tas](https://github.com/taktemurr-ops/oyun-dokuz-tas) |
 | Go | [oyun-go](https://github.com/taktemurr-ops/oyun-go) |
 | Tavla | [oyun-tavla](https://github.com/taktemurr-ops/oyun-tavla) |

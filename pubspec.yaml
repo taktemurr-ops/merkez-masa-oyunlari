@@ -13,7 +13,7 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 1f85ecc8148ee82f153db8b20c873c542948d8e2
+      ref: 6d77f85d94ecf720ef9b41305435c012864e66f8
   # Merkezdeki oyunlar (her biri kendi deposunda)
   oyun_xox:
     git:
@@ -51,6 +51,10 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-satranc
       ref: 47b561d7c2ea238f82891d64473c10cb318d3e61
+  oyun_bilardo:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-bilardo
+      ref: ee0d4d7759314b05f70540a4a2e4a6834eb912e8
   oyun_mangala:
     git:
       url: https://github.com/taktemurr-ops/oyun-mangala
@@ -228,7 +232,7 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 1f85ecc8148ee82f153db8b20c873c542948d8e2
+      ref: 6d77f85d94ecf720ef9b41305435c012864e66f8
   masa_motoru:
     git:
       url: https://github.com/taktemurr-ops/masa-motoru

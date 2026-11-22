@@ -1,9 +1,10 @@
-Trò Chơi Bàn Cờ gom 44 trò chơi bàn cờ và 38 biến thể vào một ứng dụng, với bàn cờ và quân cờ do chúng tôi tự thiết kế. Kinh điển chiến thuật như cờ vua và cờ đam, backgammon và trò xúc xắc, mancala và trò chơi nhanh; mỗi trò đều có tiến độ, nhiệm vụ và thành tích riêng.
+Trò Chơi Bàn Cờ gom 45 trò chơi bàn cờ và 38 biến thể vào một ứng dụng, với bàn cờ và quân cờ do chúng tôi tự thiết kế. Kinh điển chiến thuật như cờ vua và cờ đam, backgammon và trò xúc xắc, mancala và trò chơi nhanh; mỗi trò đều có tiến độ, nhiệm vụ và thành tích riêng.
 
 • Kinh điển chiến thuật: Cờ vua, Cờ đam, Cờ đam Thổ Nhĩ Kỳ, Cờ vây, Cờ lật, Cờ cối xay, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Cờ Nhảy, Fanorona, Đẩy Bi, Đua Tường, Hải Chiến, Cờ Tướng, Cờ Tướng Hàn, Cờ Nhật
 • Xếp hàng và kết nối: Cờ ca-rô 3×3, Bốn quân thẳng hàng, Cờ ca-rô, Năm và Bắt Quân, Sáu Quân Thẳng Hàng, Hex, Vòng và Cầu, Nối điểm thành ô, Góc Nối Góc
 • Xúc xắc và đua: Cờ tào cáo, Đừng nổi giận, Rắn và thang, Năm xúc xắc, Farkle, Xúc xắc nói dối, Trò Chơi Hoàng Gia Ur, Senet, Yut, Buôn Bán Nhà Đất, Thống Trị Thế Giới, Lập Làng
 • Trò chơi quân: Okey, 101 Okey, Domino, Mạt chược
+• Trò chơi kỹ năng: Bi-a
 • Gói biến thể: Các Biến Thể Cờ Vua (10), Các Biến Thể Cờ Đam (8), Trò Chơi Gieo Hạt (8), Các Biến Thể Backgammon (6), Biến thể Okey (3), Biến thể Mạt chược (3)
 
 Điểm nổi bật

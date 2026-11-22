@@ -85,6 +85,25 @@ Widget _gameScreen(GameConfig cfg, GeneratedLevel g, Map<String, Object?> resume
 /// Görseller açılış konumunu gösterir; düşük zorluklu bölümler emülatörde hızlı doğrulanır.
 /// Mağaza görseli: [box] mantıksal boyutunda, üstte başlık, ortada telefon
 /// ya da tablet çerçevesinde oyun ekranı.
+/// Başlığı iki satıra sığana kadar küçültür; hiçbir dilde kesilmez.
+Widget _fitCaption(String text, double maxW, double maxH, double size) {
+  var fs = size;
+  TextStyle style() => TextStyle(
+        color: Colors.white,
+        fontWeight: FontWeight.w800,
+        fontSize: fs,
+        height: 1.15,
+        shadows: const [Shadow(blurRadius: 8, color: Colors.black38)],
+      );
+  while (fs > 10) {
+    final tp = TextPainter(text: TextSpan(text: text, style: style()), textDirection: TextDirection.ltr, maxLines: 2)
+      ..layout(maxWidth: maxW);
+    if (!tp.didExceedMaxLines && tp.height <= maxH) break;
+    fs *= 0.92;
+  }
+  return Text(text, textAlign: TextAlign.center, maxLines: 2, style: style());
+}
+
 Widget _storeFrame({required Size box, required Size device, required String caption, required Widget screen, required bool rtl}) {
   final colors = Palettes.theme(3);
   return Directionality(
@@ -108,18 +127,7 @@ Widget _storeFrame({required Size box, required Size device, required String cap
               child: Center(
                 child: Padding(
                   padding: EdgeInsets.symmetric(horizontal: box.width * 0.06),
-                  child: Text(
-                    caption,
-                    textAlign: TextAlign.center,
-                    maxLines: 2,
-                    style: TextStyle(
-                      color: Colors.white,
-                      fontWeight: FontWeight.w800,
-                      fontSize: math.min(box.width, box.height) * 0.072,
-                      height: 1.15,
-                      shadows: const [Shadow(blurRadius: 8, color: Colors.black38)],
-                    ),
-                  ),
+                  child: _fitCaption(caption, box.width * 0.88, box.height * 0.15, math.min(box.width, box.height) * 0.072),
                 ),
               ),
             ),
@@ -209,9 +217,12 @@ Widget _feature(String lang) {
               child: Padding(
                 padding: const EdgeInsetsDirectional.only(end: 22),
                 child: Column(mainAxisAlignment: MainAxisAlignment.center, crossAxisAlignment: CrossAxisAlignment.start, children: [
-                  Text(Strings.pick(hub.hubConfig.title, lang),
-                      maxLines: 1,
-                      style: const TextStyle(color: Colors.white, fontSize: 34, fontWeight: FontWeight.w900)),
+                  FittedBox(
+                    fit: BoxFit.scaleDown,
+                    alignment: AlignmentDirectional.centerStart,
+                    child: Text(Strings.pick(hub.hubConfig.title, lang),
+                        maxLines: 1, style: const TextStyle(color: Colors.white, fontSize: 34, fontWeight: FontWeight.w900)),
+                  ),
                   const SizedBox(height: 8),
                   Text(Strings.pick(hub.hubConfig.tagline, lang),
                       maxLines: 3,
