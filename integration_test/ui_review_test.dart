@@ -158,7 +158,10 @@ void main() {
       await wait();
     });
 
-    await step('arkadasin masasina otur', () => tapText(t.t('join_table')));
+    await step('arkadasin masasina otur', () async {
+      await tester.tap(find.text(t.t('join_table')).first);
+      await wait();
+    });
     await wait(1500);
     await shot('bekleme_odasi_masa');
     await step('ucuncu oturuyor', () async {
