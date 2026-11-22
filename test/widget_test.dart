@@ -58,6 +58,9 @@ void main() {
     expect(all.length, ids.length + 38);
     expect(all.toSet().length, all.length);
     expect(ids.toSet().length, ids.length);
+    for (final id in hubConfig.starters) {
+      expect(all, contains(id), reason: 'ilk açılış rehberindeki oyun merkezde olmalı');
+    }
     for (final g in hubConfig.allGames) {
       expect(g.rules.gameId, g.gameId, reason: 'kayıt öneki oyun kimliğiyle aynı olmalı');
     }

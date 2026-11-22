@@ -68,7 +68,24 @@ def android():
                 '    <meta-data android:name="com.google.android.gms.ads.APPLICATION_ID" android:value="%s"/>\n    </application>' % ADMOB_ANDROID,
                 1,
             )
+        # Firebase: ölçüm ve çökme raporu uygulama içinden (izinle) açılır;
+        # reklam kimliği hiç toplanmaz.
+        for k in ("firebase_analytics_collection_enabled", "google_analytics_adid_collection_enabled",
+                  "firebase_crashlytics_collection_enabled"):
+            if k not in s:
+                s = s.replace("</application>", '    <meta-data android:name="%s" android:value="false"/>\n    </application>' % k, 1)
         write(man, s)
+    values_dir = "android/app/src/main/res/values"
+    if os.path.isdir("android/app/src/main/res"):
+        os.makedirs(values_dir, exist_ok=True)
+        # Crashlytics Gradle eklentisi olmadan yapı kimliği (her derlemede yeni).
+        import uuid
+        write(
+            os.path.join(values_dir, "crashlytics.xml"),
+            '<?xml version="1.0" encoding="utf-8"?>\n<resources>\n'
+            '    <string name="com.google.firebase.crashlytics.mapping_file_id" translatable="false">%s</string>\n'
+            '    <bool name="com.crashlytics.RequireBuildId">false</bool>\n</resources>\n' % uuid.uuid4().hex,
+        )
     xml_dir = "android/app/src/main/res/xml"
     if os.path.isdir("android/app/src/main/res"):
         os.makedirs(xml_dir, exist_ok=True)
@@ -175,6 +192,10 @@ def ios():
         s = re.sub(r"\s*<key>UIRequiresFullScreen</key>\s*<true/>", "", s)
         # Keep App Transport Security strict (HTTPS only).
         s = re.sub(r"\s*<key>NSAllowsArbitraryLoads</key>\s*<true/>", "", s)
+        if "FIREBASE_ANALYTICS_COLLECTION_ENABLED" not in s:
+            extra += "\t<key>FIREBASE_ANALYTICS_COLLECTION_ENABLED</key>\n\t<false/>\n"
+        if "FirebaseCrashlyticsCollectionEnabled" not in s:
+            extra += "\t<key>FirebaseCrashlyticsCollectionEnabled</key>\n\t<false/>\n"
         if "ITSAppUsesNonExemptEncryption" not in s:
             extra += "\t<key>ITSAppUsesNonExemptEncryption</key>\n\t<false/>\n"
         if extra:

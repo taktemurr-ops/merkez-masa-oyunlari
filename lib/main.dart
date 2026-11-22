@@ -181,6 +181,7 @@ final hubConfig = HubConfig(
     dominoConfig,
     mahjongConfig,
   ],
+  starters: ['oyun-okey', 'oyun-tavla', 'oyun-bilardo'],
   groups: [satrancCesitGroup, damaCesitGroup, mangalaCesitGroup, tavlaCesitGroup, okeyCesitGroup, mahjongCesitGroup],
   sections: [
     HubSection(
