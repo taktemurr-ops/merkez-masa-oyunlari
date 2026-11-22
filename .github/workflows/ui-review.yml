@@ -49,7 +49,7 @@ jobs:
           IFS=',' read -ra LS <<< "${{ github.event.inputs.langs || 'tr,ar' }}"
           for L in "${LS[@]}"; do
             rm -rf /tmp/review
-            xvfb-run -a -s "-screen 0 1920x1080x24" \
+            LANG="$L.UTF-8" LANGUAGE="$L" LC_ALL="C.UTF-8" xvfb-run -a -s "-screen 0 1920x1080x24" \
               flutter test integration_test/ui_review_test.dart -d linux --dart-define=LANG_UI="$L" || true
             mkdir -p "review/$L" && cp -r /tmp/review/. "review/$L/" || true
           done

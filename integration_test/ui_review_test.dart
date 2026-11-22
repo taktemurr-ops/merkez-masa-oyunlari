@@ -26,8 +26,10 @@ void main() {
     tester.platformDispatcher.localesTestValue = const [Locale(_lang)];
     tester.view.physicalSize = const Size(1080, 2280);
     tester.view.devicePixelRatio = 2.75;
-    final t = Strings(_lang);
-    final log = <String>[];
+    // Uygulama dili cihazdan seçer; bulucular da aynı dili kullansın.
+    final lang = Strings.pickLanguage(ui.PlatformDispatcher.instance.locale.languageCode);
+    final t = Strings(lang);
+    final log = <String>['dil: $lang'];
     var n = 0;
 
     Future<void> wait([int ms = 1200]) async {
@@ -95,7 +97,7 @@ void main() {
     await shot('ilk_acilis_rehberi');
 
     final tavla = hub.hubConfig.allGames.firstWhere((g) => g.gameId == 'oyun-tavla');
-    await step('rehberden tavla', () => tapText(hub.hubConfig.localized(tavla.title, _lang)));
+    await step('rehberden tavla', () => tapText(hub.hubConfig.localized(tavla.title, lang)));
     await wait(3000);
     await shot('oyun_ana_ekran');
 
