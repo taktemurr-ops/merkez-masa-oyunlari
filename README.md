@@ -30,9 +30,16 @@ Masa ailesinin **merkez uygulaması**: aynı ailedeki oyunları tek mağaza uygu
 | Surakarta | [oyun-surakarta](https://github.com/taktemurr-ops/oyun-surakarta) |
 | Hnefatafl | [oyun-hnefatafl](https://github.com/taktemurr-ops/oyun-hnefatafl) |
 | Halka ve Köprü | [oyun-halka-ve-kopru](https://github.com/taktemurr-ops/oyun-halka-ve-kopru) |
-| Satranç Çeşitleri (9) | [oyun-satranc-cesitleri](https://github.com/taktemurr-ops/oyun-satranc-cesitleri) |
+| Fanorona | [oyun-fanorona](https://github.com/taktemurr-ops/oyun-fanorona) |
+| Mermer İtme | [oyun-mermer-itme](https://github.com/taktemurr-ops/oyun-mermer-itme) |
+| Duvar Yarışı | [oyun-duvar-yarisi](https://github.com/taktemurr-ops/oyun-duvar-yarisi) |
+| Ur Kraliyet Oyunu | [oyun-ur](https://github.com/taktemurr-ops/oyun-ur) |
+| Senet | [oyun-senet](https://github.com/taktemurr-ops/oyun-senet) |
+| Yut | [oyun-yut](https://github.com/taktemurr-ops/oyun-yut) |
+| Amiral Battı | [oyun-amiral-batti](https://github.com/taktemurr-ops/oyun-amiral-batti) |
+| Satranç Çeşitleri (10) | [oyun-satranc-cesitleri](https://github.com/taktemurr-ops/oyun-satranc-cesitleri) |
 | Dama Çeşitleri (8) | [oyun-dama-cesitleri](https://github.com/taktemurr-ops/oyun-dama-cesitleri) |
 | Mangala Çeşitleri (8) | [oyun-mangala-cesitleri](https://github.com/taktemurr-ops/oyun-mangala-cesitleri) |
-| Tavla Çeşitleri (5) | [oyun-tavla-cesitleri](https://github.com/taktemurr-ops/oyun-tavla-cesitleri) |
+| Tavla Çeşitleri (6) | [oyun-tavla-cesitleri](https://github.com/taktemurr-ops/oyun-tavla-cesitleri) |
 
 Test APK: https://github.com/taktemurr-ops/merkez-masa-oyunlari/releases/download/test/merkez-masa-oyunlari.apk

@@ -1,9 +1,9 @@
-Brettspill samler 26 brettspill og 30 varianter i én app, med vårt eget design av brett og brikker. Strategiklassikere som sjakk og dam, backgammon og terningspill, mancala og raske spill; hvert spill har egen fremgang, oppdrag og prestasjoner.
+Brettspill samler 33 brettspill og 32 varianter i én app, med vårt eget design av brett og brikker. Strategiklassikere som sjakk og dam, backgammon og terningspill, mancala og raske spill; hvert spill har egen fremgang, oppdrag og prestasjoner.
 
-• Strategiklassikere: Sjakk, Dam, Tyrkisk dam, Go, Reversi, Mølle, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Kinasjakk
+• Strategiklassikere: Sjakk, Dam, Tyrkisk dam, Go, Reversi, Mølle, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Kinasjakk, Fanorona, Kuleskyv, Murløpet, Sjøslag
 • Rader og forbindelser: Tripp trapp tresko, Fire på rad, Fem på rad, Fem og Fang, Seks på Rad, Hex, Ringer og Broer, Prikker og bokser
-• Terninger og kappløp: Backgammon, Ludo, Slanger og stiger, Fem terninger, Farkle, Løgnerterning
-• Variantpakker: Sjakkvarianter (9), Damvarianter (8), Såspill (8), Backgammonvarianter (5)
+• Terninger og kappløp: Backgammon, Ludo, Slanger og stiger, Fem terninger, Farkle, Løgnerterning, Det Kongelige Spillet fra Ur, Senet, Yut
+• Variantpakker: Sjakkvarianter (10), Damvarianter (8), Såspill (8), Backgammonvarianter (6)
 
 Høydepunkter
 • 50 000 nivåer per spill; åpninger og motstanderens styrke øker trinn for trinn, og en sterk KI sjekker hvert nivå.

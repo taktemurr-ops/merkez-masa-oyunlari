@@ -119,10 +119,38 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-halka-ve-kopru
       ref: 8dad28ec6cb35c6cd533f3394e9e804004d95102
+  oyun_fanorona:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-fanorona
+      ref: 307d87db7d06588b8cb5e92a1f283308fcb8e6a8
+  oyun_mermer_itme:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-mermer-itme
+      ref: cae7dd92a53f93e5169f1ea659b18cae53286cdc
+  oyun_duvar_yarisi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-duvar-yarisi
+      ref: 16750234814d0607551477cef81086938ad4d8f5
+  oyun_ur:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-ur
+      ref: cc14e900aa1dce60d4ae241b5998fc0b91e5079b
+  oyun_senet:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-senet
+      ref: 97876a9f69ffee635cf5bf0471696588be2b9001
+  oyun_yut:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-yut
+      ref: a72be8b037f5a813653f15e8c8146d084ddc928a
+  oyun_amiral_batti:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-amiral-batti
+      ref: 6d41ece6973fae6d4aaad1b90b68255cded8e5fb
   oyun_satranc_cesitleri:
     git:
       url: https://github.com/taktemurr-ops/oyun-satranc-cesitleri
-      ref: 37b706ab5e42f51f0ff542075de2db068775c0d5
+      ref: efaa9facc9a945f4f680df4c8e19c53a4ab7c399
   oyun_dama_cesitleri:
     git:
       url: https://github.com/taktemurr-ops/oyun-dama-cesitleri
@@ -134,7 +162,7 @@ dependencies:
   oyun_tavla_cesitleri:
     git:
       url: https://github.com/taktemurr-ops/oyun-tavla-cesitleri
-      ref: 55587d0953b07a553dd45fb42c732541ddceaa2f
+      ref: a9a3040adf1621e9e4aa6531efdb801249f203e3
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -152,7 +180,7 @@ dependency_overrides:
   masa_motoru:
     git:
       url: https://github.com/taktemurr-ops/masa-motoru
-      ref: 2488191ac2140f13738bd20074e28d57366210e7
+      ref: 9468a00ad94c6b7031ab101ed281c855bae06aab
 
 dev_dependencies:
   flutter_test:

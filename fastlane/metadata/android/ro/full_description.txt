@@ -1,9 +1,9 @@
-Jocuri de Societate reunește 26 jocuri de societate și 30 variante într-o singură aplicație, cu table și piese în design propriu. Clasice de strategie ca șahul și damele, table și jocuri cu zaruri, mancala și jocuri rapide; fiecare joc are progresul, misiunile și realizările sale.
+Jocuri de Societate reunește 33 jocuri de societate și 32 variante într-o singură aplicație, cu table și piese în design propriu. Clasice de strategie ca șahul și damele, table și jocuri cu zaruri, mancala și jocuri rapide; fiecare joc are progresul, misiunile și realizările sale.
 
-• Clasice de strategie: Șah, Dame, Dame turcești, Go, Reversi, Moară, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Dame Chinezești
+• Clasice de strategie: Șah, Dame, Dame turcești, Go, Reversi, Moară, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Dame Chinezești, Fanorona, Împinge Bilele, Cursa cu Ziduri, Bătălia Navală
 • Linii și conexiuni: X și 0, Patru în linie, Cinci în linie, Cinci și Captură, Șase în Linie, Hex, Inele și Poduri, Puncte și pătrate
-• Zaruri și curse: Table, Nu te supăra, frate, Șerpi și scări, Cinci zaruri, Farkle, Zarurile mincinosului
-• Pachete de variante: Variante de Șah (9), Variante de Dame (8), Jocuri de Semănat (8), Variante de Table (5)
+• Zaruri și curse: Table, Nu te supăra, frate, Șerpi și scări, Cinci zaruri, Farkle, Zarurile mincinosului, Jocul Regal din Ur, Senet, Yut
+• Pachete de variante: Variante de Șah (10), Variante de Dame (8), Jocuri de Semănat (8), Variante de Table (6)
 
 Puncte forte
 • 50.000 de niveluri pe joc; deschiderile și forța adversarului cresc treptat, iar fiecare nivel e verificat de o IA puternică.

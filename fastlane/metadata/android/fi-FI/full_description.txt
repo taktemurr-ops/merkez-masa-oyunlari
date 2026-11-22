@@ -1,9 +1,9 @@
-Lautapelit kokoaa 26 lautapeliä ja 30 muunnelmaa yhteen sovellukseen omalla lauta- ja nappulasuunnittelulla. Strategiaklassikot kuten shakki ja tammi, backgammon ja noppapelit, mancala ja pikapelit; jokaisella pelillä on oma edistyminen, tehtävät ja saavutukset.
+Lautapelit kokoaa 33 lautapeliä ja 32 muunnelmaa yhteen sovellukseen omalla lauta- ja nappulasuunnittelulla. Strategiaklassikot kuten shakki ja tammi, backgammon ja noppapelit, mancala ja pikapelit; jokaisella pelillä on oma edistyminen, tehtävät ja saavutukset.
 
-• Strategiaklassikot: Shakki, Tammi, Turkkilainen tammi, Go, Reversi, Mylly, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Kiinanshakki
+• Strategiaklassikot: Shakki, Tammi, Turkkilainen tammi, Go, Reversi, Mylly, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Kiinanshakki, Fanorona, Kuulatöntö, Muurikisa, Laivanupotus
 • Rivit ja yhteydet: Ristinolla, Neljän suora, Viiden suora, Viisi ja Kaappaus, Kuusi Riviin, Hex, Renkaat ja Sillat, Pisteet ja laatikot
-• Nopat ja kilpa: Backgammon, Älä suutu, Käärmeet ja tikkaat, Viisi noppaa, Farkle, Valehtelijan noppa
-• Muunnelmapaketit: Shakkimuunnelmat (9), Tammimuunnelmat (8), Kylvöpelit (8), Backgammon-muunnelmat (5)
+• Nopat ja kilpa: Backgammon, Älä suutu, Käärmeet ja tikkaat, Viisi noppaa, Farkle, Valehtelijan noppa, Urin Kuninkaallinen Peli, Senet, Yut
+• Muunnelmapaketit: Shakkimuunnelmat (10), Tammimuunnelmat (8), Kylvöpelit (8), Backgammon-muunnelmat (6)
 
 Kohokohdat
 • 50 000 tasoa peliä kohden; avaukset ja vastustajan taito kasvavat askel askeleelta, ja vahva tekoäly tarkistaa jokaisen tason.

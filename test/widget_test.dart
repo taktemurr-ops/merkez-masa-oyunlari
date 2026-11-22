@@ -32,8 +32,15 @@ void main() {
       'oyun-surakarta',
       'oyun-hnefatafl',
       'oyun-halka-ve-kopru',
+      'oyun-fanorona',
+      'oyun-mermer-itme',
+      'oyun-duvar-yarisi',
+      'oyun-ur',
+      'oyun-senet',
+      'oyun-yut',
+      'oyun-amiral-batti',
     ]);
-    expect(all.length, ids.length + 30);
+    expect(all.length, ids.length + 32);
     expect(all.toSet().length, all.length);
     expect(ids.toSet().length, ids.length);
     for (final g in hubConfig.allGames) {

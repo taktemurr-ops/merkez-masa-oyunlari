@@ -1,12 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:oyun_alquerque/oyun_alquerque.dart';
 import 'package:oyun_altili_bag/oyun_altili_bag.dart';
+import 'package:oyun_amiral_batti/oyun_amiral_batti.dart';
 import 'package:oyun_besleme/oyun_besleme.dart';
 import 'package:oyun_cin_damasi/oyun_cin_damasi.dart';
 import 'package:oyun_dama/oyun_dama.dart';
 import 'package:oyun_dama_cesitleri/oyun_dama_cesitleri.dart';
 import 'package:oyun_dokuz_tas/oyun_dokuz_tas.dart';
 import 'package:oyun_dortle/oyun_dortle.dart';
+import 'package:oyun_duvar_yarisi/oyun_duvar_yarisi.dart';
+import 'package:oyun_fanorona/oyun_fanorona.dart';
 import 'package:oyun_farkle/oyun_farkle.dart';
 import 'package:oyun_go/oyun_go.dart';
 import 'package:oyun_halka_ve_kopru/oyun_halka_ve_kopru.dart';
@@ -17,17 +20,21 @@ import 'package:oyun_kapmali_besleme/oyun_kapmali_besleme.dart';
 import 'package:oyun_kizma_birader/oyun_kizma_birader.dart';
 import 'package:oyun_mangala/oyun_mangala.dart';
 import 'package:oyun_mangala_cesitleri/oyun_mangala_cesitleri.dart';
+import 'package:oyun_mermer_itme/oyun_mermer_itme.dart';
 import 'package:oyun_noktalar_ve_kutular/oyun_noktalar_ve_kutular.dart';
 import 'package:oyun_reversi/oyun_reversi.dart';
 import 'package:oyun_satranc/oyun_satranc.dart';
 import 'package:oyun_satranc_cesitleri/oyun_satranc_cesitleri.dart';
+import 'package:oyun_senet/oyun_senet.dart';
 import 'package:oyun_surakarta/oyun_surakarta.dart';
 import 'package:oyun_tavla/oyun_tavla.dart';
 import 'package:oyun_tavla_cesitleri/oyun_tavla_cesitleri.dart';
 import 'package:oyun_turk_damasi/oyun_turk_damasi.dart';
+import 'package:oyun_ur/oyun_ur.dart';
 import 'package:oyun_xox/oyun_xox.dart';
 import 'package:oyun_yalanci_zari/oyun_yalanci_zari.dart';
 import 'package:oyun_yilan_merdiven/oyun_yilan_merdiven.dart';
+import 'package:oyun_yut/oyun_yut.dart';
 import 'package:oyun_zar_beslisi/oyun_zar_beslisi.dart';
 import 'package:studio_core/app/hub.dart';
 
@@ -134,6 +141,13 @@ final hubConfig = HubConfig(
     surakartaConfig,
     taflConfig,
     halkaConfig,
+    fanoronaConfig,
+    mermerConfig,
+    duvarConfig,
+    urConfig,
+    senetConfig,
+    yutConfig,
+    amiralConfig,
   ],
   groups: [satrancCesitGroup, damaCesitGroup, mangalaCesitGroup, tavlaCesitGroup],
 );

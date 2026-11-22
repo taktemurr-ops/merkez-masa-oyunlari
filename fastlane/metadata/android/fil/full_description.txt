@@ -1,9 +1,9 @@
-Pinagsasama ng Mga Larong Board ang 26 larong board at 30 na uri sa iisang app, gamit ang sarili naming disenyo ng board at piyesa. Mga klasikong estratehiya gaya ng chess at dama, backgammon at mga larong dice, sungka at mabibilis na laro; bawat laro ay may sariling progreso, misyon at tagumpay.
+Pinagsasama ng Mga Larong Board ang 33 larong board at 32 na uri sa iisang app, gamit ang sarili naming disenyo ng board at piyesa. Mga klasikong estratehiya gaya ng chess at dama, backgammon at mga larong dice, sungka at mabibilis na laro; bawat laro ay may sariling progreso, misyon at tagumpay.
 
-• Klasikong estratehiya: Chess, Checkers, Turkish Draughts, Go, Reversi, Siyam na Piyesa, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Chinese Checkers
+• Klasikong estratehiya: Chess, Checkers, Turkish Draughts, Go, Reversi, Siyam na Piyesa, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Chinese Checkers, Fanorona, Tulak ng Holen, Karera ng Pader, Labanan sa Dagat
 • Linya at koneksyon: Tic-tac-toe, Apat sa Hanay, Lima sa Hanay, Lima at Huli, Anim sa Hanay, Hex, Singsing at Tulay, Tuldok at Kahon
-• Dice at karera: Backgammon, Huwag Magalit, Ahas at Hagdan, Limang Dice, Farkle, Dice ng Sinungaling
-• Mga pack ng uri: Mga Uri ng Chess (9), Mga Uri ng Dama (8), Mga Larong Pagtatanim (8), Mga Uri ng Backgammon (5)
+• Dice at karera: Backgammon, Huwag Magalit, Ahas at Hagdan, Limang Dice, Farkle, Dice ng Sinungaling, Maharlikang Laro ng Ur, Senet, Yut
+• Mga pack ng uri: Mga Uri ng Chess (10), Mga Uri ng Dama (8), Mga Larong Pagtatanim (8), Mga Uri ng Backgammon (6)
 
 Mga tampok
 • 50,000 level bawat laro; tumataas nang paunti-unti ang opening at lakas ng kalaban, at sinusuri ng malakas na AI ang bawat level.
