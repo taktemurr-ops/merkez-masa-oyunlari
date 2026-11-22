@@ -70,7 +70,7 @@ dependencies:
   oyun_kizma_birader:
     git:
       url: https://github.com/taktemurr-ops/oyun-kizma-birader
-      ref: 9fbcd7e71b30a875bc45009e4b94ab5b8b295575
+      ref: 72a7643d04622ecd4953a2bd91f488ed2530701f
   oyun_yilan_merdiven:
     git:
       url: https://github.com/taktemurr-ops/oyun-yilan-merdiven
