@@ -30,12 +30,12 @@ class _Shot {
 Map<String, Object?> _none(GeneratedLevel g) => const {};
 
 const _shots = [
-  _Shot('oyun-satranc', 2600, _none),
-  _Shot('oyun-tavla', 900, _none),
-  _Shot('oyun-mangala', 1500, _none),
-  _Shot('oyun-turk-damasi', 2200, _none),
-  _Shot('oyun-go', 3100, _none),
-  _Shot('oyun-dortle', 1200, _none),
+  _Shot('oyun-satranc', 41, _none),
+  _Shot('oyun-tavla', 21, _none),
+  _Shot('oyun-mangala', 31, _none),
+  _Shot('oyun-turk-damasi', 43, _none),
+  _Shot('oyun-go', 61, _none),
+  _Shot('oyun-dortle', 23, _none),
 ];
 
 Widget _app(String lang, Widget child) => MaterialApp(
@@ -82,6 +82,7 @@ Widget _gameScreen(GameConfig cfg, GeneratedLevel g, Map<String, Object?> resume
   );
 }
 
+/// Görseller açılış konumunu gösterir; düşük zorluklu bölümler emülatörde hızlı doğrulanır.
 /// Mağaza görseli: [box] mantıksal boyutunda, üstte başlık, ortada telefon
 /// ya da tablet çerçevesinde oyun ekranı.
 Widget _storeFrame({required Size box, required Size device, required String caption, required Widget screen, required bool rtl}) {
