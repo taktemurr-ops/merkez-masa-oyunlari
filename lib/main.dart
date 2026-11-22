@@ -4,6 +4,7 @@ import 'package:oyun_altili_bag/oyun_altili_bag.dart';
 import 'package:oyun_amiral_batti/oyun_amiral_batti.dart';
 import 'package:oyun_besleme/oyun_besleme.dart';
 import 'package:oyun_cin_damasi/oyun_cin_damasi.dart';
+import 'package:oyun_cin_satranci/oyun_cin_satranci.dart';
 import 'package:oyun_dama/oyun_dama.dart';
 import 'package:oyun_dama_cesitleri/oyun_dama_cesitleri.dart';
 import 'package:oyun_dokuz_tas/oyun_dokuz_tas.dart';
@@ -16,8 +17,11 @@ import 'package:oyun_halka_ve_kopru/oyun_halka_ve_kopru.dart';
 import 'package:oyun_halma/oyun_halma.dart';
 import 'package:oyun_hex/oyun_hex.dart';
 import 'package:oyun_hnefatafl/oyun_hnefatafl.dart';
+import 'package:oyun_japon_satranci/oyun_japon_satranci.dart';
 import 'package:oyun_kapmali_besleme/oyun_kapmali_besleme.dart';
 import 'package:oyun_kizma_birader/oyun_kizma_birader.dart';
+import 'package:oyun_kore_satranci/oyun_kore_satranci.dart';
+import 'package:oyun_kose_yerlestirme/oyun_kose_yerlestirme.dart';
 import 'package:oyun_mangala/oyun_mangala.dart';
 import 'package:oyun_mangala_cesitleri/oyun_mangala_cesitleri.dart';
 import 'package:oyun_mermer_itme/oyun_mermer_itme.dart';
@@ -148,6 +152,10 @@ final hubConfig = HubConfig(
     senetConfig,
     yutConfig,
     amiralConfig,
+    cinSatranciConfig,
+    koreSatranciConfig,
+    japonSatranciConfig,
+    koseConfig,
   ],
   groups: [satrancCesitGroup, damaCesitGroup, mangalaCesitGroup, tavlaCesitGroup],
 );

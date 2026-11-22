@@ -37,6 +37,10 @@ Masa ailesinin **merkez uygulaması**: aynı ailedeki oyunları tek mağaza uygu
 | Senet | [oyun-senet](https://github.com/taktemurr-ops/oyun-senet) |
 | Yut | [oyun-yut](https://github.com/taktemurr-ops/oyun-yut) |
 | Amiral Battı | [oyun-amiral-batti](https://github.com/taktemurr-ops/oyun-amiral-batti) |
+| Çin Satrancı | [oyun-cin-satranci](https://github.com/taktemurr-ops/oyun-cin-satranci) |
+| Kore Satrancı | [oyun-kore-satranci](https://github.com/taktemurr-ops/oyun-kore-satranci) |
+| Japon Satrancı | [oyun-japon-satranci](https://github.com/taktemurr-ops/oyun-japon-satranci) |
+| Köşe Yerleştirme | [oyun-kose-yerlestirme](https://github.com/taktemurr-ops/oyun-kose-yerlestirme) |
 | Satranç Çeşitleri (10) | [oyun-satranc-cesitleri](https://github.com/taktemurr-ops/oyun-satranc-cesitleri) |
 | Dama Çeşitleri (8) | [oyun-dama-cesitleri](https://github.com/taktemurr-ops/oyun-dama-cesitleri) |
 | Mangala Çeşitleri (8) | [oyun-mangala-cesitleri](https://github.com/taktemurr-ops/oyun-mangala-cesitleri) |

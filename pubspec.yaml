@@ -147,6 +147,22 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-amiral-batti
       ref: 6d41ece6973fae6d4aaad1b90b68255cded8e5fb
+  oyun_cin_satranci:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-cin-satranci
+      ref: 9df61c1eed92be71be4177c7b350ee098f055770
+  oyun_kore_satranci:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kore-satranci
+      ref: a4a767b7832b72690492760951954d6de989a3cf
+  oyun_japon_satranci:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-japon-satranci
+      ref: ff83c2903eb7d319edef0fdd968663ad1c039233
+  oyun_kose_yerlestirme:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kose-yerlestirme
+      ref: 16370b0bdcb23dca47e70a884c65d0290fbf6241
   oyun_satranc_cesitleri:
     git:
       url: https://github.com/taktemurr-ops/oyun-satranc-cesitleri
@@ -180,7 +196,7 @@ dependency_overrides:
   masa_motoru:
     git:
       url: https://github.com/taktemurr-ops/masa-motoru
-      ref: 9468a00ad94c6b7031ab101ed281c855bae06aab
+      ref: ba3bcd2939dcf11e10b043445eaea083cbcdaafe
 
 dev_dependencies:
   flutter_test:

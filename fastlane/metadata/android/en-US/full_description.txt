@@ -1,7 +1,7 @@
-Board Games brings 33 board games and 32 variants together in one app, with our own board and piece design. Strategy classics like chess and draughts, backgammon and dice games, mancala and quick games; every game keeps its own progress, missions and achievements.
+Board Games brings 37 board games and 32 variants together in one app, with our own board and piece design. Strategy classics like chess and draughts, backgammon and dice games, mancala and quick games; every game keeps its own progress, missions and achievements.
 
-• Strategy classics: Chess, Checkers, Turkish Draughts, Go, Reversi, Nine Men's Morris, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Chinese Checkers, Fanorona, Marble Push, Wall Race, Sea Battle
-• Lines and connections: Noughts & Crosses, Four in a Row, Five in a Row, Five & Capture, Six in a Row, Hex, Rings & Bridges, Dots and Boxes
+• Strategy classics: Chess, Checkers, Turkish Draughts, Go, Reversi, Nine Men's Morris, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Chinese Checkers, Fanorona, Marble Push, Wall Race, Sea Battle, Chinese Chess, Korean Chess, Japanese Chess
+• Lines and connections: Noughts & Crosses, Four in a Row, Five in a Row, Five & Capture, Six in a Row, Hex, Rings & Bridges, Dots and Boxes, Corner to Corner
 • Dice and racing: Backgammon, Don't Get Angry, Snakes & Ladders, Five Dice, Farkle, Liar's Dice, Royal Game of Ur, Senet, Yut
 • Variant packs: Chess Variety (10), Draughts Variety (8), Sowing Games (8), Backgammon Variety (6)
 

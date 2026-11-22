@@ -39,6 +39,10 @@ void main() {
       'oyun-senet',
       'oyun-yut',
       'oyun-amiral-batti',
+      'oyun-cin-satranci',
+      'oyun-kore-satranci',
+      'oyun-japon-satranci',
+      'oyun-kose-yerlestirme',
     ]);
     expect(all.length, ids.length + 32);
     expect(all.toSet().length, all.length);

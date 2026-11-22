@@ -1,7 +1,7 @@
-Gry Planszowe łączy 33 gier planszowych i 32 wariantów w jednej aplikacji, z własnym projektem plansz i pionów. Klasyka strategii jak szachy i warcaby, tryktrak i gry w kości, mankala i szybkie gry; każda gra ma własne postępy, zadania i osiągnięcia.
+Gry Planszowe łączy 37 gier planszowych i 32 wariantów w jednej aplikacji, z własnym projektem plansz i pionów. Klasyka strategii jak szachy i warcaby, tryktrak i gry w kości, mankala i szybkie gry; każda gra ma własne postępy, zadania i osiągnięcia.
 
-• Klasyka strategii: Szachy, Warcaby, Warcaby tureckie, Go, Reversi, Młynek, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Chińczyk Gwiazda, Fanorona, Spychanie Kulek, Wyścig Murów, Statki
-• Linie i połączenia: Kółko i krzyżyk, Cztery w rzędzie, Pięć w rzędzie, Piątka i Bicie, Sześć w Rzędzie, Hex, Pierścienie i Mosty, Kropki i kwadraty
+• Klasyka strategii: Szachy, Warcaby, Warcaby tureckie, Go, Reversi, Młynek, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Chińczyk Gwiazda, Fanorona, Spychanie Kulek, Wyścig Murów, Statki, Szachy Chińskie, Szachy Koreańskie, Szachy Japońskie
+• Linie i połączenia: Kółko i krzyżyk, Cztery w rzędzie, Pięć w rzędzie, Piątka i Bicie, Sześć w Rzędzie, Hex, Pierścienie i Mosty, Kropki i kwadraty, Róg w Róg
 • Kości i wyścigi: Tryktrak, Chińczyk, Węże i drabiny, Pięć kości, Farkle, Kości kłamcy, Królewska Gra z Ur, Senet, Yut
 • Pakiety wariantów: Odmiany Szachów (10), Odmiany Warcabów (8), Gry w Siew (8), Odmiany Tryktraka (6)
 

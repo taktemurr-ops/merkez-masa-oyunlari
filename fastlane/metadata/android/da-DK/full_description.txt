@@ -1,7 +1,7 @@
-Brætspil samler 33 brætspil og 32 varianter i én app med vores eget design af brætter og brikker. Strategiklassikere som skak og dam, backgammon og terningspil, mancala og hurtige spil; hvert spil har sine egne fremskridt, opgaver og præstationer.
+Brætspil samler 37 brætspil og 32 varianter i én app med vores eget design af brætter og brikker. Strategiklassikere som skak og dam, backgammon og terningspil, mancala og hurtige spil; hvert spil har sine egne fremskridt, opgaver og præstationer.
 
-• Strategiklassikere: Skak, Dam, Tyrkisk dam, Go, Reversi, Mølle, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Kinesisk Skak, Fanorona, Kugleskub, Murløbet, Sænke Slagskibe
-• Rækker og forbindelser: Kryds og bolle, Fire på stribe, Fem på stribe, Fem og Fang, Seks på Stribe, Hex, Ringe og Broer, Prikker og kasser
+• Strategiklassikere: Skak, Dam, Tyrkisk dam, Go, Reversi, Mølle, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Kinesisk Skak, Fanorona, Kugleskub, Murløbet, Sænke Slagskibe, Kinesisk Skak, Koreansk Skak, Japansk Skak
+• Rækker og forbindelser: Kryds og bolle, Fire på stribe, Fem på stribe, Fem og Fang, Seks på Stribe, Hex, Ringe og Broer, Prikker og kasser, Hjørne mod Hjørne
 • Terninger og kapløb: Backgammon, Ludo, Slanger og stiger, Fem terninger, Farkle, Snydeterninger, Det Kongelige Spil fra Ur, Senet, Yut
 • Variantpakker: Skakvarianter (10), Damvarianter (8), Såspil (8), Backgammonvarianter (6)
 
