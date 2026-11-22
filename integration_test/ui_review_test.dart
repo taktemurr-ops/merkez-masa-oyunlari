@@ -11,7 +11,6 @@ import 'package:flutter/rendering.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:integration_test/integration_test.dart';
 import 'package:merkez_masa_oyunlari/main.dart' as hub;
-import 'package:studio_core/app/screens/play.dart';
 import 'package:studio_core/core/strings.dart';
 import 'package:studio_core/online/online.dart';
 import 'package:studio_core/online/online_service.dart';
@@ -97,38 +96,46 @@ void main() {
     await wait(2000);
     await shot('ilk_acilis_rehberi');
 
-    final tavla = hub.hubConfig.allGames.firstWhere((g) => g.gameId == 'oyun-tavla');
-    await step('rehberden tavla', () => tapText(hub.hubConfig.localized(tavla.title, lang)));
+    // Arkadaşımız 101 Okey'de herkese açık bir masa açmış, iki kişi daha gelecek.
+    final third = MemoryBackend(server, 'ucuncu');
+    final tp = await third.signIn();
+    tp.name = 'Ece';
+    final fourth = MemoryBackend(server, 'dorduncu');
+    final dp = await fourth.signIn();
+    dp.name = 'Kaan';
+    final ft = await friend.createMatch('oyun-101-okey', 4, private: false);
+    fp.table = 'oyun-101-okey|${ft.id}';
+    await friend.saveProfile(fp);
+    final stranger = MemoryBackend(server, 'yabanci');
+    await stranger.signIn();
+    await stranger.createMatch('oyun-101-okey', 4, private: false);
+
+    final okey = hub.hubConfig.allGames.firstWhere((g) => g.gameId == 'oyun-101-okey');
+    await step('101 okey ac', () => tapText(hub.hubConfig.localized(okey.title, lang)));
     await wait(3000);
-    await shot('oyun_gunluk_sekmesi');
-    await step('ana sayfa sekmesi', () async {
-      await tester.tap(find.byIcon(Icons.home).last);
-      await wait();
-    });
     await shot('oyun_ana_ekran');
     await step('modlara in', () async {
-      await tester.ensureVisible(find.text(t.t('mode_versus')).last);
+      await tester.ensureVisible(find.text(t.t('other_modes')).last);
       await wait(400);
     });
     await shot('oyun_modlari');
-
-    await step('arkadasla oyna', () => tapText(t.t('mode_versus')));
-    await wait(2500);
-    await shot('arkadasla_oyna_masa');
-    await step('masadan cik', () async {
-      Navigator.of(tester.element(find.byType(PlayScreen))).pop();
-      await wait();
+    await step('yukari', () async {
+      await tester.ensureVisible(find.byKey(const ValueKey('online-table')));
+      await wait(400);
     });
 
-    await step('cevrimici', () => tapText(t.t('mode_online')));
+    await step('cevrimici masa', () async {
+      await tester.tap(find.byKey(const ValueKey('online-table')));
+      await wait();
+    });
     await shot('kurallar_onayi');
     await step('kurallari kabul et', () async {
       await tester.tap(find.byKey(const ValueKey('terms-check')));
       await wait(300);
       await tester.tap(find.byKey(const ValueKey('terms-ok')));
-      await wait();
+      await wait(2000);
     });
-    await shot('lobi');
+    await shot('lobi_acik_masalar');
 
     await step('profil', () async {
       await tester.tap(find.byIcon(Icons.account_circle));
@@ -140,17 +147,14 @@ void main() {
       await wait();
     });
 
-    await step('arkadasini davet et', () => tapText(t.t('invite_friend')));
-    await shot('bekleme_odasi');
-    await step('arkadas cagir', () async {
-      await tester.tap(find.byKey(const ValueKey('call-friend')));
-      await wait();
+    await step('arkadasin masasina otur', () => tapText(t.t('join_table')));
+    await wait(1500);
+    await shot('bekleme_odasi_masa');
+    await step('ucuncu oturuyor', () async {
+      await third.joinTable(ft.id);
+      await wait(1200);
     });
-    await shot('arkadas_listesi');
-    await step('listeyi kapat', () async {
-      await tester.tapAt(const Offset(20, 60));
-      await wait();
-    });
+    await shot('bekleme_odasi_3_kisi');
 
     await step('gelen davet', () async {
       await friend.sendInvite(
@@ -160,9 +164,8 @@ void main() {
     await shot('gelen_davet');
     await step('daveti ertele', () => tapText(t.t('later')));
 
-    await step('arkadas koda katiliyor', () async {
-      final code = server.matches.values.last.code;
-      await friend.joinByCode(code);
+    await step('dorduncu oturuyor, masa basliyor', () async {
+      await fourth.joinTable(ft.id);
       await wait(1500);
     });
     await wait(3000);
