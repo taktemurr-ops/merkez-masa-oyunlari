@@ -11,7 +11,7 @@ on:
         default: "tr,ar"
 
 permissions:
-  contents: read
+  contents: write
 
 env:
   FLUTTER_VERSION: "3.47.9"
@@ -60,3 +60,11 @@ jobs:
           name: ui-review
           path: review/
           retention-days: 14
+      - name: Publish to the "ui-review" release
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          (cd review && zip -qr ../ui-review.zip .)
+          gh release view ui-review >/dev/null 2>&1 || gh release create ui-review --title "UI review" --notes "Arayüz inceleme görüntüleri" --prerelease
+          gh release upload ui-review ui-review.zip --clobber
