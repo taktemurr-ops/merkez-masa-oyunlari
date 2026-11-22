@@ -178,19 +178,19 @@ dependencies:
   oyun_okey:
     git:
       url: https://github.com/taktemurr-ops/oyun-okey
-      ref: abb82631a8d6a3452e952dc009f946acb3048889
+      ref: 9c7806e8cf0cbf28990a442bc0bb6be077e47aff
   oyun_101_okey:
     git:
       url: https://github.com/taktemurr-ops/oyun-101-okey
-      ref: 1967fc1d6e155b9a9f9700f999539632698bd71c
+      ref: bfdd19dc14ea156a27e7e4531637ef82627aed44
   oyun_domino:
     git:
       url: https://github.com/taktemurr-ops/oyun-domino
-      ref: dbf2bcab928b7f6c7a7701888a5512257833b230
+      ref: c28465eff2c23861f2d4544605faf6fe13e9f554
   oyun_mahjong:
     git:
       url: https://github.com/taktemurr-ops/oyun-mahjong
-      ref: 13c9e395787e2b3593c38409f7777712f92fb12f
+      ref: 7af5e232f79c1426729a9af214c47c85e8c73900
   oyun_satranc_cesitleri:
     git:
       url: https://github.com/taktemurr-ops/oyun-satranc-cesitleri
@@ -210,11 +210,11 @@ dependencies:
   oyun_okey_cesitleri:
     git:
       url: https://github.com/taktemurr-ops/oyun-okey-cesitleri
-      ref: 8e282a09a27c93280c7720037ce77b9922ecd148
+      ref: ec6f06c95fa3988e78e8c8845f5041bb933a8fa6
   oyun_mahjong_cesitleri:
     git:
       url: https://github.com/taktemurr-ops/oyun-mahjong-cesitleri
-      ref: c32134d654437b835106a0df8d4034e100d09115
+      ref: ca42f2ec14f71a122c15976504045c91d9732608
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -236,7 +236,7 @@ dependency_overrides:
   kart_motoru:
     git:
       url: https://github.com/taktemurr-ops/kart-motoru
-      ref: 2fe96916363943f414580507cd96797082270d9b
+      ref: 50388ce0778eee1e54d3a0047a42612a40d0344e
 
 dev_dependencies:
   flutter_test:
