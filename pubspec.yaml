@@ -13,7 +13,7 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 72e2e8048d4c9f732119db11d5297cd495a2467f
+      ref: a90875b7f9d74f5e1f832e08349840af69e42404
   # Merkezdeki oyunlar (her biri kendi deposunda)
   oyun_xox:
     git:
@@ -244,7 +244,7 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 72e2e8048d4c9f732119db11d5297cd495a2467f
+      ref: a90875b7f9d74f5e1f832e08349840af69e42404
   masa_motoru:
     git:
       url: https://github.com/taktemurr-ops/masa-motoru
