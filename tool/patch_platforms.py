@@ -111,6 +111,11 @@ def android():
         else:
             s = s.replace("minSdkVersion flutter.minSdkVersion", "minSdkVersion Math.max(flutter.minSdkVersion, 23)")
             s = s.replace("minSdk flutter.minSdkVersion", "minSdk Math.max(flutter.minSdkVersion, 23)")
+        # Yerel bildirim eklentisi Java 8+ kütüphaneleri ister (desugaring).
+        if kts and "isCoreLibraryDesugaringEnabled" not in s:
+            s = s.replace("compileOptions {", "compileOptions {\n        isCoreLibraryDesugaringEnabled = true", 1)
+        if kts and "desugar_jdk_libs" not in s:
+            s += '\ndependencies {\n    coreLibraryDesugaring("com.android.tools:desugar_jdk_libs:2.1.4")\n}\n'
         # Release signing from CI secrets when available (see docs/RELEASE.md).
         if kts and os.environ.get("ANDROID_KEYSTORE_PATH") and "gs100Release" not in s:
             s = s.replace(
@@ -179,12 +184,12 @@ def ios():
     podfile = "ios/Podfile"
     if os.path.exists(podfile):
         s = read(podfile)
-        s = re.sub(r"#?\s*platform :ios, '[0-9.]+'", "platform :ios, '14.0'", s, count=1)
+        s = re.sub(r"#?\s*platform :ios, '[0-9.]+'", "platform :ios, '15.0'", s, count=1)
         write(podfile, s)
     pbx = "ios/Runner.xcodeproj/project.pbxproj"
     if os.path.exists(pbx):
         s = read(pbx)
-        s = re.sub(r"IPHONEOS_DEPLOYMENT_TARGET = [0-9.]+;", "IPHONEOS_DEPLOYMENT_TARGET = 14.0;", s)
+        s = re.sub(r"IPHONEOS_DEPLOYMENT_TARGET = [0-9.]+;", "IPHONEOS_DEPLOYMENT_TARGET = 15.0;", s)
         # Universal app: iPhone (1) + iPad (2).
         s = re.sub(r'TARGETED_DEVICE_FAMILY = "?[0-9,]+"?;', 'TARGETED_DEVICE_FAMILY = "1,2";', s)
         write(pbx, s)
