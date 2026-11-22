@@ -43,8 +43,15 @@ void main() {
       'oyun-kore-satranci',
       'oyun-japon-satranci',
       'oyun-kose-yerlestirme',
+      'oyun-emlak-ticareti',
+      'oyun-dunya-hakimiyeti',
+      'oyun-yerlesim-kurma',
+      'oyun-okey',
+      'oyun-101-okey',
+      'oyun-domino',
+      'oyun-mahjong',
     ]);
-    expect(all.length, ids.length + 32);
+    expect(all.length, ids.length + 38);
     expect(all.toSet().length, all.length);
     expect(ids.toSet().length, ids.length);
     for (final g in hubConfig.allGames) {

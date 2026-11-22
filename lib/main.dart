@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:oyun_101_okey/oyun_101_okey.dart';
 import 'package:oyun_alquerque/oyun_alquerque.dart';
 import 'package:oyun_altili_bag/oyun_altili_bag.dart';
 import 'package:oyun_amiral_batti/oyun_amiral_batti.dart';
@@ -8,8 +9,11 @@ import 'package:oyun_cin_satranci/oyun_cin_satranci.dart';
 import 'package:oyun_dama/oyun_dama.dart';
 import 'package:oyun_dama_cesitleri/oyun_dama_cesitleri.dart';
 import 'package:oyun_dokuz_tas/oyun_dokuz_tas.dart';
+import 'package:oyun_domino/oyun_domino.dart';
 import 'package:oyun_dortle/oyun_dortle.dart';
+import 'package:oyun_dunya_hakimiyeti/oyun_dunya_hakimiyeti.dart';
 import 'package:oyun_duvar_yarisi/oyun_duvar_yarisi.dart';
+import 'package:oyun_emlak_ticareti/oyun_emlak_ticareti.dart';
 import 'package:oyun_fanorona/oyun_fanorona.dart';
 import 'package:oyun_farkle/oyun_farkle.dart';
 import 'package:oyun_go/oyun_go.dart';
@@ -22,10 +26,14 @@ import 'package:oyun_kapmali_besleme/oyun_kapmali_besleme.dart';
 import 'package:oyun_kizma_birader/oyun_kizma_birader.dart';
 import 'package:oyun_kore_satranci/oyun_kore_satranci.dart';
 import 'package:oyun_kose_yerlestirme/oyun_kose_yerlestirme.dart';
+import 'package:oyun_mahjong/oyun_mahjong.dart';
+import 'package:oyun_mahjong_cesitleri/oyun_mahjong_cesitleri.dart';
 import 'package:oyun_mangala/oyun_mangala.dart';
 import 'package:oyun_mangala_cesitleri/oyun_mangala_cesitleri.dart';
 import 'package:oyun_mermer_itme/oyun_mermer_itme.dart';
 import 'package:oyun_noktalar_ve_kutular/oyun_noktalar_ve_kutular.dart';
+import 'package:oyun_okey/oyun_okey.dart';
+import 'package:oyun_okey_cesitleri/oyun_okey_cesitleri.dart';
 import 'package:oyun_reversi/oyun_reversi.dart';
 import 'package:oyun_satranc/oyun_satranc.dart';
 import 'package:oyun_satranc_cesitleri/oyun_satranc_cesitleri.dart';
@@ -37,6 +45,7 @@ import 'package:oyun_turk_damasi/oyun_turk_damasi.dart';
 import 'package:oyun_ur/oyun_ur.dart';
 import 'package:oyun_xox/oyun_xox.dart';
 import 'package:oyun_yalanci_zari/oyun_yalanci_zari.dart';
+import 'package:oyun_yerlesim_kurma/oyun_yerlesim_kurma.dart';
 import 'package:oyun_yilan_merdiven/oyun_yilan_merdiven.dart';
 import 'package:oyun_yut/oyun_yut.dart';
 import 'package:oyun_zar_beslisi/oyun_zar_beslisi.dart';
@@ -156,8 +165,15 @@ final hubConfig = HubConfig(
     koreSatranciConfig,
     japonSatranciConfig,
     koseConfig,
+    emlakConfig,
+    dunyaConfig,
+    yerlesimConfig,
+    okeyConfig,
+    okey101Config,
+    dominoConfig,
+    mahjongConfig,
   ],
-  groups: [satrancCesitGroup, damaCesitGroup, mangalaCesitGroup, tavlaCesitGroup],
+  groups: [satrancCesitGroup, damaCesitGroup, mangalaCesitGroup, tavlaCesitGroup, okeyCesitGroup, mahjongCesitGroup],
 );
 
 void main() => bootstrapHub(hubConfig);

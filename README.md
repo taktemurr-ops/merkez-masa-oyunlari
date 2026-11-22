@@ -41,9 +41,18 @@ Masa ailesinin **merkez uygulaması**: aynı ailedeki oyunları tek mağaza uygu
 | Kore Satrancı | [oyun-kore-satranci](https://github.com/taktemurr-ops/oyun-kore-satranci) |
 | Japon Satrancı | [oyun-japon-satranci](https://github.com/taktemurr-ops/oyun-japon-satranci) |
 | Köşe Yerleştirme | [oyun-kose-yerlestirme](https://github.com/taktemurr-ops/oyun-kose-yerlestirme) |
+| Emlak Ticareti | [oyun-emlak-ticareti](https://github.com/taktemurr-ops/oyun-emlak-ticareti) |
+| Dünya Hâkimiyeti | [oyun-dunya-hakimiyeti](https://github.com/taktemurr-ops/oyun-dunya-hakimiyeti) |
+| Yerleşim Kurma | [oyun-yerlesim-kurma](https://github.com/taktemurr-ops/oyun-yerlesim-kurma) |
+| Okey | [oyun-okey](https://github.com/taktemurr-ops/oyun-okey) |
+| 101 Okey | [oyun-101-okey](https://github.com/taktemurr-ops/oyun-101-okey) |
+| Domino | [oyun-domino](https://github.com/taktemurr-ops/oyun-domino) |
+| Mahjong | [oyun-mahjong](https://github.com/taktemurr-ops/oyun-mahjong) |
 | Satranç Çeşitleri (10) | [oyun-satranc-cesitleri](https://github.com/taktemurr-ops/oyun-satranc-cesitleri) |
 | Dama Çeşitleri (8) | [oyun-dama-cesitleri](https://github.com/taktemurr-ops/oyun-dama-cesitleri) |
 | Mangala Çeşitleri (8) | [oyun-mangala-cesitleri](https://github.com/taktemurr-ops/oyun-mangala-cesitleri) |
 | Tavla Çeşitleri (6) | [oyun-tavla-cesitleri](https://github.com/taktemurr-ops/oyun-tavla-cesitleri) |
+| Okey Çeşitleri (3) | [oyun-okey-cesitleri](https://github.com/taktemurr-ops/oyun-okey-cesitleri) |
+| Mahjong Çeşitleri (3) | [oyun-mahjong-cesitleri](https://github.com/taktemurr-ops/oyun-mahjong-cesitleri) |
 
 Test APK: https://github.com/taktemurr-ops/merkez-masa-oyunlari/releases/download/test/merkez-masa-oyunlari.apk

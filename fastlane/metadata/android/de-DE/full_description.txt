@@ -1,9 +1,10 @@
-Brettspiele vereint 37 Brettspiele und 32 Varianten in einer App, mit eigenem Brett- und Figurendesign. Strategieklassiker wie Schach und Dame, Backgammon und Würfelspiele, Mancala und schnelle Spiele; jedes Spiel hat eigenen Fortschritt, Aufgaben und Erfolge.
+Brettspiele vereint 44 Brettspiele und 38 Varianten in einer App, mit eigenem Brett- und Figurendesign. Strategieklassiker wie Schach und Dame, Backgammon und Würfelspiele, Mancala und schnelle Spiele; jedes Spiel hat eigenen Fortschritt, Aufgaben und Erfolge.
 
 • Strategieklassiker: Schach, Dame, Türkische Dame, Go, Reversi, Mühle, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Sternhalma, Fanorona, Murmelschubs, Mauerlauf, Seeschlacht, Chinesisches Schach, Koreanisches Schach, Japanisches Schach
 • Reihen und Verbindungen: Drei gewinnt, Vier in einer Reihe, Fünf in einer Reihe, Fünf & Fangen, Sechs in einer Reihe, Hex, Ringe & Brücken, Käsekästchen, Ecke an Ecke
-• Würfel und Rennen: Backgammon, Mensch ärgere dich nicht, Leiterspiel, Fünf Würfel, Farkle, Lügenwürfel, Königliches Spiel von Ur, Senet, Yut
-• Variantenpakete: Schach-Vielfalt (10), Dame-Vielfalt (8), Saatspiele (8), Backgammon-Vielfalt (6)
+• Würfel und Rennen: Backgammon, Mensch ärgere dich nicht, Leiterspiel, Fünf Würfel, Farkle, Lügenwürfel, Königliches Spiel von Ur, Senet, Yut, Immobilienhandel, Weltherrschaft, Siedlungsbau
+• Steinspiele: Okey, 101 Okey, Domino, Mahjong
+• Variantenpakete: Schach-Vielfalt (10), Dame-Vielfalt (8), Saatspiele (8), Backgammon-Vielfalt (6), Okey-Varianten (3), Mahjong-Varianten (3)
 
 Highlights
 • 50.000 Level pro Spiel; Eröffnungen und Gegnerstärke steigen schrittweise, jedes Level wird von einer starken KI geprüft.
