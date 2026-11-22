@@ -24,6 +24,14 @@ void main() {
       'oyun-zar-beslisi',
       'oyun-farkle',
       'oyun-yalanci-zari',
+      'oyun-kapmali-besleme',
+      'oyun-altili-bag',
+      'oyun-halma',
+      'oyun-cin-damasi',
+      'oyun-alquerque',
+      'oyun-surakarta',
+      'oyun-hnefatafl',
+      'oyun-halka-ve-kopru',
     ]);
     expect(all.length, ids.length + 30);
     expect(all.toSet().length, all.length);

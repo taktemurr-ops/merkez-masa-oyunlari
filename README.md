@@ -22,6 +22,14 @@ Masa ailesinin **merkez uygulaması**: aynı ailedeki oyunları tek mağaza uygu
 | Zar Beşlisi | [oyun-zar-beslisi](https://github.com/taktemurr-ops/oyun-zar-beslisi) |
 | Farkle | [oyun-farkle](https://github.com/taktemurr-ops/oyun-farkle) |
 | Yalancı Zarı | [oyun-yalanci-zari](https://github.com/taktemurr-ops/oyun-yalanci-zari) |
+| Kapmalı Beşleme | [oyun-kapmali-besleme](https://github.com/taktemurr-ops/oyun-kapmali-besleme) |
+| Altılı Bağ | [oyun-altili-bag](https://github.com/taktemurr-ops/oyun-altili-bag) |
+| Halma | [oyun-halma](https://github.com/taktemurr-ops/oyun-halma) |
+| Çin Daması | [oyun-cin-damasi](https://github.com/taktemurr-ops/oyun-cin-damasi) |
+| Alquerque | [oyun-alquerque](https://github.com/taktemurr-ops/oyun-alquerque) |
+| Surakarta | [oyun-surakarta](https://github.com/taktemurr-ops/oyun-surakarta) |
+| Hnefatafl | [oyun-hnefatafl](https://github.com/taktemurr-ops/oyun-hnefatafl) |
+| Halka ve Köprü | [oyun-halka-ve-kopru](https://github.com/taktemurr-ops/oyun-halka-ve-kopru) |
 | Satranç Çeşitleri (9) | [oyun-satranc-cesitleri](https://github.com/taktemurr-ops/oyun-satranc-cesitleri) |
 | Dama Çeşitleri (8) | [oyun-dama-cesitleri](https://github.com/taktemurr-ops/oyun-dama-cesitleri) |
 | Mangala Çeşitleri (8) | [oyun-mangala-cesitleri](https://github.com/taktemurr-ops/oyun-mangala-cesitleri) |

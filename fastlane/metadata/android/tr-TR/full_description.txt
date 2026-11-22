@@ -1,7 +1,7 @@
-Masa Oyunları, 18 masa oyununu ve 30 çeşidi stüdyonun kendine özgü tahta ve taş tasarımıyla tek uygulamada toplar. Satranç ve dama gibi strateji klasikleri, tavla ve zar oyunları, mangala ve hızlı oyunlar; her oyunun kendi kayıtları, görevleri ve başarımları vardır.
+Masa Oyunları, 26 masa oyununu ve 30 çeşidi stüdyonun kendine özgü tahta ve taş tasarımıyla tek uygulamada toplar. Satranç ve dama gibi strateji klasikleri, tavla ve zar oyunları, mangala ve hızlı oyunlar; her oyunun kendi kayıtları, görevleri ve başarımları vardır.
 
-• Strateji klasikleri: Satranç, Dama, Türk Daması, Go, Reversi, Dokuz Taş, Mangala
-• Çizgi ve bağlantı: XOX, Dörtle, Beşleme, Hex, Noktalar ve Kutular
+• Strateji klasikleri: Satranç, Dama, Türk Daması, Go, Reversi, Dokuz Taş, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Çin Daması
+• Çizgi ve bağlantı: XOX, Dörtle, Beşleme, Kapmalı Beşleme, Altılı Bağ, Hex, Halka ve Köprü, Noktalar ve Kutular
 • Zar ve yarış: Tavla, Kızma Birader, Yılan Merdiven, Zar Beşlisi, Farkle, Yalancı Zarı
 • Çeşit paketleri: Satranç Çeşitleri (9), Dama Çeşitleri (8), Mangala Çeşitleri (8), Tavla Çeşitleri (5)
 

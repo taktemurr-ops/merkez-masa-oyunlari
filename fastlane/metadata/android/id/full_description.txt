@@ -1,7 +1,7 @@
-Permainan Papan menghadirkan 18 permainan papan dan 30 varian dalam satu aplikasi, dengan desain papan dan bidak sendiri. Klasik strategi seperti catur dan dam, backgammon dan permainan dadu, congklak dan permainan cepat; setiap permainan punya kemajuan, misi, dan pencapaian sendiri.
+Permainan Papan menghadirkan 26 permainan papan dan 30 varian dalam satu aplikasi, dengan desain papan dan bidak sendiri. Klasik strategi seperti catur dan dam, backgammon dan permainan dadu, congklak dan permainan cepat; setiap permainan punya kemajuan, misi, dan pencapaian sendiri.
 
-• Klasik strategi: Catur, Dam, Dam Turki, Go, Reversi, Sembilan Bidak, Mangala
-• Garis dan sambungan: Tic-tac-toe, Empat Sejajar, Lima Sejajar, Hex, Titik dan Kotak
+• Klasik strategi: Catur, Dam, Dam Turki, Go, Reversi, Sembilan Bidak, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Dam Cina
+• Garis dan sambungan: Tic-tac-toe, Empat Sejajar, Lima Sejajar, Lima dan Tangkap, Enam Sebaris, Hex, Cincin dan Jembatan, Titik dan Kotak
 • Dadu dan balapan: Backgammon, Jangan Marah, Ular Tangga, Lima Dadu, Farkle, Dadu Pembohong
 • Paket varian: Ragam Catur (9), Ragam Dam (8), Permainan Menabur (8), Ragam Backgammon (5)
 

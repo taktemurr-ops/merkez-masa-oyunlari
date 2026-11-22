@@ -87,6 +87,38 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-yalanci-zari
       ref: 1d4f99843c0b6e390a77690fde08f2bbc846ee05
+  oyun_kapmali_besleme:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kapmali-besleme
+      ref: 2be01df691632d4951236b1c9f622959ebcd83ed
+  oyun_altili_bag:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-altili-bag
+      ref: 9352467bd8d6ad6a2733a3655689429cd76181c6
+  oyun_halma:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-halma
+      ref: 9d95989ad4f8563488f0321c6a0d785aa8f3a7d9
+  oyun_cin_damasi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-cin-damasi
+      ref: 2743d05a4c766b2b9a5a2cf14db02a8fcc966eed
+  oyun_alquerque:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-alquerque
+      ref: 8739990a339d583736bc4d725a82175d519b3bca
+  oyun_surakarta:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-surakarta
+      ref: 007460cee5b958f2a2affc070ec5a8bc9348b346
+  oyun_hnefatafl:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-hnefatafl
+      ref: 478f7dc9d850b110043974c7f4e1e9215f30d444
+  oyun_halka_ve_kopru:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-halka-ve-kopru
+      ref: 8dad28ec6cb35c6cd533f3394e9e804004d95102
   oyun_satranc_cesitleri:
     git:
       url: https://github.com/taktemurr-ops/oyun-satranc-cesitleri
@@ -120,7 +152,7 @@ dependency_overrides:
   masa_motoru:
     git:
       url: https://github.com/taktemurr-ops/masa-motoru
-      ref: 03fe717a6ac7de313d23e19de1cb79263621b348
+      ref: 2488191ac2140f13738bd20074e28d57366210e7
 
 dev_dependencies:
   flutter_test:

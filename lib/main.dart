@@ -1,12 +1,19 @@
 import 'package:flutter/material.dart';
+import 'package:oyun_alquerque/oyun_alquerque.dart';
+import 'package:oyun_altili_bag/oyun_altili_bag.dart';
 import 'package:oyun_besleme/oyun_besleme.dart';
+import 'package:oyun_cin_damasi/oyun_cin_damasi.dart';
 import 'package:oyun_dama/oyun_dama.dart';
 import 'package:oyun_dama_cesitleri/oyun_dama_cesitleri.dart';
 import 'package:oyun_dokuz_tas/oyun_dokuz_tas.dart';
 import 'package:oyun_dortle/oyun_dortle.dart';
 import 'package:oyun_farkle/oyun_farkle.dart';
 import 'package:oyun_go/oyun_go.dart';
+import 'package:oyun_halka_ve_kopru/oyun_halka_ve_kopru.dart';
+import 'package:oyun_halma/oyun_halma.dart';
 import 'package:oyun_hex/oyun_hex.dart';
+import 'package:oyun_hnefatafl/oyun_hnefatafl.dart';
+import 'package:oyun_kapmali_besleme/oyun_kapmali_besleme.dart';
 import 'package:oyun_kizma_birader/oyun_kizma_birader.dart';
 import 'package:oyun_mangala/oyun_mangala.dart';
 import 'package:oyun_mangala_cesitleri/oyun_mangala_cesitleri.dart';
@@ -14,6 +21,7 @@ import 'package:oyun_noktalar_ve_kutular/oyun_noktalar_ve_kutular.dart';
 import 'package:oyun_reversi/oyun_reversi.dart';
 import 'package:oyun_satranc/oyun_satranc.dart';
 import 'package:oyun_satranc_cesitleri/oyun_satranc_cesitleri.dart';
+import 'package:oyun_surakarta/oyun_surakarta.dart';
 import 'package:oyun_tavla/oyun_tavla.dart';
 import 'package:oyun_tavla_cesitleri/oyun_tavla_cesitleri.dart';
 import 'package:oyun_turk_damasi/oyun_turk_damasi.dart';
@@ -118,6 +126,14 @@ final hubConfig = HubConfig(
     zarBesliConfig,
     farkleConfig,
     yalanciConfig,
+    kapmaliConfig,
+    altiliConfig,
+    halmaConfig,
+    cinDamasiConfig,
+    alquerqueConfig,
+    surakartaConfig,
+    taflConfig,
+    halkaConfig,
   ],
   groups: [satrancCesitGroup, damaCesitGroup, mangalaCesitGroup, tavlaCesitGroup],
 );

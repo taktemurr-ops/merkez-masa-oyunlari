@@ -1,7 +1,7 @@
-Brettspiele vereint 18 Brettspiele und 30 Varianten in einer App, mit eigenem Brett- und Figurendesign. Strategieklassiker wie Schach und Dame, Backgammon und Würfelspiele, Mancala und schnelle Spiele; jedes Spiel hat eigenen Fortschritt, Aufgaben und Erfolge.
+Brettspiele vereint 26 Brettspiele und 30 Varianten in einer App, mit eigenem Brett- und Figurendesign. Strategieklassiker wie Schach und Dame, Backgammon und Würfelspiele, Mancala und schnelle Spiele; jedes Spiel hat eigenen Fortschritt, Aufgaben und Erfolge.
 
-• Strategieklassiker: Schach, Dame, Türkische Dame, Go, Reversi, Mühle, Mangala
-• Reihen und Verbindungen: Drei gewinnt, Vier in einer Reihe, Fünf in einer Reihe, Hex, Käsekästchen
+• Strategieklassiker: Schach, Dame, Türkische Dame, Go, Reversi, Mühle, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Sternhalma
+• Reihen und Verbindungen: Drei gewinnt, Vier in einer Reihe, Fünf in einer Reihe, Fünf & Fangen, Sechs in einer Reihe, Hex, Ringe & Brücken, Käsekästchen
 • Würfel und Rennen: Backgammon, Mensch ärgere dich nicht, Leiterspiel, Fünf Würfel, Farkle, Lügenwürfel
 • Variantenpakete: Schach-Vielfalt (9), Dame-Vielfalt (8), Saatspiele (8), Backgammon-Vielfalt (5)
 
