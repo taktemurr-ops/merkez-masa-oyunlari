@@ -77,6 +77,15 @@ void main() {
       await wait();
     }
 
+    Future<void> scrollTap(String text) async {
+      final f = find.text(text);
+      if (f.evaluate().isEmpty) {
+        await tester.scrollUntilVisible(f, 300, scrollable: find.byType(Scrollable).first, maxScrolls: 80);
+      }
+      await tapText(text);
+    }
+
+
     // Sahte sunucu: biz ve bize davet gönderecek bir arkadaş.
     final server = MemoryServer();
     final me = MemoryBackend(server, 'ben');
@@ -111,7 +120,9 @@ void main() {
     await stranger.createMatch('oyun-101-okey', 4, private: false);
 
     final okey = hub.hubConfig.allGames.firstWhere((g) => g.gameId == 'oyun-101-okey');
-    await step('101 okey ac', () => tapText(hub.hubConfig.localized(okey.title, lang)));
+    await step('rehberi kapat', () => tapText(t.t('hub_browse')));
+    await shot('ana_liste');
+    await step('101 okey ac', () => scrollTap(hub.hubConfig.localized(okey.title, lang)));
     await wait(3000);
     await shot('oyun_ana_ekran');
     await step('modlara in', () async {
