@@ -16,7 +16,6 @@ import 'package:studio_core/app/theme.dart';
 import 'package:studio_core/app/widgets.dart';
 import 'package:studio_core/core/game_rules.dart';
 import 'package:studio_core/core/level_plan.dart';
-import 'package:studio_core/core/rng.dart';
 import 'package:studio_core/core/strings.dart';
 
 import 'store_texts.dart';
