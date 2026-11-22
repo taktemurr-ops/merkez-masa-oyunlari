@@ -1,0 +1,16 @@
+Jocuri de Societate reunește 18 jocuri de societate și 30 variante într-o singură aplicație, cu table și piese în design propriu. Clasice de strategie ca șahul și damele, table și jocuri cu zaruri, mancala și jocuri rapide; fiecare joc are progresul, misiunile și realizările sale.
+
+• Clasice de strategie: Șah, Dame, Dame turcești, Go, Reversi, Moară, Mangala
+• Linii și conexiuni: X și 0, Patru în linie, Cinci în linie, Hex, Puncte și pătrate
+• Zaruri și curse: Table, Nu te supăra, frate, Șerpi și scări, Cinci zaruri, Farkle, Zarurile mincinosului
+• Pachete de variante: Variante de Șah (9), Variante de Dame (8), Jocuri de Semănat (8), Variante de Table (5)
+
+Puncte forte
+• 50.000 de niveluri pe joc; deschiderile și forța adversarului cresc treptat, iar fiecare nivel e verificat de o IA puternică.
+• Zece trepte de dificultate: începuturi relaxate, apoi adversari maeștri.
+• Indicii și anulare; la jocurile cu zaruri, zarurile se dau automat.
+• Niveluri zilnice și săptămânale, misiuni, realizări și 33 de limbi.
+• Se joacă offline pe telefon, tabletă și web.
+• Fără jocuri de noroc, pariuri sau conținut 18+; zarurile sunt doar parte a jocului.
+
+Achizițiile (de ex. fără reclame) se aplică tuturor jocurilor din aplicație.

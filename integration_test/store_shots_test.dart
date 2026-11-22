@@ -1,0 +1,302 @@
+// Mağaza görselleri: gerçek oyun ekranlarını 33 dilde, başlıklı bir
+// çerçeve içinde çizer ve ekran görüntüsü alır. Yalnızca store-shots iş
+// akışında çalışır (flutter drive). Çıktıyı tool/crop_store.py kırpar.
+import 'dart:convert';
+import 'dart:math' as math;
+import 'dart:ui' as ui;
+
+import 'package:flutter/material.dart';
+import 'package:flutter/rendering.dart';
+import 'package:flutter_localizations/flutter_localizations.dart';
+import 'package:flutter_test/flutter_test.dart';
+import 'package:integration_test/integration_test.dart';
+import 'package:merkez_masa_oyunlari/main.dart' as hub;
+import 'package:studio_core/app/game_api.dart';
+import 'package:studio_core/app/theme.dart';
+import 'package:studio_core/app/widgets.dart';
+import 'package:studio_core/core/game_rules.dart';
+import 'package:studio_core/core/level_plan.dart';
+import 'package:studio_core/core/rng.dart';
+import 'package:studio_core/core/strings.dart';
+
+import 'store_texts.dart';
+
+class _Shot {
+  final String gameId;
+  final int level;
+  final Map<String, Object?> Function(GeneratedLevel g) resume;
+  const _Shot(this.gameId, this.level, this.resume);
+}
+
+Map<String, Object?> _none(GeneratedLevel g) => const {};
+
+const _shots = [
+  _Shot('oyun-satranc', 2600, _none),
+  _Shot('oyun-tavla', 900, _none),
+  _Shot('oyun-mangala', 1500, _none),
+  _Shot('oyun-turk-damasi', 2200, _none),
+  _Shot('oyun-go', 3100, _none),
+  _Shot('oyun-dortle', 1200, _none),
+];
+
+Widget _app(String lang, Widget child) => MaterialApp(
+      debugShowCheckedModeBanner: false,
+      theme: buildTheme(hub.hubConfig.seedColor, Brightness.light),
+      locale: Locale(lang),
+      supportedLocales: Strings.languages.map(Locale.new).toList(),
+      localizationsDelegates: const [
+        GlobalMaterialLocalizations.delegate,
+        GlobalWidgetsLocalizations.delegate,
+        GlobalCupertinoLocalizations.delegate,
+      ],
+      home: child,
+    );
+
+/// Oyun ekranı: oyunun kendi çizimi, üstte başlık çubuğu (oyun içindeki gibi).
+Widget _gameScreen(GameConfig cfg, GeneratedLevel g, Map<String, Object?> resume, String lang) {
+  final strings = Strings(lang);
+  final ctx = PlayContext(
+    spec: g.spec,
+    generated: g,
+    resume: resume,
+    pieceColors: Palettes.skin(0),
+    background: Palettes.theme(g.spec.theme),
+    colorBlind: false,
+    reducedMotion: true,
+    leftHanded: false,
+    lang: lang,
+    t: strings.t,
+    finish: (_) {},
+    saveResume: (_) {},
+    requestHint: () async => false,
+    requestBooster: () async => false,
+    requestContinue: () async => false,
+    sfx: (_) {},
+  );
+  return Scaffold(
+    appBar: AppBar(
+      title: Text('${cfg.localized(cfg.title, lang)} · ${strings.t('level', {'n': g.spec.levelId})}',
+          overflow: TextOverflow.ellipsis),
+      leading: const Icon(Icons.pause_circle),
+    ),
+    body: ThemedBackground(colors: Palettes.theme(g.spec.theme), child: SafeArea(child: cfg.buildPlay(ctx))),
+  );
+}
+
+/// Mağaza görseli: [box] mantıksal boyutunda, üstte başlık, ortada telefon
+/// ya da tablet çerçevesinde oyun ekranı.
+Widget _storeFrame({required Size box, required Size device, required String caption, required Widget screen, required bool rtl}) {
+  final colors = Palettes.theme(3);
+  return Directionality(
+    textDirection: rtl ? TextDirection.rtl : TextDirection.ltr,
+    child: Align(
+      alignment: Alignment.topLeft,
+      child: SizedBox(
+        width: box.width,
+        height: box.height,
+        child: DecoratedBox(
+          decoration: BoxDecoration(
+            gradient: LinearGradient(
+              begin: Alignment.topCenter,
+              end: Alignment.bottomCenter,
+              colors: [hub.hubConfig.seedColor, colors.last, colors.first],
+            ),
+          ),
+          child: Column(children: [
+            SizedBox(
+              height: box.height * 0.16,
+              child: Center(
+                child: Padding(
+                  padding: EdgeInsets.symmetric(horizontal: box.width * 0.06),
+                  child: Text(
+                    caption,
+                    textAlign: TextAlign.center,
+                    maxLines: 2,
+                    style: TextStyle(
+                      color: Colors.white,
+                      fontWeight: FontWeight.w800,
+                      fontSize: math.min(box.width, box.height) * 0.072,
+                      height: 1.15,
+                      shadows: const [Shadow(blurRadius: 8, color: Colors.black38)],
+                    ),
+                  ),
+                ),
+              ),
+            ),
+            Expanded(
+              child: Padding(
+                padding: EdgeInsets.fromLTRB(box.width * 0.07, 0, box.width * 0.07, box.height * 0.035),
+                child: FittedBox(
+                  child: Container(
+                    padding: const EdgeInsets.all(10),
+                    decoration: BoxDecoration(
+                      color: const Color(0xFF111318),
+                      borderRadius: BorderRadius.circular(36),
+                      boxShadow: const [BoxShadow(blurRadius: 30, color: Colors.black45, offset: Offset(0, 10))],
+                    ),
+                    child: ClipRRect(
+                      borderRadius: BorderRadius.circular(26),
+                      child: SizedBox(
+                        width: device.width,
+                        height: device.height,
+                        child: MediaQuery(
+                          data: MediaQueryData(size: device, devicePixelRatio: 2.5, padding: EdgeInsets.zero),
+                          child: screen,
+                        ),
+                      ),
+                    ),
+                  ),
+                ),
+              ),
+            ),
+          ]),
+        ),
+      ),
+    ),
+  );
+}
+
+/// Öne çıkan görsel için tahta: dama tahtası, iki taş ve bir zar.
+class _BoardPainter extends CustomPainter {
+  const _BoardPainter();
+
+  @override
+  void paint(Canvas c, Size size) {
+    final s = size.height * 0.16;
+    final x0 = size.width / 2 - 2 * s, y0 = size.height / 2 - 2 * s - 8;
+    c.drawRRect(RRect.fromRectAndRadius(Rect.fromLTWH(x0 - s * 0.25, y0 - s * 0.25, s * 4.5, s * 4.5), Radius.circular(s * 0.3)),
+        Paint()..color = const Color(0xFF8A5A34));
+    for (var gy = 0; gy < 4; gy++) {
+      for (var gx = 0; gx < 4; gx++) {
+        c.drawRect(Rect.fromLTWH(x0 + gx * s, y0 + gy * s, s, s),
+            Paint()..color = (gx + gy).isEven ? const Color(0xFFF1DDB8) : const Color(0xFFB9824F));
+      }
+    }
+    for (final (gx, gy, col) in const [(1, 2, Color(0xFF24303F)), (2, 1, Color(0xFFF7F2E8))]) {
+      final o = Offset(x0 + (gx + 0.5) * s, y0 + (gy + 0.5) * s);
+      c.drawCircle(o + Offset(0, s * 0.06), s * 0.38, Paint()..color = Colors.black26);
+      c.drawCircle(o, s * 0.38, Paint()..color = col);
+    }
+    final d = Rect.fromCenter(center: Offset(x0 + 4 * s, y0 + 3.9 * s), width: s * 1.15, height: s * 1.15);
+    c.drawRRect(RRect.fromRectAndRadius(d, Radius.circular(s * 0.22)), Paint()..color = Colors.white);
+    for (final f in const [-0.25, 0.0, 0.25]) {
+      c.drawCircle(d.center + Offset(f * d.width, f * d.height), d.width * 0.09, Paint()..color = const Color(0xFFC0392B));
+    }
+  }
+
+  @override
+  bool shouldRepaint(covariant CustomPainter oldDelegate) => false;
+}
+
+/// Öne çıkan görsel (512×250 mantıksal = 1024×500 piksel, oran 2).
+Widget _feature(String lang) {
+  final rtl = Strings(lang).rtl;
+  final colors = Palettes.theme(3);
+  return Directionality(
+    textDirection: rtl ? TextDirection.rtl : TextDirection.ltr,
+    child: Align(
+      alignment: Alignment.topLeft,
+      child: SizedBox(
+        width: 512,
+        height: 250,
+        child: DecoratedBox(
+          decoration: BoxDecoration(
+            gradient: LinearGradient(colors: [hub.hubConfig.seedColor, colors.first]),
+          ),
+          child: Row(children: [
+            const SizedBox(width: 210, height: 250, child: CustomPaint(painter: _BoardPainter())),
+            Expanded(
+              child: Padding(
+                padding: const EdgeInsetsDirectional.only(end: 22),
+                child: Column(mainAxisAlignment: MainAxisAlignment.center, crossAxisAlignment: CrossAxisAlignment.start, children: [
+                  Text(Strings.pick(hub.hubConfig.title, lang),
+                      maxLines: 1,
+                      style: const TextStyle(color: Colors.white, fontSize: 34, fontWeight: FontWeight.w900)),
+                  const SizedBox(height: 8),
+                  Text(Strings.pick(hub.hubConfig.tagline, lang),
+                      maxLines: 3,
+                      style: const TextStyle(color: Color(0xEEFFFFFF), fontSize: 17, fontWeight: FontWeight.w600, height: 1.2)),
+                ]),
+              ),
+            ),
+          ]),
+        ),
+      ),
+    ),
+  );
+}
+
+/// Görüntü, ekran boyutundan bağımsız olarak [RepaintBoundary] ile çizilir;
+/// böylece telefon ve tablet görselleri tek bir öykünücüde üretilir.
+final _shotKey = GlobalKey();
+
+Widget _offscreen(Size size, Widget child) => OverflowBox(
+      alignment: Alignment.topLeft,
+      minWidth: 0,
+      minHeight: 0,
+      maxWidth: double.infinity,
+      maxHeight: double.infinity,
+      child: RepaintBoundary(key: _shotKey, child: SizedBox(width: size.width, height: size.height, child: child)),
+    );
+
+Future<String> _capture(WidgetTester tester, double pixelRatio) async {
+  final boundary = _shotKey.currentContext!.findRenderObject()! as RenderRepaintBoundary;
+  final bytes = await tester.runAsync(() async {
+    final image = await boundary.toImage(pixelRatio: pixelRatio);
+    final data = await image.toByteData(format: ui.ImageByteFormat.png);
+    image.dispose();
+    return data!.buffer.asUint8List();
+  });
+  return base64Encode(bytes!);
+}
+
+void main() {
+  final binding = IntegrationTestWidgetsFlutterBinding.ensureInitialized();
+
+  testWidgets('mağaza görselleri', (tester) async {
+    await tester.pumpAndSettle();
+    // Telefon 1080×1920 (9:16), tablet 1920×1080 (16:9), öne çıkan 1024×500.
+    const phoneBox = Size(360, 640), tabletBox = Size(1280, 720);
+    const only = String.fromEnvironment('LANGS');
+    final langs = only.isEmpty ? Strings.languages : only.split(',');
+    final games = {for (final g in hub.hubConfig.allGames) g.gameId: g};
+    final built = <String, GeneratedLevel>{};
+    final out = <String, String>{};
+    for (final lang in langs) {
+      final li = Strings.languages.indexOf(lang);
+      for (final tablet in [false, true]) {
+        final box = tablet ? tabletBox : phoneBox;
+        final device = tablet ? const Size(1000, 620) : const Size(400, 800);
+        for (var k = 0; k < _shots.length; k++) {
+          final shot = _shots[k];
+          final cfg = games[shot.gameId]!;
+          final g = built.putIfAbsent(shot.gameId,
+              () => cfg.rules.build(LevelPlanner(gameId: cfg.gameId, optionalMechanics: cfg.rules.optionalMechanics).spec(shot.level)));
+          await tester.pumpWidget(_app(
+            lang,
+            _offscreen(
+              box,
+              _storeFrame(
+                box: box,
+                device: device,
+                caption: storeCaptions[k][li],
+                rtl: Strings(lang).rtl,
+                screen: _gameScreen(cfg, g, shot.resume(g), lang),
+              ),
+            ),
+          ));
+          for (var i = 0; i < 8; i++) {
+            await tester.pump(const Duration(milliseconds: 150));
+          }
+          out['${tablet ? 'tablet' : 'phone'}_${lang}_${k + 1}'] = await _capture(tester, tablet ? 1.5 : 3);
+        }
+      }
+      await tester.pumpWidget(_app(lang, _offscreen(const Size(512, 250), _feature(lang))));
+      await tester.pump(const Duration(milliseconds: 300));
+      out['feature_$lang'] = await _capture(tester, 2);
+      // Bir sonraki dil için oyun ekranlarını temizle (zamanlayıcılar dursun).
+      await tester.pumpWidget(const SizedBox());
+    }
+    binding.reportData = {'shots': out};
+  }, timeout: const Timeout(Duration(minutes: 30)));
+}

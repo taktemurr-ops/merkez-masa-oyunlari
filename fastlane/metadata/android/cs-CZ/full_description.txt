@@ -1,0 +1,16 @@
+Deskové hry spojuje 18 deskových her a 30 variant v jedné aplikaci s vlastním designem desek a figur. Strategická klasika jako šachy a dáma, vrhcáby a hry s kostkami, mankala a rychlé hry; každá hra má vlastní postup, úkoly a úspěchy.
+
+• Strategická klasika: Šachy, Dáma, Turecká dáma, Go, Reversi, Mlýn, Mangala
+• Řady a spojení: Piškvorky 3×3, Čtyři v řadě, Pět v řadě, Hex, Tečky a čtverečky
+• Kostky a závody: Vrhcáby, Člověče, nezlob se, Hadi a žebříky, Pět kostek, Farkle, Kostky lháře
+• Balíčky variant: Šachové Varianty (9), Varianty Dámy (8), Sázecí Hry (8), Varianty Vrhcábů (5)
+
+Hlavní přednosti
+• 50 000 úrovní v každé hře; zahájení i síla soupeře rostou postupně a každou úroveň kontroluje silná AI.
+• Deset stupňů obtížnosti: klidné začátky, později mistrovští soupeři.
+• Nápovědy a vrácení tahu; ve hrách s kostkami se hází automaticky.
+• Denní a týdenní úrovně, úkoly, úspěchy a 33 jazyků.
+• Hraje se offline na telefonu, tabletu i na webu.
+• Žádný hazard, sázky ani obsah 18+; kostky jsou jen součástí hry.
+
+Nákupy (např. bez reklam) platí pro všechny hry v aplikaci.

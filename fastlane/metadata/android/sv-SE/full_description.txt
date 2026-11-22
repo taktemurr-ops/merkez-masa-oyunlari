@@ -1,0 +1,16 @@
+Brädspel samlar 18 brädspel och 30 varianter i en app, med egen design av brädor och pjäser. Strategiklassiker som schack och dam, backgammon och tärningsspel, mancala och snabba spel; varje spel har egna framsteg, uppdrag och prestationer.
+
+• Strategiklassiker: Schack, Dam, Turkisk dam, Go, Reversi, Kvarn, Mangala
+• Rader och förbindelser: Tre i rad, Fyra i rad, Fem i rad, Hex, Prickar och lådor
+• Tärningar och lopp: Backgammon, Fia, Stegar och ormar, Fem tärningar, Farkle, Lögnartärning
+• Variantpaket: Schackvarianter (9), Damvarianter (8), Såspel (8), Backgammonvarianter (5)
+
+Höjdpunkter
+• 50 000 nivåer per spel; öppningar och motståndarens styrka ökar steg för steg, och en stark AI kontrollerar varje nivå.
+• Tio svårighetssteg: lugna första nivåer, senare mästerliga motståndare.
+• Tips och ångra; i tärningsspel slås tärningarna automatiskt.
+• Dagliga och veckovisa nivåer, uppdrag, prestationer och 33 språk.
+• Spelas offline på mobil, surfplatta och webb.
+• Inget hasardspel, vadslagning eller 18+-innehåll; tärningarna är bara en del av spelet.
+
+Köp (t.ex. reklamfritt) gäller alla spel i appen.

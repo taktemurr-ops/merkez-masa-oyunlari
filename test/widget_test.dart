@@ -25,7 +25,7 @@ void main() {
       'oyun-farkle',
       'oyun-yalanci-zari',
     ]);
-    expect(all.length, ids.length + 0);
+    expect(all.length, ids.length + 30);
     expect(all.toSet().length, all.length);
     expect(ids.toSet().length, ids.length);
     for (final g in hubConfig.allGames) {

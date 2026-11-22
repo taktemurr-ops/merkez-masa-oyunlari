@@ -1,0 +1,16 @@
+Trò Chơi Bàn Cờ gom 18 trò chơi bàn cờ và 30 biến thể vào một ứng dụng, với bàn cờ và quân cờ do chúng tôi tự thiết kế. Kinh điển chiến thuật như cờ vua và cờ đam, backgammon và trò xúc xắc, mancala và trò chơi nhanh; mỗi trò đều có tiến độ, nhiệm vụ và thành tích riêng.
+
+• Kinh điển chiến thuật: Cờ vua, Cờ đam, Cờ đam Thổ Nhĩ Kỳ, Cờ vây, Cờ lật, Cờ cối xay, Mangala
+• Xếp hàng và kết nối: Cờ ca-rô 3×3, Bốn quân thẳng hàng, Cờ ca-rô, Hex, Nối điểm thành ô
+• Xúc xắc và đua: Cờ tào cáo, Đừng nổi giận, Rắn và thang, Năm xúc xắc, Farkle, Xúc xắc nói dối
+• Gói biến thể: Các Biến Thể Cờ Vua (9), Các Biến Thể Cờ Đam (8), Trò Chơi Gieo Hạt (8), Các Biến Thể Backgammon (5)
+
+Điểm nổi bật
+• 50.000 màn mỗi trò; khai cuộc và sức mạnh đối thủ tăng dần, mỗi màn đều được AI mạnh kiểm tra.
+• Mười bậc độ khó: đầu nhẹ nhàng, về sau đối thủ cao thủ.
+• Gợi ý và đi lại; trò xúc xắc tự động gieo.
+• Màn hằng ngày và hằng tuần, nhiệm vụ, thành tích và 33 ngôn ngữ.
+• Chơi ngoại tuyến trên điện thoại, máy tính bảng và web.
+• Không cờ bạc, cá cược hay nội dung 18+; xúc xắc chỉ là một phần của trò chơi.
+
+Mua hàng (như bỏ quảng cáo) áp dụng cho mọi trò trong ứng dụng.

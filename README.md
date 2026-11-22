@@ -22,5 +22,9 @@ Masa ailesinin **merkez uygulaması**: aynı ailedeki oyunları tek mağaza uygu
 | Zar Beşlisi | [oyun-zar-beslisi](https://github.com/taktemurr-ops/oyun-zar-beslisi) |
 | Farkle | [oyun-farkle](https://github.com/taktemurr-ops/oyun-farkle) |
 | Yalancı Zarı | [oyun-yalanci-zari](https://github.com/taktemurr-ops/oyun-yalanci-zari) |
+| Satranç Çeşitleri (9) | [oyun-satranc-cesitleri](https://github.com/taktemurr-ops/oyun-satranc-cesitleri) |
+| Dama Çeşitleri (8) | [oyun-dama-cesitleri](https://github.com/taktemurr-ops/oyun-dama-cesitleri) |
+| Mangala Çeşitleri (8) | [oyun-mangala-cesitleri](https://github.com/taktemurr-ops/oyun-mangala-cesitleri) |
+| Tavla Çeşitleri (5) | [oyun-tavla-cesitleri](https://github.com/taktemurr-ops/oyun-tavla-cesitleri) |
 
 Test APK: https://github.com/taktemurr-ops/merkez-masa-oyunlari/releases/download/test/merkez-masa-oyunlari.apk

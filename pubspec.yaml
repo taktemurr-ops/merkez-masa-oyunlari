@@ -87,6 +87,22 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-yalanci-zari
       ref: 1d4f99843c0b6e390a77690fde08f2bbc846ee05
+  oyun_satranc_cesitleri:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-satranc-cesitleri
+      ref: 37b706ab5e42f51f0ff542075de2db068775c0d5
+  oyun_dama_cesitleri:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-dama-cesitleri
+      ref: 6867fd1544f26ba7ba96b5d56f190a9b7c50693d
+  oyun_mangala_cesitleri:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-mangala-cesitleri
+      ref: 1ef8dd39155170f040bf7113ac3809d4a2b6c4b8
+  oyun_tavla_cesitleri:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-tavla-cesitleri
+      ref: 55587d0953b07a553dd45fb42c732541ddceaa2f
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -104,7 +120,7 @@ dependency_overrides:
   masa_motoru:
     git:
       url: https://github.com/taktemurr-ops/masa-motoru
-      ref: 939eff2c81e509c57a51311fcc25f7ec44190fe2
+      ref: 03fe717a6ac7de313d23e19de1cb79263621b348
 
 dev_dependencies:
   flutter_test:

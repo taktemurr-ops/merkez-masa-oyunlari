@@ -1,0 +1,16 @@
+Társasjátékok 18 társasjátékot és 30 változatot fog össze egy alkalmazásban, saját tábla- és bábudizájnnal. Stratégiai klasszikusok, mint a sakk és a dáma, ostábla és kockajátékok, mankala és gyors játékok; minden játéknak saját haladása, küldetései és eredményei vannak.
+
+• Stratégiai klasszikusok: Sakk, Dáma, Török dáma, Go, Reversi, Malom, Mangala
+• Sorok és kapcsolatok: Amőba 3×3, Négy egy sorban, Öt egy sorban, Hex, Pöttyök és dobozok
+• Kocka és verseny: Ostábla, Ki nevet a végén?, Kígyók és létrák, Öt kocka, Farkle, Hazug kocka
+• Változatcsomagok: Sakkváltozatok (9), Dámaváltozatok (8), Vetőjátékok (8), Ostábla-változatok (5)
+
+Kiemelt
+• Játékonként 50 000 pálya; a megnyitások és az ellenfél ereje fokozatosan nő, minden pályát erős MI ellenőriz.
+• Tíz nehézségi fokozat: nyugodt kezdés, később mesteri ellenfelek.
+• Tippek és visszavonás; kockajátékokban a dobás automatikus.
+• Napi és heti pályák, küldetések, eredmények és 33 nyelv.
+• Offline játszható telefonon, tableten és weben.
+• Nincs szerencsejáték, fogadás vagy 18+ tartalom; a kocka csak a játék része.
+
+A vásárlások (pl. reklámmentesség) az alkalmazás minden játékára érvényesek.

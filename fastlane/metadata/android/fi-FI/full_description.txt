@@ -1,0 +1,16 @@
+Lautapelit kokoaa 18 lautapeliä ja 30 muunnelmaa yhteen sovellukseen omalla lauta- ja nappulasuunnittelulla. Strategiaklassikot kuten shakki ja tammi, backgammon ja noppapelit, mancala ja pikapelit; jokaisella pelillä on oma edistyminen, tehtävät ja saavutukset.
+
+• Strategiaklassikot: Shakki, Tammi, Turkkilainen tammi, Go, Reversi, Mylly, Mangala
+• Rivit ja yhteydet: Ristinolla, Neljän suora, Viiden suora, Hex, Pisteet ja laatikot
+• Nopat ja kilpa: Backgammon, Älä suutu, Käärmeet ja tikkaat, Viisi noppaa, Farkle, Valehtelijan noppa
+• Muunnelmapaketit: Shakkimuunnelmat (9), Tammimuunnelmat (8), Kylvöpelit (8), Backgammon-muunnelmat (5)
+
+Kohokohdat
+• 50 000 tasoa peliä kohden; avaukset ja vastustajan taito kasvavat askel askeleelta, ja vahva tekoäly tarkistaa jokaisen tason.
+• Kymmenen vaikeusporrasta: rauhalliset alkutasot, myöhemmin mestarivastustajat.
+• Vihjeet ja kumoa; noppapeleissä heitto on automaattinen.
+• Päivä- ja viikkotasot, tehtävät, saavutukset ja 33 kieltä.
+• Pelattavissa ilman verkkoa puhelimella, tabletilla ja verkossa.
+• Ei rahapelejä, vedonlyöntiä tai K18-sisältöä; nopat ovat vain osa peliä.
+
+Ostokset (esim. mainoksettomuus) koskevat kaikkia sovelluksen pelejä.

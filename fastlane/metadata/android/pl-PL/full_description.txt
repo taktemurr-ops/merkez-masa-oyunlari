@@ -1,0 +1,16 @@
+Gry Planszowe łączy 18 gier planszowych i 30 wariantów w jednej aplikacji, z własnym projektem plansz i pionów. Klasyka strategii jak szachy i warcaby, tryktrak i gry w kości, mankala i szybkie gry; każda gra ma własne postępy, zadania i osiągnięcia.
+
+• Klasyka strategii: Szachy, Warcaby, Warcaby tureckie, Go, Reversi, Młynek, Mangala
+• Linie i połączenia: Kółko i krzyżyk, Cztery w rzędzie, Pięć w rzędzie, Hex, Kropki i kwadraty
+• Kości i wyścigi: Tryktrak, Chińczyk, Węże i drabiny, Pięć kości, Farkle, Kości kłamcy
+• Pakiety wariantów: Odmiany Szachów (9), Odmiany Warcabów (8), Gry w Siew (8), Odmiany Tryktraka (5)
+
+Najważniejsze
+• 50 000 poziomów w każdej grze; otwarcia i siła rywala rosną stopniowo, a każdy poziom sprawdza silna SI.
+• Dziesięć stopni trudności: spokojne początki, później mistrzowscy rywale.
+• Podpowiedzi i cofanie; w grach w kości rzut jest automatyczny.
+• Poziomy dzienne i tygodniowe, zadania, osiągnięcia i 33 języki.
+• Gra offline na telefonie, tablecie i w przeglądarce.
+• Bez hazardu, zakładów i treści 18+; kości to tylko element gry.
+
+Zakupy (np. brak reklam) obowiązują we wszystkich grach w aplikacji.

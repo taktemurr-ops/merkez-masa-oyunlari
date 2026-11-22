@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:oyun_besleme/oyun_besleme.dart';
 import 'package:oyun_dama/oyun_dama.dart';
+import 'package:oyun_dama_cesitleri/oyun_dama_cesitleri.dart';
 import 'package:oyun_dokuz_tas/oyun_dokuz_tas.dart';
 import 'package:oyun_dortle/oyun_dortle.dart';
 import 'package:oyun_farkle/oyun_farkle.dart';
@@ -8,10 +9,13 @@ import 'package:oyun_go/oyun_go.dart';
 import 'package:oyun_hex/oyun_hex.dart';
 import 'package:oyun_kizma_birader/oyun_kizma_birader.dart';
 import 'package:oyun_mangala/oyun_mangala.dart';
+import 'package:oyun_mangala_cesitleri/oyun_mangala_cesitleri.dart';
 import 'package:oyun_noktalar_ve_kutular/oyun_noktalar_ve_kutular.dart';
 import 'package:oyun_reversi/oyun_reversi.dart';
 import 'package:oyun_satranc/oyun_satranc.dart';
+import 'package:oyun_satranc_cesitleri/oyun_satranc_cesitleri.dart';
 import 'package:oyun_tavla/oyun_tavla.dart';
+import 'package:oyun_tavla_cesitleri/oyun_tavla_cesitleri.dart';
 import 'package:oyun_turk_damasi/oyun_turk_damasi.dart';
 import 'package:oyun_xox/oyun_xox.dart';
 import 'package:oyun_yalanci_zari/oyun_yalanci_zari.dart';
@@ -115,6 +119,7 @@ final hubConfig = HubConfig(
     farkleConfig,
     yalanciConfig,
   ],
+  groups: [satrancCesitGroup, damaCesitGroup, mangalaCesitGroup, tavlaCesitGroup],
 );
 
 void main() => bootstrapHub(hubConfig);
