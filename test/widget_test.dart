@@ -16,6 +16,7 @@ void main() {
       'oyun-turk-damasi',
       'oyun-satranc',
       'oyun-mangala',
+      'oyun-bilardo',
       'oyun-dokuz-tas',
       'oyun-go',
       'oyun-tavla',
