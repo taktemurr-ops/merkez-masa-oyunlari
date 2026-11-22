@@ -1,1 +1,1 @@
-45 permainan papan dalam satu aplikasi: catur, dam, backgammon, congklak!
+46 permainan papan dalam satu aplikasi: catur, dam, backgammon, congklak!
