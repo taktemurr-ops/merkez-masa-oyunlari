@@ -1,7 +1,7 @@
 // Mağaza görselleri: gerçek oyun ekranlarını 33 dilde, başlıklı bir
 // çerçeve içinde çizer ve ekran görüntüsü alır. Yalnızca store-shots iş
 // akışında çalışır (flutter drive). Çıktıyı tool/crop_store.py kırpar.
-import 'dart:convert';
+import 'dart:io';
 import 'dart:math' as math;
 import 'dart:ui' as ui;
 
@@ -238,15 +238,17 @@ Widget _offscreen(Size size, Widget child) => OverflowBox(
       child: RepaintBoundary(key: _shotKey, child: SizedBox(width: size.width, height: size.height, child: child)),
     );
 
-Future<String> _capture(WidgetTester tester, double pixelRatio) async {
+/// Görseli uygulamanın geçici klasörüne yazar; iş akışı adb ile çeker.
+Future<void> _capture(WidgetTester tester, double pixelRatio, String name) async {
   final boundary = _shotKey.currentContext!.findRenderObject()! as RenderRepaintBoundary;
-  final bytes = await tester.runAsync(() async {
+  await tester.runAsync(() async {
     final image = await boundary.toImage(pixelRatio: pixelRatio);
     final data = await image.toByteData(format: ui.ImageByteFormat.png);
     image.dispose();
-    return data!.buffer.asUint8List();
+    final f = File('${Directory.systemTemp.path}/shots/$name.png');
+    f.createSync(recursive: true);
+    f.writeAsBytesSync(data!.buffer.asUint8List());
   });
-  return base64Encode(bytes!);
 }
 
 void main() {
@@ -260,7 +262,7 @@ void main() {
     final langs = only.isEmpty ? Strings.languages : only.split(',');
     final games = {for (final g in hub.hubConfig.allGames) g.gameId: g};
     final built = <String, GeneratedLevel>{};
-    final out = <String, String>{};
+    var count = 0;
     for (final lang in langs) {
       final li = Strings.languages.indexOf(lang);
       for (final tablet in [false, true]) {
@@ -287,15 +289,17 @@ void main() {
           for (var i = 0; i < 8; i++) {
             await tester.pump(const Duration(milliseconds: 150));
           }
-          out['${tablet ? 'tablet' : 'phone'}_${lang}_${k + 1}'] = await _capture(tester, tablet ? 1.5 : 3);
+          await _capture(tester, tablet ? 1.5 : 3, '${tablet ? 'tablet' : 'phone'}_${lang}_${k + 1}');
+          count++;
         }
       }
       await tester.pumpWidget(_app(lang, _offscreen(const Size(512, 250), _feature(lang))));
       await tester.pump(const Duration(milliseconds: 300));
-      out['feature_$lang'] = await _capture(tester, 2);
+      await _capture(tester, 2, 'feature_$lang');
+      count++;
       // Bir sonraki dil için oyun ekranlarını temizle (zamanlayıcılar dursun).
       await tester.pumpWidget(const SizedBox());
     }
-    binding.reportData = {'shots': out};
+    binding.reportData = {'count': count};
   }, timeout: const Timeout(Duration(minutes: 30)));
 }
