@@ -15,6 +15,7 @@ import 'package:studio_core/app/screens/play.dart';
 import 'package:studio_core/core/strings.dart';
 import 'package:studio_core/online/online.dart';
 import 'package:studio_core/online/online_service.dart';
+import 'package:studio_core/online/online_ui.dart';
 
 const _lang = String.fromEnvironment('LANG_UI', defaultValue: 'tr');
 
@@ -135,7 +136,7 @@ void main() {
     });
     await shot('cevrimici_profil');
     await step('profilden don', () async {
-      await tester.pageBack();
+      Navigator.of(tester.element(find.byType(OnlineProfileScreen))).pop();
       await wait();
     });
 
