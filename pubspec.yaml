@@ -1,0 +1,146 @@
+name: merkez_masa_oyunlari
+description: "Masa Oyunları merkez uygulaması. Offline-first Flutter game for Android, iOS and Web."
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Ortak çekirdek: https://github.com/taktemurr-ops/studio-core
+  studio_core:
+    git:
+      url: https://github.com/taktemurr-ops/studio-core
+      ref: 293a3eda102647b57c23e670d800d91b48d32f0b
+  # Merkezdeki oyunlar (her biri kendi deposunda)
+  oyun_xox:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-xox
+      ref: 70a04cbcd528e85ecf4913fb0ac65d1d27e0a732
+  oyun_dortle:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-dortle
+      ref: b530aae703ff1195bae3e4e958a59960a7bf48a6
+  oyun_besleme:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-besleme
+      ref: b89c744c05f37ebbb07192bdc50da97ad3e2435c
+  oyun_reversi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-reversi
+      ref: bc67e4b30ff795b555ba97d4db6ee9d961d39234
+  oyun_hex:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-hex
+      ref: c2c0008226105ea206188d5cdadea74b629efdab
+  oyun_noktalar_ve_kutular:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-noktalar-ve-kutular
+      ref: 7974026defd89727114fb9aa6db66581a8568404
+  oyun_dama:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-dama
+      ref: ce0338b751dcd1ecd6697c2a9029839fd9931173
+  oyun_turk_damasi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-turk-damasi
+      ref: 738a13116e597bcd56c0af8a7e5b8d7f50db5c63
+  oyun_satranc:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-satranc
+      ref: 47b561d7c2ea238f82891d64473c10cb318d3e61
+  oyun_mangala:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-mangala
+      ref: 944facff58a83dea7fbb8fdefb44aa0a5c2288cd
+  oyun_dokuz_tas:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-dokuz-tas
+      ref: 8b604b81315dc4275c013c0d784fbb2b73feff4b
+  oyun_go:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-go
+      ref: 7f01e9e00fe0324ac342ff73ecff2d28295f74b1
+  oyun_tavla:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-tavla
+      ref: 596d8723331529290042c3e49a429c2e2164d692
+  oyun_kizma_birader:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kizma-birader
+      ref: 9fbcd7e71b30a875bc45009e4b94ab5b8b295575
+  oyun_yilan_merdiven:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-yilan-merdiven
+      ref: 88ec8436ff24579e25754c97d74a08cb1f029f63
+  oyun_zar_beslisi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-zar-beslisi
+      ref: dc4bc7aacf60784e3ab0fbe3db45bd2052a71fce
+  oyun_farkle:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-farkle
+      ref: a04fb8f665101e5cfed8cbe532af81202924cbc4
+  oyun_yalanci_zari:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-yalanci-zari
+      ref: 1d4f99843c0b6e390a77690fde08f2bbc846ee05
+  flutter_localizations:
+    sdk: flutter
+  flutter_riverpod: ^2.6.1
+  shared_preferences: ^2.3.2
+  audioplayers: ^6.5.0
+  google_mobile_ads: ^9.2.0
+  in_app_purchase: ^3.2.0
+
+dependency_overrides:
+  # Tüm oyunlar aynı çekirdek ve masa motoru sürümünü kullansın.
+  studio_core:
+    git:
+      url: https://github.com/taktemurr-ops/studio-core
+      ref: 293a3eda102647b57c23e670d800d91b48d32f0b
+  masa_motoru:
+    git:
+      url: https://github.com/taktemurr-ops/masa-motoru
+      ref: 939eff2c81e509c57a51311fcc25f7ec44190fe2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+  flutter_driver:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.1
+  flutter_native_splash: ^2.4.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/sfx/
+    - assets/config/
+    - assets/branding/
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  remove_alpha_ios: true
+  image_path: assets/branding/icon.png
+  adaptive_icon_background: "#283593"
+  adaptive_icon_foreground: assets/branding/icon_foreground.png
+  web:
+    generate: true
+    image_path: assets/branding/icon.png
+    background_color: "#283593"
+    theme_color: "#283593"
+
+flutter_native_splash:
+  color: "#283593"
+  image: assets/branding/splash.png
+  android_12:
+    color: "#283593"
+    image: assets/branding/splash_android12.png
+  web: true
