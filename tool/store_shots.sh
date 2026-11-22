@@ -10,8 +10,8 @@ for ((i = 0; i < ${#ALL[@]}; i += 6)); do
   CHUNK=$(IFS=','; echo "${ALL[*]:i:6}")
   echo "== $CHUNK"
   flutter drive --keep-app-running --driver=test_driver/integration_test.dart --target=integration_test/store_shots_test.dart --dart-define=LANGS="$CHUNK" -d emulator-5554
-  adb exec-out run-as $PKG sh -c 'cd "$(find . -type d -name shots | head -1)" && tar cf - .' > /tmp/shots.tar
+  adb exec-out "run-as $PKG sh -c 'cd /data/data/$PKG && D=\$(find . -type d -name shots 2>/dev/null | head -1) && cd \"\$D\" && tar cf - .'" > /tmp/shots.tar
   tar xf /tmp/shots.tar -C shots/raw
-  adb shell run-as $PKG sh -c 'rm -rf "$(find . -type d -name shots | head -1)"'
+  adb shell "run-as $PKG sh -c 'cd /data/data/$PKG && rm -rf cache/shots \$(find . -type d -name shots 2>/dev/null)'" || true
   ls shots/raw | wc -l
 done
