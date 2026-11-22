@@ -16,6 +16,8 @@ Masa ailesinin **merkez uygulaması**: aynı ailedeki oyunları tek mağaza uygu
 | Mangala | [oyun-mangala](https://github.com/taktemurr-ops/oyun-mangala) |
 | Bilardo | [oyun-bilardo](https://github.com/taktemurr-ops/oyun-bilardo) |
 | Masa Tenisi | [oyun-masa-tenisi](https://github.com/taktemurr-ops/oyun-masa-tenisi) |
+| Hava Hokeyi | [oyun-hava-hokeyi](https://github.com/taktemurr-ops/oyun-hava-hokeyi) |
+| Langırt | [oyun-langirt](https://github.com/taktemurr-ops/oyun-langirt) |
 | Dokuz Taş | [oyun-dokuz-tas](https://github.com/taktemurr-ops/oyun-dokuz-tas) |
 | Go | [oyun-go](https://github.com/taktemurr-ops/oyun-go) |
 | Tavla | [oyun-tavla](https://github.com/taktemurr-ops/oyun-tavla) |

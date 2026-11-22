@@ -13,7 +13,7 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 6d77f85d94ecf720ef9b41305435c012864e66f8
+      ref: c52747c45cd53961c123a3c66a507332676c71c5
   # Merkezdeki oyunlar (her biri kendi deposunda)
   oyun_xox:
     git:
@@ -59,6 +59,14 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-masa-tenisi
       ref: e367bdb1caf6858e39fcc95a3af77cd77f74947c
+  oyun_hava_hokeyi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-hava-hokeyi
+      ref: 838d28878d2b4e9b0b51da37a034ba3db9e615d7
+  oyun_langirt:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-langirt
+      ref: b09e82ec151d1e792fe6a0522154dc09f106d985
   oyun_mangala:
     git:
       url: https://github.com/taktemurr-ops/oyun-mangala
@@ -236,7 +244,7 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 6d77f85d94ecf720ef9b41305435c012864e66f8
+      ref: c52747c45cd53961c123a3c66a507332676c71c5
   masa_motoru:
     git:
       url: https://github.com/taktemurr-ops/masa-motoru

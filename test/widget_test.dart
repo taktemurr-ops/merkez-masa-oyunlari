@@ -18,6 +18,8 @@ void main() {
       'oyun-mangala',
       'oyun-bilardo',
       'oyun-masa-tenisi',
+      'oyun-hava-hokeyi',
+      'oyun-langirt',
       'oyun-dokuz-tas',
       'oyun-go',
       'oyun-tavla',

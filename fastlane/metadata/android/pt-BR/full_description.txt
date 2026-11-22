@@ -1,10 +1,10 @@
-Jogos de Tabuleiro reúne 46 jogos de tabuleiro e 38 variantes num só app, com tabuleiros e peças de design próprio. Clássicos de estratégia como xadrez e damas, gamão e jogos de dados, mancala e jogos rápidos; cada jogo guarda seu progresso, missões e conquistas.
+Jogos de Tabuleiro reúne 48 jogos de tabuleiro e 38 variantes num só app, com tabuleiros e peças de design próprio. Clássicos de estratégia como xadrez e damas, gamão e jogos de dados, mancala e jogos rápidos; cada jogo guarda seu progresso, missões e conquistas.
 
 • Clássicos de estratégia: Xadrez, Damas, Damas turcas, Go, Reversi, Trilha, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Damas Chinesas, Fanorona, Empurra Bolinhas, Corrida de Muros, Batalha Naval, Xadrez Chinês, Xadrez Coreano, Xadrez Japonês
 • Linhas e conexões: Jogo da velha, Quatro em linha, Cinco em linha, Cinco e Captura, Seis em Linha, Hex, Anéis e Pontes, Pontinhos, Canto a Canto
 • Dados e corrida: Gamão, Não se zangue, Cobras e escadas, Cinco dados, Farkle, Dados do mentiroso, Jogo Real de Ur, Senet, Yut, Comércio de Imóveis, Domínio Mundial, Povoados
 • Jogos de pedras: Okey, 101 Okey, Dominó, Mahjong
-• Jogos de habilidade: Bilhar, Tênis de mesa
+• Jogos de habilidade: Bilhar, Tênis de mesa, Air hockey, Pebolim
 • Pacotes de variantes: Variantes de Xadrez (10), Variantes de Damas (8), Jogos de Semeadura (8), Variantes de Gamão (6), Variações de Okey (3), Variações de Mahjong (3)
 
 Destaques

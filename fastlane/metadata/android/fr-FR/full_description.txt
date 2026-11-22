@@ -1,10 +1,10 @@
-Jeux de Société réunit 46 jeux de société et 38 variantes dans une seule appli, avec nos propres plateaux et pièces. Classiques de stratégie comme les échecs et les dames, jacquet et jeux de dés, awélé et jeux rapides ; chaque jeu garde sa progression, ses missions et ses succès.
+Jeux de Société réunit 48 jeux de société et 38 variantes dans une seule appli, avec nos propres plateaux et pièces. Classiques de stratégie comme les échecs et les dames, jacquet et jeux de dés, awélé et jeux rapides ; chaque jeu garde sa progression, ses missions et ses succès.
 
 • Classiques de stratégie: Échecs, Dames anglaises, Dames turques, Go, Reversi, Jeu du moulin, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Dames Chinoises, Fanorona, Pousse-Billes, Course aux Murs, Bataille Navale, Échecs Chinois, Échecs Coréens, Échecs Japonais
 • Lignes et connexions: Morpion, Quatre alignés, Cinq en ligne, Cinq et Capture, Six Alignés, Hex, Anneaux et Ponts, Pipopipette, Coin à Coin
 • Dés et courses: Jacquet, Petits chevaux, Serpents et échelles, Cinq dés, Farkle, Dés menteurs, Jeu Royal d'Ur, Senet, Yut, Commerce Immobilier, Domination Mondiale, Colonies d'Île
 • Jeux de tuiles: Okey, 101 Okey, Dominos, Mahjong
-• Jeux d'adresse: Billard, Tennis de table
+• Jeux d'adresse: Billard, Tennis de table, Air hockey, Baby-foot
 • Packs de variantes: Variantes d\'Échecs (10), Variantes de Dames (8), Jeux de Semailles (8), Variantes de Jacquet (6), Variantes d\'Okey (3), Variantes de Mahjong (3)
 
 Points forts

@@ -20,6 +20,7 @@ import 'package:oyun_farkle/oyun_farkle.dart';
 import 'package:oyun_go/oyun_go.dart';
 import 'package:oyun_halka_ve_kopru/oyun_halka_ve_kopru.dart';
 import 'package:oyun_halma/oyun_halma.dart';
+import 'package:oyun_hava_hokeyi/oyun_hava_hokeyi.dart';
 import 'package:oyun_hex/oyun_hex.dart';
 import 'package:oyun_hnefatafl/oyun_hnefatafl.dart';
 import 'package:oyun_japon_satranci/oyun_japon_satranci.dart';
@@ -27,6 +28,7 @@ import 'package:oyun_kapmali_besleme/oyun_kapmali_besleme.dart';
 import 'package:oyun_kizma_birader/oyun_kizma_birader.dart';
 import 'package:oyun_kore_satranci/oyun_kore_satranci.dart';
 import 'package:oyun_kose_yerlestirme/oyun_kose_yerlestirme.dart';
+import 'package:oyun_langirt/oyun_langirt.dart';
 import 'package:oyun_mahjong/oyun_mahjong.dart';
 import 'package:oyun_mahjong_cesitleri/oyun_mahjong_cesitleri.dart';
 import 'package:oyun_mangala/oyun_mangala.dart';
@@ -142,6 +144,8 @@ final hubConfig = HubConfig(
     mangalaConfig,
     bilardoConfig,
     masaTenisiConfig,
+    havaHokeyiConfig,
+    langirtConfig,
     dokuzTasConfig,
     goConfig,
     tavlaConfig,
@@ -363,7 +367,7 @@ final hubConfig = HubConfig(
           'Trò chơi kỹ năng',
           'Mga larong kasanayan',
         ],
-        ids: ['oyun-bilardo', 'oyun-masa-tenisi']),
+        ids: ['oyun-bilardo', 'oyun-masa-tenisi', 'oyun-hava-hokeyi', 'oyun-langirt']),
   ],
 );
 
