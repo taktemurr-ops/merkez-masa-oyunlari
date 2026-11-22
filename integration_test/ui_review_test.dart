@@ -99,7 +99,17 @@ void main() {
     final tavla = hub.hubConfig.allGames.firstWhere((g) => g.gameId == 'oyun-tavla');
     await step('rehberden tavla', () => tapText(hub.hubConfig.localized(tavla.title, lang)));
     await wait(3000);
+    await shot('oyun_gunluk_sekmesi');
+    await step('ana sayfa sekmesi', () async {
+      await tester.tap(find.byIcon(Icons.home).last);
+      await wait();
+    });
     await shot('oyun_ana_ekran');
+    await step('modlara in', () async {
+      await tester.ensureVisible(find.text(t.t('mode_versus')).last);
+      await wait(400);
+    });
+    await shot('oyun_modlari');
 
     await step('arkadasla oyna', () => tapText(t.t('mode_versus')));
     await wait(2500);
