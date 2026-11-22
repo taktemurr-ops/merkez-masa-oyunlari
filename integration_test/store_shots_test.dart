@@ -236,7 +236,9 @@ Widget _offscreen(Size size, Widget child) => OverflowBox(
       minHeight: 0,
       maxWidth: double.infinity,
       maxHeight: double.infinity,
-      child: RepaintBoundary(key: _shotKey, child: SizedBox(width: size.width, height: size.height, child: child)),
+      child: RepaintBoundary(
+          key: _shotKey,
+          child: SizedBox(width: size.width, height: size.height, child: Material(type: MaterialType.transparency, child: child))),
     );
 
 /// Görseli uygulamanın geçici klasörüne yazar; iş akışı adb ile çeker.
