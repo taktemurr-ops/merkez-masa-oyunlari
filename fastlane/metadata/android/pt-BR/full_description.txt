@@ -8,7 +8,7 @@ Jogos de Tabuleiro reúne 48 jogos de tabuleiro e 38 variantes num só app, com 
 • Pacotes de variantes: Variantes de Xadrez (10), Variantes de Damas (8), Jogos de Semeadura (8), Variantes de Gamão (6), Variações de Okey (3), Variações de Mahjong (3)
 
 Destaques
-• 50.000 níveis por jogo; aberturas e força do rival crescem passo a passo, e uma IA forte verifica cada nível.
+• 100.000 níveis por jogo; aberturas e força do rival crescem passo a passo, e uma IA forte verifica cada nível.
 • Dez degraus de dificuldade: começo tranquilo, depois rivais mestres.
 • Dicas e desfazer; nos jogos de dados, os dados rolam sozinhos.
 • Níveis diários e semanais, missões, conquistas e 33 idiomas.

@@ -8,7 +8,7 @@ Brætspil samler 48 brætspil og 38 varianter i én app med vores eget design af
 • Variantpakker: Skakvarianter (10), Damvarianter (8), Såspil (8), Backgammonvarianter (6), Okeyvarianter (3), Mahjongvarianter (3)
 
 Højdepunkter
-• 50.000 baner pr. spil; åbninger og modstanderens styrke vokser trin for trin, og en stærk AI tjekker hver bane.
+• 100.000 baner pr. spil; åbninger og modstanderens styrke vokser trin for trin, og en stærk AI tjekker hver bane.
 • Ti sværhedstrin: rolige første baner, senere mesterlige modstandere.
 • Tips og fortryd; i terningspil slås der automatisk.
 • Daglige og ugentlige baner, opgaver, præstationer og 33 sprog.

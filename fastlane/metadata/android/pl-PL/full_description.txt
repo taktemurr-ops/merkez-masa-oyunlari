@@ -8,7 +8,7 @@ Gry Planszowe łączy 48 gier planszowych i 38 wariantów w jednej aplikacji, z 
 • Pakiety wariantów: Odmiany Szachów (10), Odmiany Warcabów (8), Gry w Siew (8), Odmiany Tryktraka (6), Odmiany Okey (3), Odmiany Mahjonga (3)
 
 Najważniejsze
-• 50 000 poziomów w każdej grze; otwarcia i siła rywala rosną stopniowo, a każdy poziom sprawdza silna SI.
+• 100 000 poziomów w każdej grze; otwarcia i siła rywala rosną stopniowo, a każdy poziom sprawdza silna SI.
 • Dziesięć stopni trudności: spokojne początki, później mistrzowscy rywale.
 • Podpowiedzi i cofanie; w grach w kości rzut jest automatyczny.
 • Poziomy dzienne i tygodniowe, zadania, osiągnięcia i 33 języki.

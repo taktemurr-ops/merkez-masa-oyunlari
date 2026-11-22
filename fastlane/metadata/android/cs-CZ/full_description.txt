@@ -8,7 +8,7 @@ Deskové hry spojuje 48 deskových her a 38 variant v jedné aplikaci s vlastní
 • Balíčky variant: Šachové Varianty (10), Varianty Dámy (8), Sázecí Hry (8), Varianty Vrhcábů (6), Varianty Okey (3), Varianty Mahjongu (3)
 
 Hlavní přednosti
-• 50 000 úrovní v každé hře; zahájení i síla soupeře rostou postupně a každou úroveň kontroluje silná AI.
+• 100 000 úrovní v každé hře; zahájení i síla soupeře rostou postupně a každou úroveň kontroluje silná AI.
 • Deset stupňů obtížnosti: klidné začátky, později mistrovští soupeři.
 • Nápovědy a vrácení tahu; ve hrách s kostkami se hází automaticky.
 • Denní a týdenní úrovně, úkoly, úspěchy a 33 jazyků.

@@ -8,7 +8,7 @@ Jeux de Société réunit 48 jeux de société et 38 variantes dans une seule ap
 • Packs de variantes: Variantes d\'Échecs (10), Variantes de Dames (8), Jeux de Semailles (8), Variantes de Jacquet (6), Variantes d\'Okey (3), Variantes de Mahjong (3)
 
 Points forts
-• 50 000 niveaux par jeu ; ouvertures et force de l'adversaire progressent pas à pas, chaque niveau est vérifié par une IA forte.
+• 100 000 niveaux par jeu ; ouvertures et force de l'adversaire progressent pas à pas, chaque niveau est vérifié par une IA forte.
 • Dix paliers de difficulté : débuts tranquilles, adversaires maîtres ensuite.
 • Indices et annulation ; aux jeux de dés, les dés se lancent tout seuls.
 • Niveaux quotidiens et hebdomadaires, missions, succès et 33 langues.

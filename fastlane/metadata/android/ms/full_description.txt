@@ -8,7 +8,7 @@ Permainan Papan menghimpunkan 48 permainan papan dan 38 varian dalam satu aplika
 • Pek varian: Ragam Catur (10), Ragam Dam (8), Permainan Menyemai (8), Ragam Backgammon (6), Varian Okey (3), Varian Mahjong (3)
 
 Sorotan
-• 50,000 tahap bagi setiap permainan; pembukaan dan kekuatan lawan meningkat beransur-ansur, dan setiap tahap disemak AI yang kuat.
+• 100,000 tahap bagi setiap permainan; pembukaan dan kekuatan lawan meningkat beransur-ansur, dan setiap tahap disemak AI yang kuat.
 • Sepuluh anak tangga kesukaran: awal yang santai, kemudian lawan sehebat pakar.
 • Petunjuk dan buat asal; dalam permainan dadu, dadu dibaling secara automatik.
 • Tahap harian dan mingguan, misi, pencapaian dan 33 bahasa.

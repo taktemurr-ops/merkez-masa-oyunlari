@@ -8,7 +8,7 @@ Bordspellen brengt 48 bordspellen en 38 varianten samen in één app, met eigen 
 • Variantenpakketten: Schaakvarianten (10), Damvarianten (8), Zaaispellen (8), Backgammonvarianten (6), Okey-varianten (3), Mahjong-varianten (3)
 
 Hoogtepunten
-• 50.000 levels per spel; openingen en sterkte van de tegenstander groeien stap voor stap, en een sterke AI controleert elk level.
+• 100.000 levels per spel; openingen en sterkte van de tegenstander groeien stap voor stap, en een sterke AI controleert elk level.
 • Tien moeilijkheidstreden: rustige eerste levels, later meesterlijke tegenstanders.
 • Hints en ongedaan maken; bij dobbelspellen wordt automatisch gegooid.
 • Dagelijkse en wekelijkse levels, opdrachten, prestaties en 33 talen.

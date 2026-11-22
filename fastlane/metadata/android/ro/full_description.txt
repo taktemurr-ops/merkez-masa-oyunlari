@@ -8,7 +8,7 @@ Jocuri de Societate reunește 48 jocuri de societate și 38 variante într-o sin
 • Pachete de variante: Variante de Șah (10), Variante de Dame (8), Jocuri de Semănat (8), Variante de Table (6), Variante de Okey (3), Variante de Mahjong (3)
 
 Puncte forte
-• 50.000 de niveluri pe joc; deschiderile și forța adversarului cresc treptat, iar fiecare nivel e verificat de o IA puternică.
+• 100.000 de niveluri pe joc; deschiderile și forța adversarului cresc treptat, iar fiecare nivel e verificat de o IA puternică.
 • Zece trepte de dificultate: începuturi relaxate, apoi adversari maeștri.
 • Indicii și anulare; la jocurile cu zaruri, zarurile se dau automat.
 • Niveluri zilnice și săptămânale, misiuni, realizări și 33 de limbi.

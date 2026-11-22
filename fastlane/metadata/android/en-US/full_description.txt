@@ -8,7 +8,7 @@ Board Games brings 48 board games and 38 variants together in one app, with our 
 • Variant packs: Chess Variety (10), Draughts Variety (8), Sowing Games (8), Backgammon Variety (6), Okey Variants (3), Mahjong Variants (3)
 
 Highlights
-• 50,000 levels per game; openings and rival strength grow step by step, and every level is checked by a strong AI.
+• 100,000 levels per game; openings and rival strength grow step by step, and every level is checked by a strong AI.
 • Ten difficulty steps: relaxed early levels, master rivals later.
 • Hints and undo; in dice games the dice roll automatically.
 • Daily and weekly levels, missions, achievements and 33 languages.

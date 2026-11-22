@@ -8,7 +8,7 @@ Társasjátékok 48 társasjátékot és 38 változatot fog össze egy alkalmaz�
 • Változatcsomagok: Sakkváltozatok (10), Dámaváltozatok (8), Vetőjátékok (8), Ostábla-változatok (6), Okey-változatok (3), Mahjong-változatok (3)
 
 Kiemelt
-• Játékonként 50 000 pálya; a megnyitások és az ellenfél ereje fokozatosan nő, minden pályát erős MI ellenőriz.
+• Játékonként 100 000 pálya; a megnyitások és az ellenfél ereje fokozatosan nő, minden pályát erős MI ellenőriz.
 • Tíz nehézségi fokozat: nyugodt kezdés, később mesteri ellenfelek.
 • Tippek és visszavonás; kockajátékokban a dobás automatikus.
 • Napi és heti pályák, küldetések, eredmények és 33 nyelv.

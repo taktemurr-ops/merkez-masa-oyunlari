@@ -13,7 +13,7 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: c52747c45cd53961c123a3c66a507332676c71c5
+      ref: db188da8c48fab4978716e0b52f150e6b52ff09c
   # Merkezdeki oyunlar (her biri kendi deposunda)
   oyun_xox:
     git:
@@ -244,15 +244,15 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: c52747c45cd53961c123a3c66a507332676c71c5
+      ref: db188da8c48fab4978716e0b52f150e6b52ff09c
   masa_motoru:
     git:
       url: https://github.com/taktemurr-ops/masa-motoru
-      ref: 305f92a0eeee20fe60266b5069c9ef361db12593
+      ref: b3eca9f81319a918e0c4c517766f0c5fd5f58751
   kart_motoru:
     git:
       url: https://github.com/taktemurr-ops/kart-motoru
-      ref: 50388ce0778eee1e54d3a0047a42612a40d0344e
+      ref: 11c496247f95033c7aa659abb8adb29056c861ee
 
 dev_dependencies:
   flutter_test:

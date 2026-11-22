@@ -8,7 +8,7 @@ Giochi da Tavolo riunisce 48 giochi da tavolo e 38 varianti in un'unica app, con
 • Pacchetti di varianti: Varianti di Scacchi (10), Varianti di Dama (8), Giochi di Semina (8), Varianti di Backgammon (6), Varianti di Okey (3), Varianti di Mahjong (3)
 
 In evidenza
-• 50.000 livelli per gioco; aperture e forza dell'avversario crescono gradualmente, e un'IA forte verifica ogni livello.
+• 100.000 livelli per gioco; aperture e forza dell'avversario crescono gradualmente, e un'IA forte verifica ogni livello.
 • Dieci gradini di difficoltà: inizi tranquilli, poi avversari maestri.
 • Suggerimenti e annulla; nei giochi di dadi il lancio è automatico.
 • Livelli giornalieri e settimanali, missioni, obiettivi e 33 lingue.

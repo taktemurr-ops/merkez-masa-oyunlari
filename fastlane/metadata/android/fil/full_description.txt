@@ -8,7 +8,7 @@ Pinagsasama ng Mga Larong Board ang 48 larong board at 38 na uri sa iisang app, 
 • Mga pack ng uri: Mga Uri ng Chess (10), Mga Uri ng Dama (8), Mga Larong Pagtatanim (8), Mga Uri ng Backgammon (6), Mga Bersyon ng Okey (3), Mga Bersyon ng Mahjong (3)
 
 Mga tampok
-• 50,000 level bawat laro; tumataas nang paunti-unti ang opening at lakas ng kalaban, at sinusuri ng malakas na AI ang bawat level.
+• 100,000 level bawat laro; tumataas nang paunti-unti ang opening at lakas ng kalaban, at sinusuri ng malakas na AI ang bawat level.
 • Sampung baitang ng hirap: magaan sa umpisa, mga master na kalaban sa huli.
 • May hint at undo; sa mga larong dice, awtomatiko ang hagis.
 • Araw-araw at lingguhang level, misyon, tagumpay at 33 wika.

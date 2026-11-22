@@ -8,7 +8,7 @@ Lautapelit kokoaa 48 lautapeliä ja 38 muunnelmaa yhteen sovellukseen omalla lau
 • Muunnelmapaketit: Shakkimuunnelmat (10), Tammimuunnelmat (8), Kylvöpelit (8), Backgammon-muunnelmat (6), Okey-muunnelmat (3), Mahjong-muunnelmat (3)
 
 Kohokohdat
-• 50 000 tasoa peliä kohden; avaukset ja vastustajan taito kasvavat askel askeleelta, ja vahva tekoäly tarkistaa jokaisen tason.
+• 100 000 tasoa peliä kohden; avaukset ja vastustajan taito kasvavat askel askeleelta, ja vahva tekoäly tarkistaa jokaisen tason.
 • Kymmenen vaikeusporrasta: rauhalliset alkutasot, myöhemmin mestarivastustajat.
 • Vihjeet ja kumoa; noppapeleissä heitto on automaattinen.
 • Päivä- ja viikkotasot, tehtävät, saavutukset ja 33 kieltä.

@@ -8,7 +8,7 @@ Brettspill samler 48 brettspill og 38 varianter i én app, med vårt eget design
 • Variantpakker: Sjakkvarianter (10), Damvarianter (8), Såspill (8), Backgammonvarianter (6), Okeyvarianter (3), Mahjongvarianter (3)
 
 Høydepunkter
-• 50 000 nivåer per spill; åpninger og motstanderens styrke øker trinn for trinn, og en sterk KI sjekker hvert nivå.
+• 100 000 nivåer per spill; åpninger og motstanderens styrke øker trinn for trinn, og en sterk KI sjekker hvert nivå.
 • Ti vanskelighetstrinn: rolige første nivåer, senere mesterlige motstandere.
 • Tips og angre; i terningspill kastes terningene automatisk.
 • Daglige og ukentlige nivåer, oppdrag, prestasjoner og 33 språk.

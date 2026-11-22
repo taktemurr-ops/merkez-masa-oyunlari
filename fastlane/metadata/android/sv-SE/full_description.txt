@@ -8,7 +8,7 @@ Brädspel samlar 48 brädspel och 38 varianter i en app, med egen design av brä
 • Variantpaket: Schackvarianter (10), Damvarianter (8), Såspel (8), Backgammonvarianter (6), Okeyvarianter (3), Mahjongvarianter (3)
 
 Höjdpunkter
-• 50 000 nivåer per spel; öppningar och motståndarens styrka ökar steg för steg, och en stark AI kontrollerar varje nivå.
+• 100 000 nivåer per spel; öppningar och motståndarens styrka ökar steg för steg, och en stark AI kontrollerar varje nivå.
 • Tio svårighetssteg: lugna första nivåer, senare mästerliga motståndare.
 • Tips och ångra; i tärningsspel slås tärningarna automatiskt.
 • Dagliga och veckovisa nivåer, uppdrag, prestationer och 33 språk.

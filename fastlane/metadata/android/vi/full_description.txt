@@ -8,7 +8,7 @@ Trò Chơi Bàn Cờ gom 48 trò chơi bàn cờ và 38 biến thể vào một 
 • Gói biến thể: Các Biến Thể Cờ Vua (10), Các Biến Thể Cờ Đam (8), Trò Chơi Gieo Hạt (8), Các Biến Thể Backgammon (6), Biến thể Okey (3), Biến thể Mạt chược (3)
 
 Điểm nổi bật
-• 50.000 màn mỗi trò; khai cuộc và sức mạnh đối thủ tăng dần, mỗi màn đều được AI mạnh kiểm tra.
+• 100.000 màn mỗi trò; khai cuộc và sức mạnh đối thủ tăng dần, mỗi màn đều được AI mạnh kiểm tra.
 • Mười bậc độ khó: đầu nhẹ nhàng, về sau đối thủ cao thủ.
 • Gợi ý và đi lại; trò xúc xắc tự động gieo.
 • Màn hằng ngày và hằng tuần, nhiệm vụ, thành tích và 33 ngôn ngữ.

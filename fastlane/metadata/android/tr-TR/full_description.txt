@@ -8,7 +8,7 @@ Masa Oyunları, 48 masa oyununu ve 38 çeşidi stüdyonun kendine özgü tahta v
 • Çeşit paketleri: Satranç Çeşitleri (10), Dama Çeşitleri (8), Mangala Çeşitleri (8), Tavla Çeşitleri (6), Okey Çeşitleri (3), Mahjong Çeşitleri (3)
 
 Öne çıkanlar
-• Oyun başına 50.000 bölüm; açılışlar ve rakip gücü adım adım artar, her bölüm güçlü yapay zekâyla denetlenir.
+• Oyun başına 100.000 bölüm; açılışlar ve rakip gücü adım adım artar, her bölüm güçlü yapay zekâyla denetlenir.
 • On zorluk basamağı: ilk bölümlerde rahat, ileride usta rakipler.
 • İpucu ve geri al; zar oyunlarında zarlar otomatik atılır.
 • Günlük ve haftalık bölümler, görevler, başarımlar ve 33 dil.
