@@ -88,9 +88,20 @@ jobs:
         env:
           AD_INT: ${{ secrets.ADMOB_ANDROID_INTERSTITIAL }}
           AD_REW: ${{ secrets.ADMOB_ANDROID_REWARDED }}
+          FB_PROJECT: ${{ secrets.FIREBASE_PROJECT_ID }}
+          FB_KEY: ${{ secrets.FIREBASE_API_KEY }}
+          FB_SENDER: ${{ secrets.FIREBASE_SENDER_ID }}
+          FB_ANDROID: ${{ secrets.FIREBASE_ANDROID_APP_ID }}
+          FB_WEB: ${{ secrets.FIREBASE_WEB_APP_ID }}
         run: |
+          # Çevrimiçi özellikler yalnızca Firebase gizli değişkenleri tanımlıysa açılır.
+          FB=""
+          if [ -n "$FB_PROJECT" ]; then
+            FB="--dart-define=FIREBASE_PROJECT_ID=$FB_PROJECT --dart-define=FIREBASE_API_KEY=$FB_KEY --dart-define=FIREBASE_SENDER_ID=$FB_SENDER --dart-define=FIREBASE_ANDROID_APP_ID=$FB_ANDROID --dart-define=FIREBASE_WEB_APP_ID=$FB_WEB"
+          fi
+          echo "FB_DEFS=$FB" >> "$GITHUB_ENV"
           # Gerçek reklam birimleri yalnızca gizli değişkenler tanımlıysa; yoksa test kimlikleri.
-          DEFS=""
+          DEFS="$FB"
           if [ -n "$AD_INT" ]; then DEFS="$DEFS --dart-define=ADMOB_ANDROID_INTERSTITIAL=$AD_INT"; fi
           if [ -n "$AD_REW" ]; then DEFS="$DEFS --dart-define=ADMOB_ANDROID_REWARDED=$AD_REW"; fi
           # Obfuscated release builds; symbols kept as a private artifact
@@ -104,7 +115,7 @@ jobs:
           done
 
       - name: Web build (also published on GitHub Pages for device testing)
-        run: flutter build web --release --base-href "/merkez-masa-oyunlari/"
+        run: flutter build web --release $FB_DEFS --base-href "/merkez-masa-oyunlari/"
 
       - name: Package web build for GitHub Pages
         if: github.event_name == 'push' && github.ref == 'refs/heads/main'
