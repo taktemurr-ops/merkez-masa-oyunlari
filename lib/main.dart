@@ -129,7 +129,7 @@ final hubConfig = HubConfig(
       'Cờ vua, cờ đam, backgammon và nhiều trò khác trong một ứng dụng',
       'Chess, dama, backgammon at marami pa sa iisang app',
     ],
-  seedColor: const Color(0xFF7A5230),
+  seedColor: const Color(0xFF176846),
   icon: Icons.grid_on_rounded,
   games: [
     xoxConfig,
