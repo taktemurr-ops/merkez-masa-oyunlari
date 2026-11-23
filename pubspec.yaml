@@ -13,7 +13,7 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: bb1aa584c8d81a285087afe2f1b3a4d312147c9c
+      ref: a294dac42548c864eaf25e452a0fba450c7d7f0b
   # Merkezdeki oyunlar (her biri kendi deposunda)
   oyun_xox:
     git:
