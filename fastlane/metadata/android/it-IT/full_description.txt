@@ -4,7 +4,7 @@ Giochi da Tavolo riunisce 48 giochi da tavolo e 38 varianti in un'unica app, con
 • Linee e collegamenti: Tris, Quattro in fila, Cinque in fila, Cinque e Cattura, Sei in Fila, Hex, Anelli e Ponti, Punti e quadrati, Angolo a Angolo
 • Dadi e corse: Backgammon, Non t'arrabbiare, Scale e serpenti, Cinque dadi, Farkle, Dadi del bugiardo, Gioco Reale di Ur, Senet, Yut, Commercio Immobiliare, Dominio del Mondo, Insediamenti
 • Giochi di tessere: Okey, 101 Okey, Domino, Mahjong
-• Giochi d'abilità: Biliardo, Tennistavolo, Air hockey, Calcio balilla
+• Sport da tavolo: Biliardo, Tennistavolo, Air hockey, Calcio balilla
 • Pacchetti di varianti: Varianti di Scacchi (10), Varianti di Dama (8), Giochi di Semina (8), Varianti di Backgammon (6), Varianti di Okey (3), Varianti di Mahjong (3)
 
 In evidenza

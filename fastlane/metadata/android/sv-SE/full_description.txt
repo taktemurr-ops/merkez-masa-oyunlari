@@ -4,7 +4,7 @@ Brädspel samlar 48 brädspel och 38 varianter i en app, med egen design av brä
 • Rader och förbindelser: Tre i rad, Fyra i rad, Fem i rad, Fem och Fånga, Sex i Rad, Hex, Ringar och Broar, Prickar och lådor, Hörn mot Hörn
 • Tärningar och lopp: Backgammon, Fia, Stegar och ormar, Fem tärningar, Farkle, Lögnartärning, Kungliga Spelet från Ur, Senet, Yut, Fastighetshandel, Världsherravälde, Bosättningar
 • Brickspel: Okey, 101 Okey, Domino, Mahjong
-• Skicklighetsspel: Biljard, Bordtennis, Airhockey, Fotbollsspel
+• Bordssporter: Biljard, Bordtennis, Airhockey, Fotbollsspel
 • Variantpaket: Schackvarianter (10), Damvarianter (8), Såspel (8), Backgammonvarianter (6), Okeyvarianter (3), Mahjongvarianter (3)
 
 Höjdpunkter

@@ -4,7 +4,7 @@ Bordspellen brengt 48 bordspellen en 38 varianten samen in één app, met eigen 
 • Lijnen en verbindingen: Boter-kaas-en-eieren, Vier op een rij, Vijf op een rij, Vijf en Vangen, Zes op een Rij, Hex, Ringen en Bruggen, Kamertje verhuren, Hoek aan Hoek
 • Dobbelen en racen: Triktrak, Ludo, Slangen en ladders, Vijf dobbelstenen, Farkle, Leugenaarsdobbelen, Koninklijk Spel van Ur, Senet, Yut, Vastgoedhandel, Wereldheerschappij, Nederzettingen
 • Stenenspellen: Okey, 101 Okey, Domino, Mahjong
-• Behendigheidsspellen: Biljart, Tafeltennis, Airhockey, Tafelvoetbal
+• Tafelsporten: Biljart, Tafeltennis, Airhockey, Tafelvoetbal
 • Variantenpakketten: Schaakvarianten (10), Damvarianten (8), Zaaispellen (8), Backgammonvarianten (6), Okey-varianten (3), Mahjong-varianten (3)
 
 Hoogtepunten

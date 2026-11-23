@@ -4,7 +4,7 @@ Deskové hry spojuje 48 deskových her a 38 variant v jedné aplikaci s vlastní
 • Řady a spojení: Piškvorky 3×3, Čtyři v řadě, Pět v řadě, Pětka a Braní, Šest v Řadě, Hex, Kruhy a Mosty, Tečky a čtverečky, Roh na Roh
 • Kostky a závody: Vrhcáby, Člověče, nezlob se, Hadi a žebříky, Pět kostek, Farkle, Kostky lháře, Královská Hra z Uru, Senet, Jut, Obchod s Nemovitostmi, Nadvláda nad Světem, Osady
 • Hry s kameny: Okey, 101 Okey, Domino, Mahjong
-• Hry na šikovnost: Kulečník, Stolní tenis, Vzdušný hokej, Stolní fotbal
+• Stolní sporty: Kulečník, Stolní tenis, Vzdušný hokej, Stolní fotbal
 • Balíčky variant: Šachové Varianty (10), Varianty Dámy (8), Sázecí Hry (8), Varianty Vrhcábů (6), Varianty Okey (3), Varianty Mahjongu (3)
 
 Hlavní přednosti

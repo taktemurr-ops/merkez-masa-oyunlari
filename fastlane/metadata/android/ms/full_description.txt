@@ -4,7 +4,7 @@ Permainan Papan menghimpunkan 48 permainan papan dan 38 varian dalam satu aplika
 • Garisan dan sambungan: Tic-tac-toe, Empat Sebaris, Lima Sebaris, Lima dan Tangkap, Enam Sebaris, Hex, Cincin dan Jambatan, Titik dan Kotak, Bucu ke Bucu
 • Dadu dan perlumbaan: Backgammon, Jangan Marah, Ular dan Tangga, Lima Dadu, Farkle, Dadu Penipu, Permainan Diraja Ur, Senet, Yut, Dagangan Hartanah, Kuasai Dunia, Bina Penempatan
 • Permainan batu: Okey, 101 Okey, Domino, Mahjong
-• Permainan kemahiran: Biliard, Ping pong, Hoki udara, Bola sepak meja
+• Sukan meja: Biliard, Ping pong, Hoki udara, Bola sepak meja
 • Pek varian: Ragam Catur (10), Ragam Dam (8), Permainan Menyemai (8), Ragam Backgammon (6), Varian Okey (3), Varian Mahjong (3)
 
 Sorotan

@@ -4,7 +4,7 @@ Gry Planszowe łączy 48 gier planszowych i 38 wariantów w jednej aplikacji, z 
 • Linie i połączenia: Kółko i krzyżyk, Cztery w rzędzie, Pięć w rzędzie, Piątka i Bicie, Sześć w Rzędzie, Hex, Pierścienie i Mosty, Kropki i kwadraty, Róg w Róg
 • Kości i wyścigi: Tryktrak, Chińczyk, Węże i drabiny, Pięć kości, Farkle, Kości kłamcy, Królewska Gra z Ur, Senet, Yut, Handel Nieruchomościami, Dominacja nad Światem, Osady
 • Gry z kamieniami: Okey, 101 Okey, Domino, Mahjong
-• Gry zręcznościowe: Bilard, Tenis stołowy, Cymbergaj, Piłkarzyki
+• Sporty stołowe: Bilard, Tenis stołowy, Cymbergaj, Piłkarzyki
 • Pakiety wariantów: Odmiany Szachów (10), Odmiany Warcabów (8), Gry w Siew (8), Odmiany Tryktraka (6), Odmiany Okey (3), Odmiany Mahjonga (3)
 
 Najważniejsze

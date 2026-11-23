@@ -4,7 +4,7 @@ Jeux de Société réunit 48 jeux de société et 38 variantes dans une seule ap
 • Lignes et connexions: Morpion, Quatre alignés, Cinq en ligne, Cinq et Capture, Six Alignés, Hex, Anneaux et Ponts, Pipopipette, Coin à Coin
 • Dés et courses: Jacquet, Petits chevaux, Serpents et échelles, Cinq dés, Farkle, Dés menteurs, Jeu Royal d'Ur, Senet, Yut, Commerce Immobilier, Domination Mondiale, Colonies d'Île
 • Jeux de tuiles: Okey, 101 Okey, Dominos, Mahjong
-• Jeux d'adresse: Billard, Tennis de table, Air hockey, Baby-foot
+• Sports de table: Billard, Tennis de table, Air hockey, Baby-foot
 • Packs de variantes: Variantes d\'Échecs (10), Variantes de Dames (8), Jeux de Semailles (8), Variantes de Jacquet (6), Variantes d\'Okey (3), Variantes de Mahjong (3)
 
 Points forts

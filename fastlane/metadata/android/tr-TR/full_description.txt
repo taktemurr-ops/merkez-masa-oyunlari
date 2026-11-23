@@ -4,7 +4,7 @@ Masa Oyunları, 48 masa oyununu ve 38 çeşidi stüdyonun kendine özgü tahta v
 • Çizgi ve bağlantı: XOX, Dörtle, Beşleme, Kapmalı Beşleme, Altılı Bağ, Hex, Halka ve Köprü, Noktalar ve Kutular, Köşe Yerleştirme
 • Zar ve yarış: Tavla, Kızma Birader, Yılan Merdiven, Zar Beşlisi, Farkle, Yalancı Zarı, Ur Kraliyet Oyunu, Senet, Yut, Emlak Ticareti, Dünya Hâkimiyeti, Yerleşim Kurma
 • Taş oyunları: Okey, 101 Okey, Domino, Mahjong
-• Beceri oyunları: Bilardo, Masa Tenisi, Hava Hokeyi, Langırt
+• Masa sporları: Bilardo, Masa Tenisi, Hava Hokeyi, Langırt
 • Çeşit paketleri: Satranç Çeşitleri (10), Dama Çeşitleri (8), Mangala Çeşitleri (8), Tavla Çeşitleri (6), Okey Çeşitleri (3), Mahjong Çeşitleri (3)
 
 Öne çıkanlar

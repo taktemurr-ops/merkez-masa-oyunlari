@@ -4,7 +4,7 @@ Pinagsasama ng Mga Larong Board ang 48 larong board at 38 na uri sa iisang app, 
 • Linya at koneksyon: Tic-tac-toe, Apat sa Hanay, Lima sa Hanay, Lima at Huli, Anim sa Hanay, Hex, Singsing at Tulay, Tuldok at Kahon, Kanto sa Kanto
 • Dice at karera: Backgammon, Huwag Magalit, Ahas at Hagdan, Limang Dice, Farkle, Dice ng Sinungaling, Maharlikang Laro ng Ur, Senet, Yut, Kalakalan ng Ari-arian, Paghahari sa Mundo, Pagtatayo ng Pamayanan
 • Mga larong tile: Okey, 101 Okey, Domino, Mahjong
-• Mga larong kasanayan: Bilyar, Table tennis, Air hockey, Table football
+• Mga isport sa mesa: Bilyar, Table tennis, Air hockey, Table football
 • Mga pack ng uri: Mga Uri ng Chess (10), Mga Uri ng Dama (8), Mga Larong Pagtatanim (8), Mga Uri ng Backgammon (6), Mga Bersyon ng Okey (3), Mga Bersyon ng Mahjong (3)
 
 Mga tampok
