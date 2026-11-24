@@ -53,7 +53,7 @@ import 'package:oyun_yerlesim_kurma/oyun_yerlesim_kurma.dart';
 import 'package:oyun_yilan_merdiven/oyun_yilan_merdiven.dart';
 import 'package:oyun_yut/oyun_yut.dart';
 import 'package:oyun_zar_beslisi/oyun_zar_beslisi.dart';
-import 'approved_hub.dart';
+import 'package:studio_core/app/hub.dart';
 
 /// Masa Oyunları: aynı ailedeki masa oyunlarını tek uygulamada toplar.
 /// Her oyunun kaydı ve ilerlemesi ayrıdır.
@@ -129,7 +129,7 @@ final hubConfig = HubConfig(
       'Cờ vua, cờ đam, backgammon và nhiều trò khác trong một ứng dụng',
       'Chess, dama, backgammon at marami pa sa iisang app',
     ],
-  seedColor: const Color(0xFF176846),
+  seedColor: const Color(0xFF7A5230),
   icon: Icons.grid_on_rounded,
   games: [
     xoxConfig,
