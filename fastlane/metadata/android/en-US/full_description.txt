@@ -1,10 +1,10 @@
-Board Games brings 48 board games and 38 variants together in one app, with our own board and piece design. Strategy classics like chess and draughts, backgammon and dice games, mancala and quick games; every game keeps its own progress, missions and achievements.
+Board Games brings 50 board games and 38 variants together in one app, with our own board and piece design. Strategy classics like chess and draughts, backgammon and dice games, mancala and quick games; every game keeps its own progress, missions and achievements.
 
 • Strategy classics: Chess, Checkers, Turkish Draughts, Go, Reversi, Nine Men's Morris, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Chinese Checkers, Fanorona, Marble Push, Wall Race, Sea Battle, Chinese Chess, Korean Chess, Japanese Chess
 • Lines and connections: Noughts & Crosses, Four in a Row, Five in a Row, Five & Capture, Six in a Row, Hex, Rings & Bridges, Dots and Boxes, Corner to Corner
-• Dice and racing: Backgammon, Don't Get Angry, Snakes & Ladders, Five Dice, Farkle, Liar's Dice, Royal Game of Ur, Senet, Yut, Property Trade, World Domination, Island Settlements
+• Dice and racing: Backgammon, Don't Get Angry, Snakes & Ladders, Five Dice, Farkle, Liar's Dice, Royal Game of Ur, Senet, Yut, Pachisi, Property Trade, World Domination, Island Settlements
 • Tile games: Okey, 101 Okey, Dominoes, Mahjong
-• Table sports: Pool Billiards, Table Tennis, Air Hockey, Table Football
+• Skill games: Pool Billiards, Table Tennis, Air Hockey, Table Football, Carrom
 • Variant packs: Chess Variety (10), Draughts Variety (8), Sowing Games (8), Backgammon Variety (6), Okey Variants (3), Mahjong Variants (3)
 
 Highlights
@@ -12,7 +12,7 @@ Highlights
 • Ten difficulty steps: relaxed early levels, master rivals later.
 • Hints and undo; in dice games the dice roll automatically.
 • Daily and weekly levels, missions, achievements and 33 languages.
-• Play the computer offline, or join online tables with friends and chat (internet required).
+• Plays offline on phones, tablets and the web.
 • No gambling, betting or 18+ content; dice are just part of the game.
 
 Purchases (such as removing ads) apply to every game in the app.

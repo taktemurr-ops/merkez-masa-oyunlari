@@ -1,10 +1,10 @@
-Brädspel samlar 48 brädspel och 38 varianter i en app, med egen design av brädor och pjäser. Strategiklassiker som schack och dam, backgammon och tärningsspel, mancala och snabba spel; varje spel har egna framsteg, uppdrag och prestationer.
+Brädspel samlar 50 brädspel och 38 varianter i en app, med egen design av brädor och pjäser. Strategiklassiker som schack och dam, backgammon och tärningsspel, mancala och snabba spel; varje spel har egna framsteg, uppdrag och prestationer.
 
 • Strategiklassiker: Schack, Dam, Turkisk dam, Go, Reversi, Kvarn, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Kinaschack, Fanorona, Kulknuff, Muraloppet, Sänka Skepp, Kinesiskt Schack, Koreanskt Schack, Japanskt Schack
 • Rader och förbindelser: Tre i rad, Fyra i rad, Fem i rad, Fem och Fånga, Sex i Rad, Hex, Ringar och Broar, Prickar och lådor, Hörn mot Hörn
-• Tärningar och lopp: Backgammon, Fia, Stegar och ormar, Fem tärningar, Farkle, Lögnartärning, Kungliga Spelet från Ur, Senet, Yut, Fastighetshandel, Världsherravälde, Bosättningar
+• Tärningar och lopp: Backgammon, Fia, Stegar och ormar, Fem tärningar, Farkle, Lögnartärning, Kungliga Spelet från Ur, Senet, Yut, Pachisi, Fastighetshandel, Världsherravälde, Bosättningar
 • Brickspel: Okey, 101 Okey, Domino, Mahjong
-• Bordssporter: Biljard, Bordtennis, Airhockey, Fotbollsspel
+• Skicklighetsspel: Biljard, Bordtennis, Airhockey, Fotbollsspel, Carrom
 • Variantpaket: Schackvarianter (10), Damvarianter (8), Såspel (8), Backgammonvarianter (6), Okeyvarianter (3), Mahjongvarianter (3)
 
 Höjdpunkter
@@ -12,7 +12,7 @@ Höjdpunkter
 • Tio svårighetssteg: lugna första nivåer, senare mästerliga motståndare.
 • Tips och ångra; i tärningsspel slås tärningarna automatiskt.
 • Dagliga och veckovisa nivåer, uppdrag, prestationer och 33 språk.
-• Spela mot datorn offline eller vid onlinebord med vänner och chatt (kräver internet).
+• Spelas offline på mobil, surfplatta och webb.
 • Inget hasardspel, vadslagning eller 18+-innehåll; tärningarna är bara en del av spelet.
 
 Köp (t.ex. reklamfritt) gäller alla spel i appen.

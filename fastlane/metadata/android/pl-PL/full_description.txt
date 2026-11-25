@@ -1,10 +1,10 @@
-Gry Planszowe łączy 48 gier planszowych i 38 wariantów w jednej aplikacji, z własnym projektem plansz i pionów. Klasyka strategii jak szachy i warcaby, tryktrak i gry w kości, mankala i szybkie gry; każda gra ma własne postępy, zadania i osiągnięcia.
+Gry Planszowe łączy 50 gier planszowych i 38 wariantów w jednej aplikacji, z własnym projektem plansz i pionów. Klasyka strategii jak szachy i warcaby, tryktrak i gry w kości, mankala i szybkie gry; każda gra ma własne postępy, zadania i osiągnięcia.
 
 • Klasyka strategii: Szachy, Warcaby, Warcaby tureckie, Go, Reversi, Młynek, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Chińczyk Gwiazda, Fanorona, Spychanie Kulek, Wyścig Murów, Statki, Szachy Chińskie, Szachy Koreańskie, Szachy Japońskie
 • Linie i połączenia: Kółko i krzyżyk, Cztery w rzędzie, Pięć w rzędzie, Piątka i Bicie, Sześć w Rzędzie, Hex, Pierścienie i Mosty, Kropki i kwadraty, Róg w Róg
-• Kości i wyścigi: Tryktrak, Chińczyk, Węże i drabiny, Pięć kości, Farkle, Kości kłamcy, Królewska Gra z Ur, Senet, Yut, Handel Nieruchomościami, Dominacja nad Światem, Osady
+• Kości i wyścigi: Tryktrak, Chińczyk, Węże i drabiny, Pięć kości, Farkle, Kości kłamcy, Królewska Gra z Ur, Senet, Yut, Pachisi, Handel Nieruchomościami, Dominacja nad Światem, Osady
 • Gry z kamieniami: Okey, 101 Okey, Domino, Mahjong
-• Sporty stołowe: Bilard, Tenis stołowy, Cymbergaj, Piłkarzyki
+• Gry zręcznościowe: Bilard, Tenis stołowy, Cymbergaj, Piłkarzyki, Carrom
 • Pakiety wariantów: Odmiany Szachów (10), Odmiany Warcabów (8), Gry w Siew (8), Odmiany Tryktraka (6), Odmiany Okey (3), Odmiany Mahjonga (3)
 
 Najważniejsze
@@ -12,7 +12,7 @@ Najważniejsze
 • Dziesięć stopni trudności: spokojne początki, później mistrzowscy rywale.
 • Podpowiedzi i cofanie; w grach w kości rzut jest automatyczny.
 • Poziomy dzienne i tygodniowe, zadania, osiągnięcia i 33 języki.
-• Graj z komputerem offline albo przy stołach online ze znajomymi i czatem (wymaga internetu).
+• Gra offline na telefonie, tablecie i w przeglądarce.
 • Bez hazardu, zakładów i treści 18+; kości to tylko element gry.
 
 Zakupy (np. brak reklam) obowiązują we wszystkich grach w aplikacji.

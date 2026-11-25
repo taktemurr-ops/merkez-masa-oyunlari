@@ -1,10 +1,10 @@
-Brætspil samler 48 brætspil og 38 varianter i én app med vores eget design af brætter og brikker. Strategiklassikere som skak og dam, backgammon og terningspil, mancala og hurtige spil; hvert spil har sine egne fremskridt, opgaver og præstationer.
+Brætspil samler 50 brætspil og 38 varianter i én app med vores eget design af brætter og brikker. Strategiklassikere som skak og dam, backgammon og terningspil, mancala og hurtige spil; hvert spil har sine egne fremskridt, opgaver og præstationer.
 
 • Strategiklassikere: Skak, Dam, Tyrkisk dam, Go, Reversi, Mølle, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Kinesisk Skak, Fanorona, Kugleskub, Murløbet, Sænke Slagskibe, Kinesisk Skak, Koreansk Skak, Japansk Skak
 • Rækker og forbindelser: Kryds og bolle, Fire på stribe, Fem på stribe, Fem og Fang, Seks på Stribe, Hex, Ringe og Broer, Prikker og kasser, Hjørne mod Hjørne
-• Terninger og kapløb: Backgammon, Ludo, Slanger og stiger, Fem terninger, Farkle, Snydeterninger, Det Kongelige Spil fra Ur, Senet, Yut, Ejendomshandel, Verdensherredømme, Bosættelser
+• Terninger og kapløb: Backgammon, Ludo, Slanger og stiger, Fem terninger, Farkle, Snydeterninger, Det Kongelige Spil fra Ur, Senet, Yut, Pachisi, Ejendomshandel, Verdensherredømme, Bosættelser
 • Brikspil: Okey, 101 Okey, Domino, Mahjong
-• Bordsport: Billard, Bordtennis, Airhockey, Bordfodbold
+• Færdighedsspil: Billard, Bordtennis, Airhockey, Bordfodbold, Carrom
 • Variantpakker: Skakvarianter (10), Damvarianter (8), Såspil (8), Backgammonvarianter (6), Okeyvarianter (3), Mahjongvarianter (3)
 
 Højdepunkter
@@ -12,7 +12,7 @@ Højdepunkter
 • Ti sværhedstrin: rolige første baner, senere mesterlige modstandere.
 • Tips og fortryd; i terningspil slås der automatisk.
 • Daglige og ugentlige baner, opgaver, præstationer og 33 sprog.
-• Spil mod computeren offline eller ved onlineborde med venner og chat (kræver internet).
+• Kan spilles offline på telefon, tablet og web.
 • Ingen hasard, væddemål eller 18+-indhold; terninger er kun en del af spillet.
 
 Køb (fx reklamefri) gælder alle spil i appen.

@@ -159,6 +159,14 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-yut
       ref: 3dae756a626c1087977e1954d6d03b93307c8609
+  oyun_pacisi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-pacisi
+      ref: 6d59392d23c87714de2d1e1d623dbc84c4e9be65
+  oyun_karambol:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-karambol
+      ref: 38d48dbf1560729b6c3a8673c7051a269033da19
   oyun_amiral_batti:
     git:
       url: https://github.com/taktemurr-ops/oyun-amiral-batti
@@ -248,7 +256,7 @@ dependency_overrides:
   masa_motoru:
     git:
       url: https://github.com/taktemurr-ops/masa-motoru
-      ref: 00f23dfe3851af5c565691ce46bedabf1f6c46d9
+      ref: 617a1954bf9dc36e170e01037facbb7072cabb79
   kart_motoru:
     git:
       url: https://github.com/taktemurr-ops/kart-motoru

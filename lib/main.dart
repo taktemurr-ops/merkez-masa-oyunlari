@@ -25,6 +25,7 @@ import 'package:oyun_hex/oyun_hex.dart';
 import 'package:oyun_hnefatafl/oyun_hnefatafl.dart';
 import 'package:oyun_japon_satranci/oyun_japon_satranci.dart';
 import 'package:oyun_kapmali_besleme/oyun_kapmali_besleme.dart';
+import 'package:oyun_karambol/oyun_karambol.dart';
 import 'package:oyun_kizma_birader/oyun_kizma_birader.dart';
 import 'package:oyun_kore_satranci/oyun_kore_satranci.dart';
 import 'package:oyun_kose_yerlestirme/oyun_kose_yerlestirme.dart';
@@ -38,6 +39,7 @@ import 'package:oyun_mermer_itme/oyun_mermer_itme.dart';
 import 'package:oyun_noktalar_ve_kutular/oyun_noktalar_ve_kutular.dart';
 import 'package:oyun_okey/oyun_okey.dart';
 import 'package:oyun_okey_cesitleri/oyun_okey_cesitleri.dart';
+import 'package:oyun_pacisi/oyun_pacisi.dart';
 import 'package:oyun_reversi/oyun_reversi.dart';
 import 'package:oyun_satranc/oyun_satranc.dart';
 import 'package:oyun_satranc_cesitleri/oyun_satranc_cesitleri.dart';
@@ -149,6 +151,7 @@ final hubConfig = HubConfig(
     masaTenisiConfig,
     havaHokeyiConfig,
     langirtConfig,
+    karambolConfig,
     dokuzTasConfig,
     goConfig,
     tavlaConfig,
@@ -171,6 +174,7 @@ final hubConfig = HubConfig(
     urConfig,
     senetConfig,
     yutConfig,
+    pacisiConfig,
     amiralConfig,
     cinSatranciConfig,
     koreSatranciConfig,
@@ -212,6 +216,7 @@ final hubConfig = HubConfig(
     'oyun-hex': GameCover('hexes'),
     'oyun-hnefatafl': GameCover('go', v: 2),
     'oyun-japon-satranci': GameCover('chess'),
+    'oyun-karambol': GameCover('pool', v: 2),
     'oyun-kapmali-besleme': GameCover('xo', v: 2),
     'oyun-kizma-birader': GameCover('race'),
     'oyun-kore-satranci': GameCover('chess', v: 3),
@@ -225,6 +230,7 @@ final hubConfig = HubConfig(
     'oyun-mermer-itme': GameCover('marbles', v: 2),
     'oyun-noktalar-ve-kutular': GameCover('dots'),
     'oyun-okey': GameCover('rack', label: '1,2,3,7,7'),
+    'oyun-pacisi': GameCover('race', v: 2),
     'oyun-okey-cesitleri': GameCover('rack', label: '5,5,5,8,9', v: 2),
     'oyun-reversi': GameCover('reversi'),
     'oyun-satranc': GameCover('chess'),
@@ -354,7 +360,7 @@ final hubConfig = HubConfig(
           'Xúc xắc và đua',
           'Dice at karera',
         ],
-        ids: ['oyun-tavla', 'oyun-tavla-cesitleri', 'oyun-kizma-birader', 'oyun-yilan-merdiven', 'oyun-zar-beslisi', 'oyun-farkle', 'oyun-yalanci-zari', 'oyun-ur', 'oyun-senet', 'oyun-yut', 'oyun-emlak-ticareti', 'oyun-dunya-hakimiyeti', 'oyun-yerlesim-kurma']),
+        ids: ['oyun-tavla', 'oyun-tavla-cesitleri', 'oyun-kizma-birader', 'oyun-yilan-merdiven', 'oyun-zar-beslisi', 'oyun-farkle', 'oyun-yalanci-zari', 'oyun-ur', 'oyun-senet', 'oyun-yut', 'oyun-pacisi', 'oyun-emlak-ticareti', 'oyun-dunya-hakimiyeti', 'oyun-yerlesim-kurma']),
     HubSection(
         title: [
           'Taş oyunları',
@@ -428,7 +434,7 @@ final hubConfig = HubConfig(
           'Thể thao trên bàn',
           'Mga isport sa mesa',
         ],
-        ids: ['oyun-bilardo', 'oyun-masa-tenisi', 'oyun-hava-hokeyi', 'oyun-langirt']),
+        ids: ['oyun-bilardo', 'oyun-masa-tenisi', 'oyun-hava-hokeyi', 'oyun-langirt', 'oyun-karambol']),
   ],
 );
 
