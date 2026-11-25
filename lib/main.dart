@@ -53,7 +53,10 @@ import 'package:oyun_yerlesim_kurma/oyun_yerlesim_kurma.dart';
 import 'package:oyun_yilan_merdiven/oyun_yilan_merdiven.dart';
 import 'package:oyun_yut/oyun_yut.dart';
 import 'package:oyun_zar_beslisi/oyun_zar_beslisi.dart';
+import 'package:studio_core/app/approved_hub.dart';
 import 'package:studio_core/app/hub.dart';
+
+import 'approved_style.dart';
 
 /// Masa Oyunları: aynı ailedeki masa oyunlarını tek uygulamada toplar.
 /// Her oyunun kaydı ve ilerlemesi ayrıdır.
@@ -429,4 +432,4 @@ final hubConfig = HubConfig(
   ],
 );
 
-void main() => bootstrapHub(hubConfig);
+void main() => bootstrapApprovedHub(hubConfig, approvedStyle);
