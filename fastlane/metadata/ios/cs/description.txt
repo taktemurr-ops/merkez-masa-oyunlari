@@ -1,0 +1,18 @@
+Deskové hry spojuje 48 deskových her a 38 variant v jedné aplikaci s vlastním designem desek a figur. Strategická klasika jako šachy a dáma, vrhcáby a hry s kostkami, mankala a rychlé hry; každá hra má vlastní postup, úkoly a úspěchy.
+
+• Strategická klasika: Šachy, Dáma, Turecká dáma, Go, Reversi, Mlýn, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Čínská Dáma, Fanorona, Strkání Kuliček, Závod Zdí, Lodě, Čínské Šachy, Korejské Šachy, Japonské Šachy
+• Řady a spojení: Piškvorky 3×3, Čtyři v řadě, Pět v řadě, Pětka a Braní, Šest v Řadě, Hex, Kruhy a Mosty, Tečky a čtverečky, Roh na Roh
+• Kostky a závody: Vrhcáby, Člověče, nezlob se, Hadi a žebříky, Pět kostek, Farkle, Kostky lháře, Královská Hra z Uru, Senet, Jut, Obchod s Nemovitostmi, Nadvláda nad Světem, Osady
+• Hry s kameny: Okey, 101 Okey, Domino, Mahjong
+• Stolní sporty: Kulečník, Stolní tenis, Vzdušný hokej, Stolní fotbal
+• Balíčky variant: Šachové Varianty (10), Varianty Dámy (8), Sázecí Hry (8), Varianty Vrhcábů (6), Varianty Okey (3), Varianty Mahjongu (3)
+
+Hlavní přednosti
+• 100 000 úrovní v každé hře; zahájení i síla soupeře rostou postupně a každou úroveň kontroluje silná AI.
+• Deset stupňů obtížnosti: klidné začátky, později mistrovští soupeři.
+• Nápovědy a vrácení tahu; ve hrách s kostkami se hází automaticky.
+• Denní a týdenní úrovně, úkoly, úspěchy a 33 jazyků.
+• Hraj proti počítači offline, nebo u online stolů s přáteli a chatem (vyžaduje internet).
+• Žádný hazard, sázky ani obsah 18+; kostky jsou jen součástí hry.
+
+Nákupy (např. bez reklam) platí pro všechny hry v aplikaci.

@@ -1,0 +1,18 @@
+Brettspill samler 48 brettspill og 38 varianter i én app, med vårt eget design av brett og brikker. Strategiklassikere som sjakk og dam, backgammon og terningspill, mancala og raske spill; hvert spill har egen fremgang, oppdrag og prestasjoner.
+
+• Strategiklassikere: Sjakk, Dam, Tyrkisk dam, Go, Reversi, Mølle, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Kinasjakk, Fanorona, Kuleskyv, Murløpet, Sjøslag, Kinesisk Sjakk, Koreansk Sjakk, Japansk Sjakk
+• Rader og forbindelser: Tripp trapp tresko, Fire på rad, Fem på rad, Fem og Fang, Seks på Rad, Hex, Ringer og Broer, Prikker og bokser, Hjørne mot Hjørne
+• Terninger og kappløp: Backgammon, Ludo, Slanger og stiger, Fem terninger, Farkle, Løgnerterning, Det Kongelige Spillet fra Ur, Senet, Yut, Eiendomshandel, Verdensherredømme, Bosetninger
+• Brikkespill: Okey, 101 Okey, Domino, Mahjong
+• Bordsport: Biljard, Bordtennis, Airhockey, Bordfotball
+• Variantpakker: Sjakkvarianter (10), Damvarianter (8), Såspill (8), Backgammonvarianter (6), Okeyvarianter (3), Mahjongvarianter (3)
+
+Høydepunkter
+• 100 000 nivåer per spill; åpninger og motstanderens styrke øker trinn for trinn, og en sterk KI sjekker hvert nivå.
+• Ti vanskelighetstrinn: rolige første nivåer, senere mesterlige motstandere.
+• Tips og angre; i terningspill kastes terningene automatisk.
+• Daglige og ukentlige nivåer, oppdrag, prestasjoner og 33 språk.
+• Spill mot datamaskinen uten nett, eller ved nettbord med venner og chat (krever internett).
+• Ingen pengespill, veddemål eller 18+-innhold; terningene er bare en del av spillet.
+
+Kjøp (f.eks. reklamefritt) gjelder alle spill i appen.

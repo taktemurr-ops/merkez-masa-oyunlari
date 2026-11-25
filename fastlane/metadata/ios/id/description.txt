@@ -1,0 +1,18 @@
+Permainan Papan menghadirkan 48 permainan papan dan 38 varian dalam satu aplikasi, dengan desain papan dan bidak sendiri. Klasik strategi seperti catur dan dam, backgammon dan permainan dadu, congklak dan permainan cepat; setiap permainan punya kemajuan, misi, dan pencapaian sendiri.
+
+• Klasik strategi: Catur, Dam, Dam Turki, Go, Reversi, Sembilan Bidak, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Dam Cina, Fanorona, Dorong Kelereng, Balap Tembok, Perang Laut, Catur Tiongkok, Catur Korea, Catur Jepang
+• Garis dan sambungan: Tic-tac-toe, Empat Sejajar, Lima Sejajar, Lima dan Tangkap, Enam Sebaris, Hex, Cincin dan Jembatan, Titik dan Kotak, Sudut ke Sudut
+• Dadu dan balapan: Backgammon, Jangan Marah, Ular Tangga, Lima Dadu, Farkle, Dadu Pembohong, Permainan Kerajaan Ur, Senet, Yut, Dagang Properti, Kuasai Dunia, Membangun Permukiman
+• Permainan batu: Okey, 101 Okey, Domino, Mahjong
+• Olahraga meja: Biliar, Tenis meja, Air hockey, Sepak bola meja
+• Paket varian: Ragam Catur (10), Ragam Dam (8), Permainan Menabur (8), Ragam Backgammon (6), Varian Okey (3), Varian Mahjong (3)
+
+Sorotan
+• 100.000 level per permainan; pembukaan dan kekuatan lawan naik bertahap, dan setiap level diperiksa AI yang kuat.
+• Sepuluh tingkat kesulitan: awal santai, lalu lawan kelas master.
+• Petunjuk dan urungkan; dalam permainan dadu, dadu dilempar otomatis.
+• Level harian dan mingguan, misi, pencapaian, dan 33 bahasa.
+• Lawan komputer secara offline, atau main di meja online bersama teman dan mengobrol (perlu internet).
+• Tanpa judi, taruhan, atau konten 18+; dadu hanya bagian dari permainan.
+
+Pembelian (seperti hapus iklan) berlaku untuk semua permainan di aplikasi.
