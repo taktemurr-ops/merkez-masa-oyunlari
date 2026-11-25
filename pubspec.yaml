@@ -13,7 +13,7 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: f730839949a9fc1ad4e685a525a41a02d9873757
+      ref: 92d96c2ed9c0ab3fe539aeafcf8c61c3ca8f78ce
   # Merkezdeki oyunlar (her biri kendi deposunda)
   oyun_xox:
     git:
@@ -202,19 +202,19 @@ dependencies:
   oyun_okey:
     git:
       url: https://github.com/taktemurr-ops/oyun-okey
-      ref: 7fed0dc3c8fee6d204db8f7cc25cf1b8ca09fab8
+      ref: 530095d4f5035ed3675f977cec6f7227b0f8084f
   oyun_101_okey:
     git:
       url: https://github.com/taktemurr-ops/oyun-101-okey
-      ref: 40683c76efedd7913d527978761c9803daca2d64
+      ref: 1926d00eef118049bf6ae90b6b17451689bf62fd
   oyun_domino:
     git:
       url: https://github.com/taktemurr-ops/oyun-domino
-      ref: 3e9e29ddc7cb7f41d1d44be45e80d1ee36d7a2cf
+      ref: b5bf1864ffee325c6f2208e5f2ee6b9f956d76fe
   oyun_mahjong:
     git:
       url: https://github.com/taktemurr-ops/oyun-mahjong
-      ref: 16d04461f693b36b0da66b20d9f2a5a5bf4c04d0
+      ref: d50f84ea341cc0aa006ccb53ece1cd17ba09b3a1
   oyun_satranc_cesitleri:
     git:
       url: https://github.com/taktemurr-ops/oyun-satranc-cesitleri
@@ -234,11 +234,11 @@ dependencies:
   oyun_okey_cesitleri:
     git:
       url: https://github.com/taktemurr-ops/oyun-okey-cesitleri
-      ref: b9bf67579b98aa4760380e321fea479ab56b67fb
+      ref: 04fa4cf8dd2431e1b28614f31ad8df38bc3272ae
   oyun_mahjong_cesitleri:
     git:
       url: https://github.com/taktemurr-ops/oyun-mahjong-cesitleri
-      ref: 09920755b6d74dc63f45bd9aa6765bcd5ca2e7a7
+      ref: c5c8b8c455dba6e5aa9aac660022a5d4d9bd7770
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -252,7 +252,7 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: f730839949a9fc1ad4e685a525a41a02d9873757
+      ref: 92d96c2ed9c0ab3fe539aeafcf8c61c3ca8f78ce
   masa_motoru:
     git:
       url: https://github.com/taktemurr-ops/masa-motoru
@@ -260,7 +260,7 @@ dependency_overrides:
   kart_motoru:
     git:
       url: https://github.com/taktemurr-ops/kart-motoru
-      ref: 3f821ae3b526dd1a7fec3dfe3892196e06c804c3
+      ref: 8df498382383bb570352d69c028dad5bb33e16ca
 
 dev_dependencies:
   flutter_test:
