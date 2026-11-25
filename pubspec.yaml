@@ -54,7 +54,7 @@ dependencies:
   oyun_bilardo:
     git:
       url: https://github.com/taktemurr-ops/oyun-bilardo
-      ref: ee0d4d7759314b05f70540a4a2e4a6834eb912e8
+      ref: 232b1220859921b3f7aba69b48ed4fe1bbea96b8
   oyun_masa_tenisi:
     git:
       url: https://github.com/taktemurr-ops/oyun-masa-tenisi
