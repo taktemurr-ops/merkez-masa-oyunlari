@@ -260,7 +260,7 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: aaf7484211f3d39329b07860b54424543d496eed
+      ref: 4c60cae1c80dbec1f4bcd2a559ebf2dbddb8dd01
   masa_motoru:
     git:
       url: https://github.com/taktemurr-ops/masa-motoru
@@ -268,7 +268,7 @@ dependency_overrides:
   kart_motoru:
     git:
       url: https://github.com/taktemurr-ops/kart-motoru
-      ref: fcde6ee00f79f88b53efc4e71c6c65f6a8d2843b
+      ref: d85db23fa44b5403c49c225bfc91370a89d1e195
 
 dev_dependencies:
   flutter_test:
