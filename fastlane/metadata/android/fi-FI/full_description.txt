@@ -1,9 +1,9 @@
-Lautapelit kokoaa 48 lautapeliä ja 38 muunnelmaa yhteen sovellukseen omalla lauta- ja nappulasuunnittelulla. Strategiaklassikot kuten shakki ja tammi, backgammon ja noppapelit, mancala ja pikapelit; jokaisella pelillä on oma edistyminen, tehtävät ja saavutukset.
+Lautapelit kokoaa 53 lautapeliä ja 38 muunnelmaa yhteen sovellukseen omalla lauta- ja nappulasuunnittelulla. Strategiaklassikot kuten shakki ja tammi, backgammon ja noppapelit, mancala ja pikapelit; jokaisella pelillä on oma edistyminen, tehtävät ja saavutukset.
 
-• Strategiaklassikot: Shakki, Tammi, Turkkilainen tammi, Go, Reversi, Mylly, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Kiinanshakki, Fanorona, Kuulatöntö, Muurikisa, Laivanupotus, Kiinalainen Shakki, Korealainen Shakki, Japanilainen Shakki, Shakkitehtävät
-• Rivit ja yhteydet: Ristinolla, Neljän suora, Viiden suora, Viisi ja Kaappaus, Kuusi Riviin, Hex, Renkaat ja Sillat, Pisteet ja laatikot, Kulmasta Kulmaan
-• Nopat ja kilpa: Backgammon, Älä suutu, Käärmeet ja tikkaat, Viisi noppaa, Farkle, Valehtelijan noppa, Urin Kuninkaallinen Peli, Senet, Yut, Pachisi, Kiinteistökauppa, Maailmanvalta, Asutukset
-• Laattapelit: Okey, 101 Okey, Domino, Mahjong
+• Strategiaklassikot: Shakki, Tammi, Turkkilainen tammi, Go, Reversi, Mylly, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Kiinanshakki, Fanorona, Kuulatöntö, Muurikisa, Laivanupotus, Kiinalainen Shakki, Korealainen Shakki, Japanilainen Shakki, Shakkitehtävät, Tiikerit ja vuohet, Piilotetut arvot
+• Rivit ja yhteydet: Ristinolla, Neljän suora, Viiden suora, Viisi ja Kaappaus, Kuusi Riviin, Hex, Renkaat ja Sillat, Pisteet ja laatikot, Kulmasta Kulmaan, Korttiviitonen
+• Nopat ja kilpa: Backgammon, Älä suutu, Käärmeet ja tikkaat, Viisi noppaa, Farkle, Valehtelijan noppa, Urin Kuninkaallinen Peli, Senet, Yut, Pachisi, Kiinteistökauppa, Maailmanvalta, Asutukset, Laattamosaiikki
+• Laattapelit: Okey, 101 Okey, Domino, Mahjong, Pariodomino
 • Taitopelit: Pöytäjalkapallo, Carrom
 • Muunnelmapaketit: Shakkimuunnelmat (10), Tammimuunnelmat (8), Kylvöpelit (8), Backgammon-muunnelmat (6), Okey-muunnelmat (3), Mahjong-muunnelmat (3)
 

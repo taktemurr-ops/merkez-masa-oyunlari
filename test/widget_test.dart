@@ -54,6 +54,11 @@ void main() {
       'oyun-101-okey',
       'oyun-domino',
       'oyun-mahjong',
+      'oyun-kaplan-ve-keciler',
+      'oyun-gizli-rutbeler',
+      'oyun-cini-doseme',
+      'oyun-kartli-besleme',
+      'oyun-domino-esli',
     ]);
     expect(all.length, ids.length + 38);
     expect(all.toSet().length, all.length);

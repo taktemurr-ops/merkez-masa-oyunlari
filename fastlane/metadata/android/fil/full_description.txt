@@ -1,9 +1,9 @@
-Pinagsasama ng Mga Larong Board ang 48 larong board at 38 na uri sa iisang app, gamit ang sarili naming disenyo ng board at piyesa. Mga klasikong estratehiya gaya ng chess at dama, backgammon at mga larong dice, sungka at mabibilis na laro; bawat laro ay may sariling progreso, misyon at tagumpay.
+Pinagsasama ng Mga Larong Board ang 53 larong board at 38 na uri sa iisang app, gamit ang sarili naming disenyo ng board at piyesa. Mga klasikong estratehiya gaya ng chess at dama, backgammon at mga larong dice, sungka at mabibilis na laro; bawat laro ay may sariling progreso, misyon at tagumpay.
 
-• Klasikong estratehiya: Chess, Checkers, Turkish Draughts, Go, Reversi, Siyam na Piyesa, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Chinese Checkers, Fanorona, Tulak ng Holen, Karera ng Pader, Labanan sa Dagat, Chinese Chess, Korean Chess, Japanese Chess, Mga Palaisipan sa Chess
-• Linya at koneksyon: Tic-tac-toe, Apat sa Hanay, Lima sa Hanay, Lima at Huli, Anim sa Hanay, Hex, Singsing at Tulay, Tuldok at Kahon, Kanto sa Kanto
-• Dice at karera: Backgammon, Huwag Magalit, Ahas at Hagdan, Limang Dice, Farkle, Dice ng Sinungaling, Maharlikang Laro ng Ur, Senet, Yut, Pachisi, Kalakalan ng Ari-arian, Paghahari sa Mundo, Pagtatayo ng Pamayanan
-• Mga larong tile: Okey, 101 Okey, Domino, Mahjong
+• Klasikong estratehiya: Chess, Checkers, Turkish Draughts, Go, Reversi, Siyam na Piyesa, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Chinese Checkers, Fanorona, Tulak ng Holen, Karera ng Pader, Labanan sa Dagat, Chinese Chess, Korean Chess, Japanese Chess, Mga Palaisipan sa Chess, Tigre at Kambing, Nakatagong Ranggo
+• Linya at koneksyon: Tic-tac-toe, Apat sa Hanay, Lima sa Hanay, Lima at Huli, Anim sa Hanay, Hex, Singsing at Tulay, Tuldok at Kahon, Kanto sa Kanto, Limang Baraha
+• Dice at karera: Backgammon, Huwag Magalit, Ahas at Hagdan, Limang Dice, Farkle, Dice ng Sinungaling, Maharlikang Laro ng Ur, Senet, Yut, Pachisi, Kalakalan ng Ari-arian, Paghahari sa Mundo, Pagtatayo ng Pamayanan, Mosaikong Tisa
+• Mga larong tile: Okey, 101 Okey, Domino, Mahjong, Domino na Magkapares
 • Mga larong kasanayan: Table football, Carrom
 • Mga pack ng uri: Mga Uri ng Chess (10), Mga Uri ng Dama (8), Mga Larong Pagtatanim (8), Mga Uri ng Backgammon (6), Mga Bersyon ng Okey (3), Mga Bersyon ng Mahjong (3)
 

@@ -1,9 +1,9 @@
-Brettspiele vereint 48 Brettspiele und 38 Varianten in einer App, mit eigenem Brett- und Figurendesign. Strategieklassiker wie Schach und Dame, Backgammon und Würfelspiele, Mancala und schnelle Spiele; jedes Spiel hat eigenen Fortschritt, Aufgaben und Erfolge.
+Brettspiele vereint 53 Brettspiele und 38 Varianten in einer App, mit eigenem Brett- und Figurendesign. Strategieklassiker wie Schach und Dame, Backgammon und Würfelspiele, Mancala und schnelle Spiele; jedes Spiel hat eigenen Fortschritt, Aufgaben und Erfolge.
 
-• Strategieklassiker: Schach, Dame, Türkische Dame, Go, Reversi, Mühle, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Sternhalma, Fanorona, Murmelschubs, Mauerlauf, Seeschlacht, Chinesisches Schach, Koreanisches Schach, Japanisches Schach, Schachrätsel
-• Reihen und Verbindungen: Drei gewinnt, Vier in einer Reihe, Fünf in einer Reihe, Fünf & Fangen, Sechs in einer Reihe, Hex, Ringe & Brücken, Käsekästchen, Ecke an Ecke
-• Würfel und Rennen: Backgammon, Ludo, Leiterspiel, Fünf Würfel, Farkle, Lügenwürfel, Königliches Spiel von Ur, Senet, Yut, Pachisi, Immobilienhandel, Weltherrschaft, Siedlungsbau
-• Steinspiele: Okey, 101 Okey, Domino, Mahjong
+• Strategieklassiker: Schach, Dame, Türkische Dame, Go, Reversi, Mühle, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Sternhalma, Fanorona, Murmelschubs, Mauerlauf, Seeschlacht, Chinesisches Schach, Koreanisches Schach, Japanisches Schach, Schachrätsel, Tiger und Ziegen, Verdeckte Ränge
+• Reihen und Verbindungen: Drei gewinnt, Vier in einer Reihe, Fünf in einer Reihe, Fünf & Fangen, Sechs in einer Reihe, Hex, Ringe & Brücken, Käsekästchen, Ecke an Ecke, Karten-Fünfer
+• Würfel und Rennen: Backgammon, Ludo, Leiterspiel, Fünf Würfel, Farkle, Lügenwürfel, Königliches Spiel von Ur, Senet, Yut, Pachisi, Immobilienhandel, Weltherrschaft, Siedlungsbau, Fliesenmosaik
+• Steinspiele: Okey, 101 Okey, Domino, Mahjong, Partner-Domino
 • Geschicklichkeitsspiele: Tischfußball, Carrom
 • Variantenpakete: Schach-Vielfalt (10), Dame-Vielfalt (8), Saatspiele (8), Backgammon-Vielfalt (6), Okey-Varianten (3), Mahjong-Varianten (3)
 

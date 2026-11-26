@@ -13,7 +13,7 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 199f5120f94f2c2311d885f7bcd1876de93935de
+      ref: aaf7484211f3d39329b07860b54424543d496eed
   # Merkezdeki oyunlar (her biri kendi deposunda)
   oyun_xox:
     git:
@@ -202,7 +202,7 @@ dependencies:
   oyun_domino:
     git:
       url: https://github.com/taktemurr-ops/oyun-domino
-      ref: d850a6f4ccc1300eb5fc1c3089bc8f156bc68b48
+      ref: e4b8f3807957f5cfcc7218efd8f9052962cd2043
   oyun_mahjong:
     git:
       url: https://github.com/taktemurr-ops/oyun-mahjong
@@ -231,6 +231,22 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-mahjong-cesitleri
       ref: 4f5125e3108d8aeeb8180f5911b8ec2ae2c24a39
+  oyun_kaplan_ve_keciler:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kaplan-ve-keciler
+      ref: 7b0b4abc695436220d1f1b9bf4d70e1328333ac8
+  oyun_gizli_rutbeler:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-gizli-rutbeler
+      ref: ff71bffe65514e9ae3e285de89f55558e232c6ea
+  oyun_cini_doseme:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-cini-doseme
+      ref: 5b6cf01531eac6d22b1e938dbfaa9d6495b7e4c6
+  oyun_kartli_besleme:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kartli-besleme
+      ref: 0f9ab1445d8db7563a888fa6a10911c0d66dee60
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -244,7 +260,7 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 199f5120f94f2c2311d885f7bcd1876de93935de
+      ref: aaf7484211f3d39329b07860b54424543d496eed
   masa_motoru:
     git:
       url: https://github.com/taktemurr-ops/masa-motoru

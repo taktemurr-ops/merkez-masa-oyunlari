@@ -6,6 +6,7 @@ import 'package:oyun_amiral_batti/oyun_amiral_batti.dart';
 import 'package:oyun_besleme/oyun_besleme.dart';
 import 'package:oyun_cin_damasi/oyun_cin_damasi.dart';
 import 'package:oyun_cin_satranci/oyun_cin_satranci.dart';
+import 'package:oyun_cini_doseme/oyun_cini_doseme.dart';
 import 'package:oyun_dama/oyun_dama.dart';
 import 'package:oyun_dama_cesitleri/oyun_dama_cesitleri.dart';
 import 'package:oyun_dokuz_tas/oyun_dokuz_tas.dart';
@@ -16,14 +17,17 @@ import 'package:oyun_duvar_yarisi/oyun_duvar_yarisi.dart';
 import 'package:oyun_emlak_ticareti/oyun_emlak_ticareti.dart';
 import 'package:oyun_fanorona/oyun_fanorona.dart';
 import 'package:oyun_farkle/oyun_farkle.dart';
+import 'package:oyun_gizli_rutbeler/oyun_gizli_rutbeler.dart';
 import 'package:oyun_go/oyun_go.dart';
 import 'package:oyun_halka_ve_kopru/oyun_halka_ve_kopru.dart';
 import 'package:oyun_halma/oyun_halma.dart';
 import 'package:oyun_hex/oyun_hex.dart';
 import 'package:oyun_hnefatafl/oyun_hnefatafl.dart';
 import 'package:oyun_japon_satranci/oyun_japon_satranci.dart';
+import 'package:oyun_kaplan_ve_keciler/oyun_kaplan_ve_keciler.dart';
 import 'package:oyun_kapmali_besleme/oyun_kapmali_besleme.dart';
 import 'package:oyun_karambol/oyun_karambol.dart';
+import 'package:oyun_kartli_besleme/oyun_kartli_besleme.dart';
 import 'package:oyun_kizma_birader/oyun_kizma_birader.dart';
 import 'package:oyun_kore_satranci/oyun_kore_satranci.dart';
 import 'package:oyun_kose_yerlestirme/oyun_kose_yerlestirme.dart';
@@ -183,6 +187,11 @@ final hubConfig = HubConfig(
     okey101Config,
     dominoConfig,
     mahjongConfig,
+    kaplanKeciConfig,
+    gizliRutbelerConfig,
+    ciniDosemeConfig,
+    kartliBeslemeConfig,
+    esliDominoConfig,
   ],
   starters: ['oyun-okey', 'oyun-tavla', 'oyun-langirt'],
   groups: [satrancCesitGroup, damaCesitGroup, mangalaCesitGroup, tavlaCesitGroup, okeyCesitGroup, mahjongCesitGroup],
@@ -241,6 +250,11 @@ final hubConfig = HubConfig(
     'oyun-yilan-merdiven': GameCover('mc_yilan'),
     'oyun-yut': GameCover('mc_yut'),
     'oyun-zar-beslisi': GameCover('mc_zarbesli'),
+    'oyun-kaplan-ve-keciler': GameCover('k4_tigergoat'),
+    'oyun-gizli-rutbeler': GameCover('k4_hiddenranks'),
+    'oyun-cini-doseme': GameCover('k4_cini'),
+    'oyun-kartli-besleme': GameCover('k4_cardline'),
+    'oyun-domino-esli': GameCover('k4_partnerdomino'),
   },
   defaultCover: const GameCover('chess'),
   sections: [
@@ -280,7 +294,7 @@ final hubConfig = HubConfig(
           'Kinh điển chiến thuật',
           'Klasikong estratehiya',
         ],
-        ids: ['oyun-satranc', 'oyun-satranc-cesitleri', 'oyun-satranc-bulmacalari', 'oyun-dama-cesitleri', 'oyun-dama', 'oyun-turk-damasi', 'oyun-go', 'oyun-reversi', 'oyun-dokuz-tas', 'oyun-mangala', 'oyun-hnefatafl', 'oyun-alquerque', 'oyun-surakarta', 'oyun-halma', 'oyun-cin-damasi', 'oyun-fanorona', 'oyun-mermer-itme', 'oyun-duvar-yarisi', 'oyun-amiral-batti', 'oyun-cin-satranci', 'oyun-kore-satranci', 'oyun-japon-satranci', 'oyun-mangala-cesitleri']),
+        ids: ['oyun-satranc', 'oyun-satranc-cesitleri', 'oyun-satranc-bulmacalari', 'oyun-dama-cesitleri', 'oyun-dama', 'oyun-turk-damasi', 'oyun-go', 'oyun-reversi', 'oyun-dokuz-tas', 'oyun-mangala', 'oyun-hnefatafl', 'oyun-alquerque', 'oyun-surakarta', 'oyun-halma', 'oyun-cin-damasi', 'oyun-fanorona', 'oyun-mermer-itme', 'oyun-duvar-yarisi', 'oyun-amiral-batti', 'oyun-cin-satranci', 'oyun-kore-satranci', 'oyun-japon-satranci', 'oyun-mangala-cesitleri', 'oyun-kaplan-ve-keciler', 'oyun-gizli-rutbeler']),
     HubSection(
         title: [
           'Çizgi ve bağlantı',
@@ -317,7 +331,7 @@ final hubConfig = HubConfig(
           'Xếp hàng và kết nối',
           'Linya at koneksyon',
         ],
-        ids: ['oyun-xox', 'oyun-dortle', 'oyun-besleme', 'oyun-kapmali-besleme', 'oyun-altili-bag', 'oyun-hex', 'oyun-halka-ve-kopru', 'oyun-noktalar-ve-kutular', 'oyun-kose-yerlestirme']),
+        ids: ['oyun-xox', 'oyun-dortle', 'oyun-besleme', 'oyun-kapmali-besleme', 'oyun-altili-bag', 'oyun-hex', 'oyun-halka-ve-kopru', 'oyun-noktalar-ve-kutular', 'oyun-kose-yerlestirme', 'oyun-kartli-besleme']),
     HubSection(
         title: [
           'Zar ve yarış',
@@ -354,7 +368,7 @@ final hubConfig = HubConfig(
           'Xúc xắc và đua',
           'Dice at karera',
         ],
-        ids: ['oyun-tavla', 'oyun-tavla-cesitleri', 'oyun-kizma-birader', 'oyun-yilan-merdiven', 'oyun-zar-beslisi', 'oyun-farkle', 'oyun-yalanci-zari', 'oyun-ur', 'oyun-senet', 'oyun-yut', 'oyun-pacisi', 'oyun-emlak-ticareti', 'oyun-dunya-hakimiyeti', 'oyun-yerlesim-kurma']),
+        ids: ['oyun-tavla', 'oyun-tavla-cesitleri', 'oyun-kizma-birader', 'oyun-yilan-merdiven', 'oyun-zar-beslisi', 'oyun-farkle', 'oyun-yalanci-zari', 'oyun-ur', 'oyun-senet', 'oyun-yut', 'oyun-pacisi', 'oyun-emlak-ticareti', 'oyun-dunya-hakimiyeti', 'oyun-yerlesim-kurma', 'oyun-cini-doseme']),
     HubSection(
         title: [
           'Taş oyunları',
@@ -391,7 +405,7 @@ final hubConfig = HubConfig(
           'Trò chơi quân',
           'Mga larong tile',
         ],
-        ids: ['oyun-okey', 'oyun-101-okey', 'oyun-domino', 'oyun-mahjong', 'oyun-okey-cesitleri', 'oyun-mahjong-cesitleri']),
+        ids: ['oyun-okey', 'oyun-101-okey', 'oyun-domino', 'oyun-mahjong', 'oyun-okey-cesitleri', 'oyun-mahjong-cesitleri', 'oyun-domino-esli']),
     HubSection(
         title: [
           'Masa sporları',

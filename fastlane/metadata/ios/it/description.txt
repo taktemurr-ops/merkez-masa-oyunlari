@@ -1,9 +1,9 @@
-Giochi da Tavolo riunisce 48 giochi da tavolo e 38 varianti in un'unica app, con tavole e pezzi dal design originale. Classici di strategia come scacchi e dama, backgammon e giochi di dadi, mancala e giochi veloci; ogni gioco ha progressi, missioni e obiettivi propri.
+Giochi da Tavolo riunisce 53 giochi da tavolo e 38 varianti in un'unica app, con tavole e pezzi dal design originale. Classici di strategia come scacchi e dama, backgammon e giochi di dadi, mancala e giochi veloci; ogni gioco ha progressi, missioni e obiettivi propri.
 
-• Classici di strategia: Scacchi, Dama, Dama turca, Go, Reversi, Filetto, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Dama Cinese, Fanorona, Spingi Biglie, Corsa dei Muri, Battaglia Navale, Scacchi Cinesi, Scacchi Coreani, Scacchi Giapponesi, Problemi di scacchi
-• Linee e collegamenti: Tris, Quattro in fila, Cinque in fila, Cinque e Cattura, Sei in Fila, Hex, Anelli e Ponti, Punti e quadrati, Angolo a Angolo
-• Dadi e corse: Backgammon, Non t'arrabbiare, Scale e serpenti, Cinque dadi, Farkle, Dadi del bugiardo, Gioco Reale di Ur, Senet, Yut, Pachisi, Commercio Immobiliare, Dominio del Mondo, Insediamenti
-• Giochi di tessere: Okey, 101 Okey, Domino, Mahjong
+• Classici di strategia: Scacchi, Dama, Dama turca, Go, Reversi, Filetto, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Dama Cinese, Fanorona, Spingi Biglie, Corsa dei Muri, Battaglia Navale, Scacchi Cinesi, Scacchi Coreani, Scacchi Giapponesi, Problemi di scacchi, Tigri e capre, Gradi nascosti
+• Linee e collegamenti: Tris, Quattro in fila, Cinque in fila, Cinque e Cattura, Sei in Fila, Hex, Anelli e Ponti, Punti e quadrati, Angolo a Angolo, Cinque con le carte
+• Dadi e corse: Backgammon, Non t'arrabbiare, Scale e serpenti, Cinque dadi, Farkle, Dadi del bugiardo, Gioco Reale di Ur, Senet, Yut, Pachisi, Commercio Immobiliare, Dominio del Mondo, Insediamenti, Mosaico di piastrelle
+• Giochi di tessere: Okey, 101 Okey, Domino, Mahjong, Domino a coppie
 • Giochi d'abilità: Calcio balilla, Carrom
 • Pacchetti di varianti: Varianti di Scacchi (10), Varianti di Dama (8), Giochi di Semina (8), Varianti di Backgammon (6), Varianti di Okey (3), Varianti di Mahjong (3)
 

@@ -56,6 +56,11 @@ Masa ailesinin **merkez uygulaması**: aynı ailedeki oyunları tek mağaza uygu
 | Tavla Çeşitleri (6) | [oyun-tavla-cesitleri](https://github.com/taktemurr-ops/oyun-tavla-cesitleri) |
 | Okey Çeşitleri (3) | [oyun-okey-cesitleri](https://github.com/taktemurr-ops/oyun-okey-cesitleri) |
 | Mahjong Çeşitleri (3) | [oyun-mahjong-cesitleri](https://github.com/taktemurr-ops/oyun-mahjong-cesitleri) |
+| Kaplan ve Keçiler | [oyun-kaplan-ve-keciler](https://github.com/taktemurr-ops/oyun-kaplan-ve-keciler) |
+| Gizli Rütbeler | [oyun-gizli-rutbeler](https://github.com/taktemurr-ops/oyun-gizli-rutbeler) |
+| Çini Döşeme | [oyun-cini-doseme](https://github.com/taktemurr-ops/oyun-cini-doseme) |
+| Kartlı Beşleme | [oyun-kartli-besleme](https://github.com/taktemurr-ops/oyun-kartli-besleme) |
+| Eşli Domino | [oyun-domino](https://github.com/taktemurr-ops/oyun-domino) (kip) |
 
 Test APK: https://github.com/taktemurr-ops/merkez-masa-oyunlari/releases/download/test/merkez-masa-oyunlari.apk
 
