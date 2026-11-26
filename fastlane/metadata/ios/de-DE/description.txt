@@ -1,6 +1,6 @@
-Brettspiele vereint 47 Brettspiele und 38 Varianten in einer App, mit eigenem Brett- und Figurendesign. Strategieklassiker wie Schach und Dame, Backgammon und Würfelspiele, Mancala und schnelle Spiele; jedes Spiel hat eigenen Fortschritt, Aufgaben und Erfolge.
+Brettspiele vereint 48 Brettspiele und 38 Varianten in einer App, mit eigenem Brett- und Figurendesign. Strategieklassiker wie Schach und Dame, Backgammon und Würfelspiele, Mancala und schnelle Spiele; jedes Spiel hat eigenen Fortschritt, Aufgaben und Erfolge.
 
-• Strategieklassiker: Schach, Dame, Türkische Dame, Go, Reversi, Mühle, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Sternhalma, Fanorona, Murmelschubs, Mauerlauf, Seeschlacht, Chinesisches Schach, Koreanisches Schach, Japanisches Schach
+• Strategieklassiker: Schach, Dame, Türkische Dame, Go, Reversi, Mühle, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Sternhalma, Fanorona, Murmelschubs, Mauerlauf, Seeschlacht, Chinesisches Schach, Koreanisches Schach, Japanisches Schach, Schachrätsel
 • Reihen und Verbindungen: Drei gewinnt, Vier in einer Reihe, Fünf in einer Reihe, Fünf & Fangen, Sechs in einer Reihe, Hex, Ringe & Brücken, Käsekästchen, Ecke an Ecke
 • Würfel und Rennen: Backgammon, Ludo, Leiterspiel, Fünf Würfel, Farkle, Lügenwürfel, Königliches Spiel von Ur, Senet, Yut, Pachisi, Immobilienhandel, Weltherrschaft, Siedlungsbau
 • Steinspiele: Okey, 101 Okey, Domino, Mahjong
@@ -13,6 +13,7 @@ Highlights
 • Tipps und Rückgängig; bei Würfelspielen wird automatisch gewürfelt.
 • Tägliche und wöchentliche Level, Aufgaben, Erfolge und 33 Sprachen.
 • Offline spielbar auf Handy, Tablet und im Web.
+• Schritt-für-Schritt-Tutorials mit betreuter Übungsrunde für Okey, 101 Okey und Mahjong (Riichi, Klassisch, Hongkong).
 • Kein Glücksspiel, keine Wetten, keine Inhalte ab 18; Würfel gehören nur zum Spiel.
 
 Käufe (z. B. ohne Werbung) gelten für alle Spiele der App.

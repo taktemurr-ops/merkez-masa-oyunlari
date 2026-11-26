@@ -1,6 +1,6 @@
-Lautapelit kokoaa 47 lautapeliä ja 38 muunnelmaa yhteen sovellukseen omalla lauta- ja nappulasuunnittelulla. Strategiaklassikot kuten shakki ja tammi, backgammon ja noppapelit, mancala ja pikapelit; jokaisella pelillä on oma edistyminen, tehtävät ja saavutukset.
+Lautapelit kokoaa 48 lautapeliä ja 38 muunnelmaa yhteen sovellukseen omalla lauta- ja nappulasuunnittelulla. Strategiaklassikot kuten shakki ja tammi, backgammon ja noppapelit, mancala ja pikapelit; jokaisella pelillä on oma edistyminen, tehtävät ja saavutukset.
 
-• Strategiaklassikot: Shakki, Tammi, Turkkilainen tammi, Go, Reversi, Mylly, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Kiinanshakki, Fanorona, Kuulatöntö, Muurikisa, Laivanupotus, Kiinalainen Shakki, Korealainen Shakki, Japanilainen Shakki
+• Strategiaklassikot: Shakki, Tammi, Turkkilainen tammi, Go, Reversi, Mylly, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Kiinanshakki, Fanorona, Kuulatöntö, Muurikisa, Laivanupotus, Kiinalainen Shakki, Korealainen Shakki, Japanilainen Shakki, Shakkitehtävät
 • Rivit ja yhteydet: Ristinolla, Neljän suora, Viiden suora, Viisi ja Kaappaus, Kuusi Riviin, Hex, Renkaat ja Sillat, Pisteet ja laatikot, Kulmasta Kulmaan
 • Nopat ja kilpa: Backgammon, Älä suutu, Käärmeet ja tikkaat, Viisi noppaa, Farkle, Valehtelijan noppa, Urin Kuninkaallinen Peli, Senet, Yut, Pachisi, Kiinteistökauppa, Maailmanvalta, Asutukset
 • Laattapelit: Okey, 101 Okey, Domino, Mahjong
@@ -13,6 +13,7 @@ Kohokohdat
 • Vihjeet ja kumoa; noppapeleissä heitto on automaattinen.
 • Päivä- ja viikkotasot, tehtävät, saavutukset ja 33 kieltä.
 • Pelattavissa ilman verkkoa puhelimella, tabletilla ja verkossa.
+• Vaiheittainen opetus ja valmennettu harjoituskäsi: Okey, 101 Okey ja mahjong (Riichi, klassinen, Hongkong).
 • Ei rahapelejä, vedonlyöntiä tai K18-sisältöä; nopat ovat vain osa peliä.
 
 Ostokset (esim. mainoksettomuus) koskevat kaikkia sovelluksen pelejä.

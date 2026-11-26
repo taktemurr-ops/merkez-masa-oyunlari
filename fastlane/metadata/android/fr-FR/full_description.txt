@@ -1,6 +1,6 @@
-Jeux de Société réunit 47 jeux de société et 38 variantes dans une seule appli, avec nos propres plateaux et pièces. Classiques de stratégie comme les échecs et les dames, jacquet et jeux de dés, awélé et jeux rapides ; chaque jeu garde sa progression, ses missions et ses succès.
+Jeux de Société réunit 48 jeux de société et 38 variantes dans une seule appli, avec nos propres plateaux et pièces. Classiques de stratégie comme les échecs et les dames, jacquet et jeux de dés, awélé et jeux rapides ; chaque jeu garde sa progression, ses missions et ses succès.
 
-• Classiques de stratégie: Échecs, Dames anglaises, Dames turques, Go, Reversi, Jeu du moulin, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Dames Chinoises, Fanorona, Pousse-Billes, Course aux Murs, Bataille Navale, Échecs Chinois, Échecs Coréens, Échecs Japonais
+• Classiques de stratégie: Échecs, Dames anglaises, Dames turques, Go, Reversi, Jeu du moulin, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Dames Chinoises, Fanorona, Pousse-Billes, Course aux Murs, Bataille Navale, Échecs Chinois, Échecs Coréens, Échecs Japonais, Problèmes d'échecs
 • Lignes et connexions: Morpion, Quatre alignés, Cinq en ligne, Cinq et Capture, Six Alignés, Hex, Anneaux et Ponts, Pipopipette, Coin à Coin
 • Dés et courses: Jacquet, Petits chevaux, Serpents et échelles, Cinq dés, Farkle, Dés menteurs, Jeu Royal d'Ur, Senet, Yut, Pachisi, Commerce Immobilier, Domination Mondiale, Colonies d'Île
 • Jeux de tuiles: Okey, 101 Okey, Dominos, Mahjong
@@ -13,6 +13,7 @@ Points forts
 • Indices et annulation ; aux jeux de dés, les dés se lancent tout seuls.
 • Niveaux quotidiens et hebdomadaires, missions, succès et 33 langues.
 • Hors ligne sur téléphone, tablette et web.
+• Tutoriels pas à pas avec main d'entraînement guidée pour l'Okey, le 101 Okey et le Mahjong (Riichi, Classique, Hong Kong).
 • Ni jeux d'argent, ni paris, ni contenu 18+ ; les dés font seulement partie du jeu.
 
 Les achats (comme supprimer les pubs) valent pour tous les jeux de l'appli.

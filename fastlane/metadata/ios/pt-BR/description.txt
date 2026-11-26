@@ -1,6 +1,6 @@
-Jogos de Tabuleiro reúne 47 jogos de tabuleiro e 38 variantes num só app, com tabuleiros e peças de design próprio. Clássicos de estratégia como xadrez e damas, gamão e jogos de dados, mancala e jogos rápidos; cada jogo guarda seu progresso, missões e conquistas.
+Jogos de Tabuleiro reúne 48 jogos de tabuleiro e 38 variantes num só app, com tabuleiros e peças de design próprio. Clássicos de estratégia como xadrez e damas, gamão e jogos de dados, mancala e jogos rápidos; cada jogo guarda seu progresso, missões e conquistas.
 
-• Clássicos de estratégia: Xadrez, Damas, Damas turcas, Go, Reversi, Trilha, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Damas Chinesas, Fanorona, Empurra Bolinhas, Corrida de Muros, Batalha Naval, Xadrez Chinês, Xadrez Coreano, Xadrez Japonês
+• Clássicos de estratégia: Xadrez, Damas, Damas turcas, Go, Reversi, Trilha, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Damas Chinesas, Fanorona, Empurra Bolinhas, Corrida de Muros, Batalha Naval, Xadrez Chinês, Xadrez Coreano, Xadrez Japonês, Problemas de xadrez
 • Linhas e conexões: Jogo da velha, Quatro em linha, Cinco em linha, Cinco e Captura, Seis em Linha, Hex, Anéis e Pontes, Pontinhos, Canto a Canto
 • Dados e corrida: Gamão, Não se zangue, Cobras e escadas, Cinco dados, Farkle, Dados do mentiroso, Jogo Real de Ur, Senet, Yut, Pachisi, Comércio de Imóveis, Domínio Mundial, Povoados
 • Jogos de pedras: Okey, 101 Okey, Dominó, Mahjong
@@ -13,6 +13,7 @@ Destaques
 • Dicas e desfazer; nos jogos de dados, os dados rolam sozinhos.
 • Níveis diários e semanais, missões, conquistas e 33 idiomas.
 • Funciona offline no celular, tablet e web.
+• Tutoriais passo a passo com mão de treino guiada para Okey, 101 Okey e Mahjong (Riichi, clássico, Hong Kong).
 • Sem apostas, jogos de azar ou conteúdo +18; os dados são só parte do jogo.
 
 Compras (como remover anúncios) valem para todos os jogos do app.

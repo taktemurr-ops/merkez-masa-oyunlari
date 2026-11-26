@@ -1,6 +1,6 @@
-Bordspellen brengt 47 bordspellen en 38 varianten samen in één app, met eigen ontwerp voor borden en stukken. Strategieklassiekers als schaken en dammen, backgammon en dobbelspellen, mancala en snelle spellen; elk spel heeft eigen voortgang, opdrachten en prestaties.
+Bordspellen brengt 48 bordspellen en 38 varianten samen in één app, met eigen ontwerp voor borden en stukken. Strategieklassiekers als schaken en dammen, backgammon en dobbelspellen, mancala en snelle spellen; elk spel heeft eigen voortgang, opdrachten en prestaties.
 
-• Strategieklassiekers: Schaken, Dammen, Turks dammen, Go, Reversi, Molenspel, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Chinees Dammen, Fanorona, Knikkerduwen, Muurrace, Zeeslag, Chinees Schaken, Koreaans Schaken, Japans Schaken
+• Strategieklassiekers: Schaken, Dammen, Turks dammen, Go, Reversi, Molenspel, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Chinees Dammen, Fanorona, Knikkerduwen, Muurrace, Zeeslag, Chinees Schaken, Koreaans Schaken, Japans Schaken, Schaakpuzzels
 • Lijnen en verbindingen: Boter-kaas-en-eieren, Vier op een rij, Vijf op een rij, Vijf en Vangen, Zes op een Rij, Hex, Ringen en Bruggen, Kamertje verhuren, Hoek aan Hoek
 • Dobbelen en racen: Triktrak, Ludo, Slangen en ladders, Vijf dobbelstenen, Farkle, Leugenaarsdobbelen, Koninklijk Spel van Ur, Senet, Yut, Pachisi, Vastgoedhandel, Wereldheerschappij, Nederzettingen
 • Stenenspellen: Okey, 101 Okey, Domino, Mahjong
@@ -13,6 +13,7 @@ Hoogtepunten
 • Hints en ongedaan maken; bij dobbelspellen wordt automatisch gegooid.
 • Dagelijkse en wekelijkse levels, opdrachten, prestaties en 33 talen.
 • Offline speelbaar op telefoon, tablet en web.
+• Stapsgewijze uitleg met begeleid oefenspel voor Okey, 101 Okey en mahjong (Riichi, klassiek, Hongkong).
 • Geen gokken, wedden of 18+-inhoud; dobbelstenen horen alleen bij het spel.
 
 Aankopen (zoals reclamevrij) gelden voor alle spellen in de app.

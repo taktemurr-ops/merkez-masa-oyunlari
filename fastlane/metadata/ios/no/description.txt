@@ -1,6 +1,6 @@
-Brettspill samler 47 brettspill og 38 varianter i én app, med vårt eget design av brett og brikker. Strategiklassikere som sjakk og dam, backgammon og terningspill, mancala og raske spill; hvert spill har egen fremgang, oppdrag og prestasjoner.
+Brettspill samler 48 brettspill og 38 varianter i én app, med vårt eget design av brett og brikker. Strategiklassikere som sjakk og dam, backgammon og terningspill, mancala og raske spill; hvert spill har egen fremgang, oppdrag og prestasjoner.
 
-• Strategiklassikere: Sjakk, Dam, Tyrkisk dam, Go, Reversi, Mølle, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Kinasjakk, Fanorona, Kuleskyv, Murløpet, Sjøslag, Kinesisk Sjakk, Koreansk Sjakk, Japansk Sjakk
+• Strategiklassikere: Sjakk, Dam, Tyrkisk dam, Go, Reversi, Mølle, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Kinasjakk, Fanorona, Kuleskyv, Murløpet, Sjøslag, Kinesisk Sjakk, Koreansk Sjakk, Japansk Sjakk, Sjakkoppgaver
 • Rader og forbindelser: Tripp trapp tresko, Fire på rad, Fem på rad, Fem og Fang, Seks på Rad, Hex, Ringer og Broer, Prikker og bokser, Hjørne mot Hjørne
 • Terninger og kappløp: Backgammon, Ludo, Slanger og stiger, Fem terninger, Farkle, Løgnerterning, Det Kongelige Spillet fra Ur, Senet, Yut, Pachisi, Eiendomshandel, Verdensherredømme, Bosetninger
 • Brikkespill: Okey, 101 Okey, Domino, Mahjong
@@ -13,6 +13,7 @@ Høydepunkter
 • Tips og angre; i terningspill kastes terningene automatisk.
 • Daglige og ukentlige nivåer, oppdrag, prestasjoner og 33 språk.
 • Kan spilles uten nett på mobil, nettbrett og web.
+• Opplæring steg for steg med øvingsrunde og trener for Okey, 101 Okey og mahjong (Riichi, klassisk, Hongkong).
 • Ingen pengespill, veddemål eller 18+-innhold; terningene er bare en del av spillet.
 
 Kjøp (f.eks. reklamefritt) gjelder alle spill i appen.

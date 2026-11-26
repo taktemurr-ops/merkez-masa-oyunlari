@@ -1,6 +1,6 @@
-Giochi da Tavolo riunisce 47 giochi da tavolo e 38 varianti in un'unica app, con tavole e pezzi dal design originale. Classici di strategia come scacchi e dama, backgammon e giochi di dadi, mancala e giochi veloci; ogni gioco ha progressi, missioni e obiettivi propri.
+Giochi da Tavolo riunisce 48 giochi da tavolo e 38 varianti in un'unica app, con tavole e pezzi dal design originale. Classici di strategia come scacchi e dama, backgammon e giochi di dadi, mancala e giochi veloci; ogni gioco ha progressi, missioni e obiettivi propri.
 
-• Classici di strategia: Scacchi, Dama, Dama turca, Go, Reversi, Filetto, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Dama Cinese, Fanorona, Spingi Biglie, Corsa dei Muri, Battaglia Navale, Scacchi Cinesi, Scacchi Coreani, Scacchi Giapponesi
+• Classici di strategia: Scacchi, Dama, Dama turca, Go, Reversi, Filetto, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Dama Cinese, Fanorona, Spingi Biglie, Corsa dei Muri, Battaglia Navale, Scacchi Cinesi, Scacchi Coreani, Scacchi Giapponesi, Problemi di scacchi
 • Linee e collegamenti: Tris, Quattro in fila, Cinque in fila, Cinque e Cattura, Sei in Fila, Hex, Anelli e Ponti, Punti e quadrati, Angolo a Angolo
 • Dadi e corse: Backgammon, Non t'arrabbiare, Scale e serpenti, Cinque dadi, Farkle, Dadi del bugiardo, Gioco Reale di Ur, Senet, Yut, Pachisi, Commercio Immobiliare, Dominio del Mondo, Insediamenti
 • Giochi di tessere: Okey, 101 Okey, Domino, Mahjong
@@ -13,6 +13,7 @@ In evidenza
 • Suggerimenti e annulla; nei giochi di dadi il lancio è automatico.
 • Livelli giornalieri e settimanali, missioni, obiettivi e 33 lingue.
 • Si gioca offline su telefono, tablet e web.
+• Tutorial passo passo con mano di prova guidata per Okey, 101 Okey e Mahjong (Riichi, classico, Hong Kong).
 • Niente gioco d'azzardo, scommesse o contenuti 18+; i dadi sono solo parte del gioco.
 
 Gli acquisti (come rimuovere la pubblicità) valgono per tutti i giochi dell'app.

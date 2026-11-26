@@ -1,6 +1,6 @@
-Deskové hry spojuje 47 deskových her a 38 variant v jedné aplikaci s vlastním designem desek a figur. Strategická klasika jako šachy a dáma, vrhcáby a hry s kostkami, mankala a rychlé hry; každá hra má vlastní postup, úkoly a úspěchy.
+Deskové hry spojuje 48 deskových her a 38 variant v jedné aplikaci s vlastním designem desek a figur. Strategická klasika jako šachy a dáma, vrhcáby a hry s kostkami, mankala a rychlé hry; každá hra má vlastní postup, úkoly a úspěchy.
 
-• Strategická klasika: Šachy, Dáma, Turecká dáma, Go, Reversi, Mlýn, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Čínská Dáma, Fanorona, Strkání Kuliček, Závod Zdí, Lodě, Čínské Šachy, Korejské Šachy, Japonské Šachy
+• Strategická klasika: Šachy, Dáma, Turecká dáma, Go, Reversi, Mlýn, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Čínská Dáma, Fanorona, Strkání Kuliček, Závod Zdí, Lodě, Čínské Šachy, Korejské Šachy, Japonské Šachy, Šachové úlohy
 • Řady a spojení: Piškvorky 3×3, Čtyři v řadě, Pět v řadě, Pětka a Braní, Šest v Řadě, Hex, Kruhy a Mosty, Tečky a čtverečky, Roh na Roh
 • Kostky a závody: Vrhcáby, Člověče, nezlob se, Hadi a žebříky, Pět kostek, Farkle, Kostky lháře, Královská Hra z Uru, Senet, Jut, Pačísí, Obchod s Nemovitostmi, Nadvláda nad Světem, Osady
 • Hry s kameny: Okey, 101 Okey, Domino, Mahjong
@@ -13,6 +13,7 @@ Hlavní přednosti
 • Nápovědy a vrácení tahu; ve hrách s kostkami se hází automaticky.
 • Denní a týdenní úrovně, úkoly, úspěchy a 33 jazyků.
 • Hraje se offline na telefonu, tabletu i na webu.
+• Výuka krok za krokem s cvičnou hrou s trenérem pro Okey, 101 Okey a mahjong (Riichi, klasický, Hongkong).
 • Žádný hazard, sázky ani obsah 18+; kostky jsou jen součástí hry.
 
 Nákupy (např. bez reklam) platí pro všechny hry v aplikaci.

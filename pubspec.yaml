@@ -13,7 +13,7 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 5eedc912719ebc306e3cd9e5e9b251efe4399105
+      ref: 199f5120f94f2c2311d885f7bcd1876de93935de
   # Merkezdeki oyunlar (her biri kendi deposunda)
   oyun_xox:
     git:
@@ -51,6 +51,10 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-satranc
       ref: e49bf8273583fba306483829e01635feb45a7c50
+  oyun_satranc_bulmacalari:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-satranc-bulmacalari
+      ref: 4d49ee26d04b7d720e3f4f9fefcfe2e4893ae2fd
   oyun_langirt:
     git:
       url: https://github.com/taktemurr-ops/oyun-langirt
@@ -190,11 +194,11 @@ dependencies:
   oyun_okey:
     git:
       url: https://github.com/taktemurr-ops/oyun-okey
-      ref: 7e997e56d25148c2b0ba7ffdc2b78a1463e737d8
+      ref: 46118c0ea967393c3a4d538b47b18ca440829913
   oyun_101_okey:
     git:
       url: https://github.com/taktemurr-ops/oyun-101-okey
-      ref: 2d6727e13356d099ef9d7f95d336f2b72e9fcc9c
+      ref: ac4bb9224423444976290205f9aa2cdacc49c796
   oyun_domino:
     git:
       url: https://github.com/taktemurr-ops/oyun-domino
@@ -202,7 +206,7 @@ dependencies:
   oyun_mahjong:
     git:
       url: https://github.com/taktemurr-ops/oyun-mahjong
-      ref: 94b0780f580fab281f9dc15bd768d2c3ac5a19a4
+      ref: 0fadd7a4e75dd18803da17ca1e3c9a7286853e48
   oyun_satranc_cesitleri:
     git:
       url: https://github.com/taktemurr-ops/oyun-satranc-cesitleri
@@ -222,11 +226,11 @@ dependencies:
   oyun_okey_cesitleri:
     git:
       url: https://github.com/taktemurr-ops/oyun-okey-cesitleri
-      ref: e763ff21d9bdac4893c7e920d21204b27f1c9da9
+      ref: ea256a4e837b7870004146c93d53f3ca02c1569f
   oyun_mahjong_cesitleri:
     git:
       url: https://github.com/taktemurr-ops/oyun-mahjong-cesitleri
-      ref: 6f58eb1f50eb0b715fcca3ce09adff2509443d3a
+      ref: 4f5125e3108d8aeeb8180f5911b8ec2ae2c24a39
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -240,15 +244,15 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 5eedc912719ebc306e3cd9e5e9b251efe4399105
+      ref: 199f5120f94f2c2311d885f7bcd1876de93935de
   masa_motoru:
     git:
       url: https://github.com/taktemurr-ops/masa-motoru
-      ref: 1e066f71039e7593e5e56207a20172f36db894e4
+      ref: b592f8860604dbf636d22dbbef4a9740653de348
   kart_motoru:
     git:
       url: https://github.com/taktemurr-ops/kart-motoru
-      ref: b46506e98b62785013747eb26b4b5f9f22d92872
+      ref: fcde6ee00f79f88b53efc4e71c6c65f6a8d2843b
 
 dev_dependencies:
   flutter_test:

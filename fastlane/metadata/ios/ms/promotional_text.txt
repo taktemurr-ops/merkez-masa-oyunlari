@@ -1,1 +1,1 @@
-47 permainan papan dalam satu aplikasi: catur, dam, backgammon, congkak!
+48 permainan papan dalam satu aplikasi: catur, dam, backgammon, congkak!

@@ -13,6 +13,7 @@ Masa ailesinin **merkez uygulaması**: aynı ailedeki oyunları tek mağaza uygu
 | Dama | [oyun-dama](https://github.com/taktemurr-ops/oyun-dama) |
 | Türk Daması | [oyun-turk-damasi](https://github.com/taktemurr-ops/oyun-turk-damasi) |
 | Satranç | [oyun-satranc](https://github.com/taktemurr-ops/oyun-satranc) |
+| Satranç Bulmacaları | [oyun-satranc-bulmacalari](https://github.com/taktemurr-ops/oyun-satranc-bulmacalari) |
 | Mangala | [oyun-mangala](https://github.com/taktemurr-ops/oyun-mangala) |
 | Langırt | [oyun-langirt](https://github.com/taktemurr-ops/oyun-langirt) |
 | Dokuz Taş | [oyun-dokuz-tas](https://github.com/taktemurr-ops/oyun-dokuz-tas) |
@@ -57,3 +58,5 @@ Masa ailesinin **merkez uygulaması**: aynı ailedeki oyunları tek mağaza uygu
 | Mahjong Çeşitleri (3) | [oyun-mahjong-cesitleri](https://github.com/taktemurr-ops/oyun-mahjong-cesitleri) |
 
 Test APK: https://github.com/taktemurr-ops/merkez-masa-oyunlari/releases/download/test/merkez-masa-oyunlari.apk
+
+Okey, 101 Okey ve Mahjong (Klasik, Riichi, Hong Kong, Üç kişilik) oyunlarının ana ekranında **Öğretici** mod kartı vardır: adım adım dersler, kurallarla denetlenen alıştırmalar ve koçlu alıştırma eli.

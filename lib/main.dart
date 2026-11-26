@@ -39,6 +39,7 @@ import 'package:oyun_okey_cesitleri/oyun_okey_cesitleri.dart';
 import 'package:oyun_pacisi/oyun_pacisi.dart';
 import 'package:oyun_reversi/oyun_reversi.dart';
 import 'package:oyun_satranc/oyun_satranc.dart';
+import 'package:oyun_satranc_bulmacalari/oyun_satranc_bulmacalari.dart';
 import 'package:oyun_satranc_cesitleri/oyun_satranc_cesitleri.dart';
 import 'package:oyun_senet/oyun_senet.dart';
 import 'package:oyun_surakarta/oyun_surakarta.dart';
@@ -143,6 +144,7 @@ final hubConfig = HubConfig(
     damaConfig,
     turkDamasiConfig,
     satrancConfig,
+    satrancBulmacaConfig,
     mangalaConfig,
     langirtConfig,
     karambolConfig,
@@ -225,6 +227,7 @@ final hubConfig = HubConfig(
     'oyun-okey-cesitleri': GameCover('mc_okeycesit'),
     'oyun-reversi': GameCover('reversi'),
     'oyun-satranc': GameCover('mc_satranc'),
+    'oyun-satranc-bulmacalari': GameCover('mc_satrancbulmaca'),
     'oyun-satranc-cesitleri': GameCover('mc_satranccesit'),
     'oyun-senet': GameCover('mc_senet'),
     'oyun-surakarta': GameCover('mc_surakarta'),
@@ -277,7 +280,7 @@ final hubConfig = HubConfig(
           'Kinh điển chiến thuật',
           'Klasikong estratehiya',
         ],
-        ids: ['oyun-satranc', 'oyun-satranc-cesitleri', 'oyun-dama-cesitleri', 'oyun-dama', 'oyun-turk-damasi', 'oyun-go', 'oyun-reversi', 'oyun-dokuz-tas', 'oyun-mangala', 'oyun-hnefatafl', 'oyun-alquerque', 'oyun-surakarta', 'oyun-halma', 'oyun-cin-damasi', 'oyun-fanorona', 'oyun-mermer-itme', 'oyun-duvar-yarisi', 'oyun-amiral-batti', 'oyun-cin-satranci', 'oyun-kore-satranci', 'oyun-japon-satranci', 'oyun-mangala-cesitleri']),
+        ids: ['oyun-satranc', 'oyun-satranc-cesitleri', 'oyun-satranc-bulmacalari', 'oyun-dama-cesitleri', 'oyun-dama', 'oyun-turk-damasi', 'oyun-go', 'oyun-reversi', 'oyun-dokuz-tas', 'oyun-mangala', 'oyun-hnefatafl', 'oyun-alquerque', 'oyun-surakarta', 'oyun-halma', 'oyun-cin-damasi', 'oyun-fanorona', 'oyun-mermer-itme', 'oyun-duvar-yarisi', 'oyun-amiral-batti', 'oyun-cin-satranci', 'oyun-kore-satranci', 'oyun-japon-satranci', 'oyun-mangala-cesitleri']),
     HubSection(
         title: [
           'Çizgi ve bağlantı',

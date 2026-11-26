@@ -1,6 +1,6 @@
-Permainan Papan menghimpunkan 47 permainan papan dan 38 varian dalam satu aplikasi, dengan reka bentuk papan dan buah tersendiri. Klasik strategi seperti catur dan dam, backgammon dan permainan dadu, congkak dan permainan pantas; setiap permainan ada kemajuan, misi dan pencapaian sendiri.
+Permainan Papan menghimpunkan 48 permainan papan dan 38 varian dalam satu aplikasi, dengan reka bentuk papan dan buah tersendiri. Klasik strategi seperti catur dan dam, backgammon dan permainan dadu, congkak dan permainan pantas; setiap permainan ada kemajuan, misi dan pencapaian sendiri.
 
-• Klasik strategi: Catur, Dam, Dam Turki, Go, Reversi, Sembilan Buah, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Dam Cina, Fanorona, Tolak Guli, Lumba Tembok, Perang Laut, Catur Cina, Catur Korea, Catur Jepun
+• Klasik strategi: Catur, Dam, Dam Turki, Go, Reversi, Sembilan Buah, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Dam Cina, Fanorona, Tolak Guli, Lumba Tembok, Perang Laut, Catur Cina, Catur Korea, Catur Jepun, Teka-teki Catur
 • Garisan dan sambungan: Tic-tac-toe, Empat Sebaris, Lima Sebaris, Lima dan Tangkap, Enam Sebaris, Hex, Cincin dan Jambatan, Titik dan Kotak, Bucu ke Bucu
 • Dadu dan perlumbaan: Backgammon, Jangan Marah, Ular dan Tangga, Lima Dadu, Farkle, Dadu Penipu, Permainan Diraja Ur, Senet, Yut, Pachisi, Dagangan Hartanah, Kuasai Dunia, Bina Penempatan
 • Permainan batu: Okey, 101 Okey, Domino, Mahjong
@@ -13,6 +13,7 @@ Sorotan
 • Petunjuk dan buat asal; dalam permainan dadu, dadu dibaling secara automatik.
 • Tahap harian dan mingguan, misi, pencapaian dan 33 bahasa.
 • Boleh dimainkan luar talian di telefon, tablet dan web.
+• Tutorial langkah demi langkah dengan tangan latihan berjurulatih untuk Okey, 101 Okey dan Mahjong (Riichi, Klasik, Hong Kong).
 • Tiada judi, pertaruhan atau kandungan 18+; dadu hanya sebahagian permainan.
 
 Pembelian (seperti buang iklan) terpakai untuk semua permainan dalam aplikasi.

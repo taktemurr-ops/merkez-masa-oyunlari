@@ -1,6 +1,6 @@
-Juegos de Mesa reúne 47 juegos de mesa y 38 variantes en una sola app, con tableros y piezas de diseño propio. Clásicos de estrategia como el ajedrez y las damas, backgammon y juegos de dados, mancala y juegos rápidos; cada juego guarda su progreso, misiones y logros.
+Juegos de Mesa reúne 48 juegos de mesa y 38 variantes en una sola app, con tableros y piezas de diseño propio. Clásicos de estrategia como el ajedrez y las damas, backgammon y juegos de dados, mancala y juegos rápidos; cada juego guarda su progreso, misiones y logros.
 
-• Clásicos de estrategia: Ajedrez, Damas, Damas turcas, Go, Reversi, Juego del molino, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Damas Chinas, Fanorona, Empuja Canicas, Carrera de Muros, Batalla Naval, Ajedrez Chino, Ajedrez Coreano, Ajedrez Japonés
+• Clásicos de estrategia: Ajedrez, Damas, Damas turcas, Go, Reversi, Juego del molino, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Damas Chinas, Fanorona, Empuja Canicas, Carrera de Muros, Batalla Naval, Ajedrez Chino, Ajedrez Coreano, Ajedrez Japonés, Problemas de ajedrez
 • Líneas y conexiones: Tres en raya, Cuatro en línea, Cinco en línea, Cinco y Captura, Seis en Línea, Hex, Anillos y Puentes, Puntos y cajas, Esquina a Esquina
 • Dados y carreras: Backgammon, No te enfades, Serpientes y escaleras, Cinco dados, Farkle, Dados del mentiroso, Juego Real de Ur, Senet, Yut, Pachisi, Comercio de Propiedades, Dominio Mundial, Asentamientos
 • Juegos de fichas: Okey, 101 Okey, Dominó, Mahjong
@@ -13,6 +13,7 @@ Lo más destacado
 • Pistas y deshacer; en los juegos de dados se tira automáticamente.
 • Niveles diarios y semanales, misiones, logros y 33 idiomas.
 • Se juega sin conexión en móvil, tableta y web.
+• Tutoriales paso a paso con mano de práctica guiada para Okey, 101 Okey y Mahjong (Riichi, Clásico, Hong Kong).
 • Sin apuestas, juegos de azar ni contenido +18; los dados son solo parte del juego.
 
 Las compras (como quitar anuncios) valen para todos los juegos de la app.
