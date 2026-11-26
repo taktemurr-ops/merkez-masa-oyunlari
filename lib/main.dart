@@ -4,7 +4,6 @@ import 'package:oyun_alquerque/oyun_alquerque.dart';
 import 'package:oyun_altili_bag/oyun_altili_bag.dart';
 import 'package:oyun_amiral_batti/oyun_amiral_batti.dart';
 import 'package:oyun_besleme/oyun_besleme.dart';
-import 'package:oyun_bilardo/oyun_bilardo.dart';
 import 'package:oyun_cin_damasi/oyun_cin_damasi.dart';
 import 'package:oyun_cin_satranci/oyun_cin_satranci.dart';
 import 'package:oyun_dama/oyun_dama.dart';
@@ -20,7 +19,6 @@ import 'package:oyun_farkle/oyun_farkle.dart';
 import 'package:oyun_go/oyun_go.dart';
 import 'package:oyun_halka_ve_kopru/oyun_halka_ve_kopru.dart';
 import 'package:oyun_halma/oyun_halma.dart';
-import 'package:oyun_hava_hokeyi/oyun_hava_hokeyi.dart';
 import 'package:oyun_hex/oyun_hex.dart';
 import 'package:oyun_hnefatafl/oyun_hnefatafl.dart';
 import 'package:oyun_japon_satranci/oyun_japon_satranci.dart';
@@ -34,7 +32,6 @@ import 'package:oyun_mahjong/oyun_mahjong.dart';
 import 'package:oyun_mahjong_cesitleri/oyun_mahjong_cesitleri.dart';
 import 'package:oyun_mangala/oyun_mangala.dart';
 import 'package:oyun_mangala_cesitleri/oyun_mangala_cesitleri.dart';
-import 'package:oyun_masa_tenisi/oyun_masa_tenisi.dart';
 import 'package:oyun_mermer_itme/oyun_mermer_itme.dart';
 import 'package:oyun_noktalar_ve_kutular/oyun_noktalar_ve_kutular.dart';
 import 'package:oyun_okey/oyun_okey.dart';
@@ -147,9 +144,6 @@ final hubConfig = HubConfig(
     turkDamasiConfig,
     satrancConfig,
     mangalaConfig,
-    bilardoConfig,
-    masaTenisiConfig,
-    havaHokeyiConfig,
     langirtConfig,
     karambolConfig,
     dokuzTasConfig,
@@ -188,7 +182,7 @@ final hubConfig = HubConfig(
     dominoConfig,
     mahjongConfig,
   ],
-  starters: ['oyun-okey', 'oyun-tavla', 'oyun-bilardo'],
+  starters: ['oyun-okey', 'oyun-tavla', 'oyun-langirt'],
   groups: [satrancCesitGroup, damaCesitGroup, mangalaCesitGroup, tavlaCesitGroup, okeyCesitGroup, mahjongCesitGroup],
   covers: const {
     'oyun-101-okey': GameCover('mc_101okey'),
@@ -196,7 +190,6 @@ final hubConfig = HubConfig(
     'oyun-altili-bag': GameCover('mc_altilibag'),
     'oyun-amiral-batti': GameCover('ships'),
     'oyun-besleme': GameCover('mc_besleme'),
-    'oyun-bilardo': GameCover('pool'),
     'oyun-cin-damasi': GameCover('mc_cindama'),
     'oyun-cin-satranci': GameCover('mc_xiangqi'),
     'oyun-dama': GameCover('checkers'),
@@ -212,7 +205,6 @@ final hubConfig = HubConfig(
     'oyun-go': GameCover('go'),
     'oyun-halka-ve-kopru': GameCover('mc_havannah'),
     'oyun-halma': GameCover('mc_halma'),
-    'oyun-hava-hokeyi': GameCover('hockey'),
     'oyun-hex': GameCover('mc_hex'),
     'oyun-hnefatafl': GameCover('mc_hnefatafl'),
     'oyun-japon-satranci': GameCover('mc_shogi'),
@@ -226,7 +218,6 @@ final hubConfig = HubConfig(
     'oyun-mahjong-cesitleri': GameCover('mc_mahjongcesit'),
     'oyun-mangala': GameCover('mancala'),
     'oyun-mangala-cesitleri': GameCover('mc_mangalacesit'),
-    'oyun-masa-tenisi': GameCover('pingpong'),
     'oyun-mermer-itme': GameCover('mc_mermer'),
     'oyun-noktalar-ve-kutular': GameCover('dots'),
     'oyun-okey': GameCover('rack', label: '1,2,3,7,7'),
@@ -434,7 +425,7 @@ final hubConfig = HubConfig(
           'Thể thao trên bàn',
           'Mga isport sa mesa',
         ],
-        ids: ['oyun-bilardo', 'oyun-masa-tenisi', 'oyun-hava-hokeyi', 'oyun-langirt', 'oyun-karambol']),
+        ids: ['oyun-langirt', 'oyun-karambol']),
   ],
 );
 

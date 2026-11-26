@@ -1,10 +1,10 @@
-Juegos de Mesa reúne 50 juegos de mesa y 38 variantes en una sola app, con tableros y piezas de diseño propio. Clásicos de estrategia como el ajedrez y las damas, backgammon y juegos de dados, mancala y juegos rápidos; cada juego guarda su progreso, misiones y logros.
+Juegos de Mesa reúne 47 juegos de mesa y 38 variantes en una sola app, con tableros y piezas de diseño propio. Clásicos de estrategia como el ajedrez y las damas, backgammon y juegos de dados, mancala y juegos rápidos; cada juego guarda su progreso, misiones y logros.
 
 • Clásicos de estrategia: Ajedrez, Damas, Damas turcas, Go, Reversi, Juego del molino, Mangala, Hnefatafl, Alquerque, Surakarta, Halma, Damas Chinas, Fanorona, Empuja Canicas, Carrera de Muros, Batalla Naval, Ajedrez Chino, Ajedrez Coreano, Ajedrez Japonés
 • Líneas y conexiones: Tres en raya, Cuatro en línea, Cinco en línea, Cinco y Captura, Seis en Línea, Hex, Anillos y Puentes, Puntos y cajas, Esquina a Esquina
 • Dados y carreras: Backgammon, No te enfades, Serpientes y escaleras, Cinco dados, Farkle, Dados del mentiroso, Juego Real de Ur, Senet, Yut, Pachisi, Comercio de Propiedades, Dominio Mundial, Asentamientos
 • Juegos de fichas: Okey, 101 Okey, Dominó, Mahjong
-• Juegos de habilidad: Billar, Tenis de mesa, Hockey de aire, Futbolín, Carrom
+• Juegos de habilidad: Futbolín, Carrom
 • Paquetes de variantes: Variantes de Ajedrez (10), Variantes de Damas (8), Juegos de Siembra (8), Variantes de Backgammon (6), Variantes de Okey (3), Variantes de Mahjong (3)
 
 Lo más destacado

@@ -51,18 +51,6 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-satranc
       ref: 41ee01342191cf30d8939d120e2f802b6efcd1a3
-  oyun_bilardo:
-    git:
-      url: https://github.com/taktemurr-ops/oyun-bilardo
-      ref: 232b1220859921b3f7aba69b48ed4fe1bbea96b8
-  oyun_masa_tenisi:
-    git:
-      url: https://github.com/taktemurr-ops/oyun-masa-tenisi
-      ref: 4a7e3adc2fcc040811ede15bdb195f4c42d14ed5
-  oyun_hava_hokeyi:
-    git:
-      url: https://github.com/taktemurr-ops/oyun-hava-hokeyi
-      ref: 3345d3d7eed3809c4eeeec122eea696b6f2d09bb
   oyun_langirt:
     git:
       url: https://github.com/taktemurr-ops/oyun-langirt
