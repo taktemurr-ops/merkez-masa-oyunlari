@@ -264,11 +264,11 @@ dependency_overrides:
   masa_motoru:
     git:
       url: https://github.com/taktemurr-ops/masa-motoru
-      ref: b592f8860604dbf636d22dbbef4a9740653de348
+      ref: ac16875ef09951e5967719a15e5a89a3ad912555
   kart_motoru:
     git:
       url: https://github.com/taktemurr-ops/kart-motoru
-      ref: 9844a15f23a57f07f2b76d9d5350ab5d4066c1cc
+      ref: 61d4a5299c6bb34fe065545ea1295dcc2ac93ccb
 
 dev_dependencies:
   flutter_test:
